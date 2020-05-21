@@ -1,0 +1,22 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+a4e46b7a567fb807c635b113a8e17aa5cc535b4d,README.md,None,README.md,ADD,None,2,0,None,None,2018-07-19 12:04:25-07:00,None,None,None
+ad989bf73d1c56ba8a18b42eed6265d8126f8875,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,6,0,None,None,2018-07-19 12:04:26-07:00,None,None,None
+1d0bc42fd369bcd39030cb76c33585938558e96e,LICENSE,None,LICENSE,ADD,None,14,0,None,None,2018-07-19 12:04:27-07:00,None,None,None
+c91f3db087ae5b0fa3a7eb7ddf94cc9b5e5ebb02,README.md,README.md,README.md,MODIFY,None,6,1,None,None,2018-07-19 12:04:28-07:00,None,None,None
+a25867dbc8c117d2da10cad23275d9e0f07e058c,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2018-07-19 12:04:28-07:00,None,None,None
+ebedf88d3dd21500953cb608c7ef1c9e718766a0,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2018-07-19 12:04:29-07:00,None,None,None
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,.classpath,None,.classpath,ADD,None,36,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,.project,None,.project,ADD,None,23,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,org.eclipse.jdt.core.prefs,None,.settings/org.eclipse.jdt.core.prefs,ADD,None,5,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,org.eclipse.m2e.core.prefs,None,.settings/org.eclipse.m2e.core.prefs,ADD,None,4,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,pom.xml,None,pom.xml,ADD,None,34,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,SQLJobApp.java,None,src/main/java/sqljobstepfunction/SQLJobApp.java,ADD,83,117,0,579,13,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,MANIFEST.MF,None,target/classes/META-INF/MANIFEST.MF,ADD,None,5,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,pom.properties,None,target/classes/META-INF/maven/com.amazonaws/sqljobstepfunction/pom.properties,ADD,None,7,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,pom.xml,None,target/classes/META-INF/maven/com.amazonaws/sqljobstepfunction/pom.xml,ADD,None,34,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,CredentialManager.class,target/classes/sqljobstepfunction/CredentialManager.class,target/classes/sqljobstepfunction/CredentialManager.class,ADD,None,0,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+25cd125dc74fd18b791ecf5294177cfeef4b9c9b,SQLJobApp.class,target/classes/sqljobstepfunction/SQLJobApp.class,target/classes/sqljobstepfunction/SQLJobApp.class,ADD,None,0,0,None,None,2018-08-24 02:55:52-04:00,0.0,0.0,1.0
+27af5cfa560cdb5ffd4ad7317c4b5d7a546847c8,StepFunctionCloudFormation.yml,None,StepFunctionCloudFormation.yml,ADD,None,116,0,None,None,2018-08-24 02:55:52-04:00,None,None,None
+f56632857d552702f0294010a2ee2f66fc4d8702,.classpath,.classpath,.classpath,MODIFY,None,0,16,None,None,2018-08-24 03:27:41-04:00,None,None,None
+26d2a7bdabb03b0392bdd5baede82778442c13c8,StepFunctionCloudFormation.yml,StepFunctionCloudFormation.yml,StepFunctionCloudFormation.yml,MODIFY,None,1,1,None,None,2020-04-03 15:57:45-05:00,None,None,None
+976aec688f89c92e64f1c1a1e19cbd7ae527f6bf,StepFunctionCloudFormation.yml,StepFunctionCloudFormation.yml,StepFunctionCloudFormation.yml,MODIFY,None,32,40,None,None,2020-05-11 14:53:48-05:00,None,None,None

@@ -1,0 +1,8 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+3ce8e2684f4271d62b4939cdca8d861becfaf8f7,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2020-01-21 11:53:20-08:00,None,None,None
+3ce8e2684f4271d62b4939cdca8d861becfaf8f7,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2020-01-21 11:53:20-08:00,None,None,None
+3ce8e2684f4271d62b4939cdca8d861becfaf8f7,LICENSE,None,LICENSE,ADD,None,15,0,None,None,2020-01-21 11:53:20-08:00,None,None,None
+3ce8e2684f4271d62b4939cdca8d861becfaf8f7,README.md,None,README.md,ADD,None,13,0,None,None,2020-01-21 11:53:20-08:00,None,None,None
+3d24eecdf601c36194718e77fbc513dd7ca81301,README.md,README.md,README.md,MODIFY,None,67,5,None,None,2020-01-21 15:17:18-05:00,None,None,None
+4e4450926fd4a5a8fe7aecddd0786a2dccbab13c,pom.xml,None,pom.xml,ADD,None,38,0,None,None,2020-01-21 15:40:26-05:00,0.03278688524590164,0.03278688524590164,1.0
+4e4450926fd4a5a8fe7aecddd0786a2dccbab13c,RDSCAUpdate.java,None,src/main/java/com/amazonaws/rdscaupdate/RDSCAUpdate.java,ADD,188,266,0,1511,31,2020-01-21 15:40:26-05:00,0.03278688524590164,0.03278688524590164,1.0

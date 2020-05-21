@@ -1,0 +1,23 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+492eb6796c679607301238c77a6c67fab95a6658,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2020-04-30 18:30:17-07:00,None,None,None
+492eb6796c679607301238c77a6c67fab95a6658,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2020-04-30 18:30:17-07:00,None,None,None
+492eb6796c679607301238c77a6c67fab95a6658,LICENSE,None,LICENSE,ADD,None,15,0,None,None,2020-04-30 18:30:17-07:00,None,None,None
+492eb6796c679607301238c77a6c67fab95a6658,README.md,None,README.md,ADD,None,13,0,None,None,2020-04-30 18:30:17-07:00,None,None,None
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,README.md,README.md,README.md,MODIFY,None,18,5,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,.gitignore,None,cdk/.gitignore,ADD,None,12,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,README.md,None,cdk/README.md,ADD,None,18,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,cdk.context.json,None,cdk/cdk.context.json,ADD,None,4,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,cdk.json,None,cdk/cdk.json,ADD,None,3,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,pom.xml,None,cdk/pom.xml,ADD,None,113,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,CdkApp.java,None,cdk/src/main/java/com/amazon/aws/prototyping/CdkApp.java,ADD,9,13,0,60,1,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,CdkStack.java,None,cdk/src/main/java/com/amazon/aws/prototyping/CdkStack.java,ADD,177,210,0,2292,12,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,CdkTest.java,None,cdk/src/test/java/com/amazon/aws/prototyping/CdkTest.java,ADD,19,29,0,173,1,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,pom.xml,None,lambda/pom.xml,ADD,None,111,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,AbstractFunction.java,None,lambda/src/main/java/com/amazon/aws/prototyping/AbstractFunction.java,ADD,10,12,0,66,1,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,DynamoDBFunction.java,None,lambda/src/main/java/com/amazon/aws/prototyping/DynamoDBFunction.java,ADD,67,79,0,676,5,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,EC2Function.java,None,lambda/src/main/java/com/amazon/aws/prototyping/EC2Function.java,ADD,31,43,0,337,2,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,HttpFunction.java,None,lambda/src/main/java/com/amazon/aws/prototyping/HttpFunction.java,ADD,45,56,0,383,6,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,JdbcFunction.java,None,lambda/src/main/java/com/amazon/aws/prototyping/JdbcFunction.java,ADD,76,90,0,653,9,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,JsonFunction.java,None,lambda/src/main/java/com/amazon/aws/prototyping/JsonFunction.java,ADD,39,49,0,351,4,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,S3Function.java,None,lambda/src/main/java/com/amazon/aws/prototyping/S3Function.java,ADD,36,50,0,321,4,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059
+d40c9c2fd59b32f68217d9cbff38d4d958121c1d,log4j.properties,None,lambda/src/main/resources/log4j.properties,ADD,None,6,0,None,None,2020-05-01 11:39:33+09:00,0.5235294117647059,1.0,0.9235294117647059

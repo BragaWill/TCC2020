@@ -1,0 +1,22 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+ea099948d1bb208b83e0ee56e0e4729c9d618418,.gitignore,None,.gitignore,ADD,None,22,0,None,None,2017-06-26 16:17:55-07:00,None,None,None
+024c69614d2cc94a776c1f76fd6007e2f7ea8437,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2017-06-26 16:18:37-07:00,None,None,None
+3813080ed4acfa017fb22c82a75db398bdf5f0e2,README.md,None,README.md,ADD,None,3,0,None,None,2017-06-26 16:18:40-07:00,None,None,None
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,.gitignore,.gitignore,.gitignore,MODIFY,None,13,19,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,README.md,README.md,README.md,MODIFY,None,106,2,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,azuredeploy.json,None,azurekeyVaultPollSample/azuredeploy.json,ADD,None,199,0,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,azuredeploy.parameters.json,None,azurekeyVaultPollSample/azuredeploy.parameters.json,ADD,None,30,0,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,metadata.json,None,azurekeyVaultPollSample/metadata.json,ADD,None,7,0,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,pom.xml,None,azurekeyVaultPollSample/pom.xml,ADD,None,103,0,None,None,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,JavaKeyVaultAuthenticator.java,None,azurekeyVaultPollSample/src/main/java/com/microsoft/JavaKeyVaultAuthenticator.java,ADD,80,120,0,593,9,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,SignVerifySamplesKeyVault.java,None,azurekeyVaultPollSample/src/main/java/com/microsoft/SignVerifySamplesKeyVault.java,ADD,69,121,0,599,8,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,runAzureKeyVaultPoller.java,None,azurekeyVaultPollSample/src/main/java/com/microsoft/runAzureKeyVaultPoller.java,ADD,98,163,0,999,7,2017-06-26 16:32:08-07:00,0.40853658536585363,1.0,0.7073170731707317
+d8ebed8fc1972e32d2b5619a28fd045f6336b839,README.md,README.md,README.md,MODIFY,None,20,8,None,None,2017-07-07 16:42:25-07:00,None,None,None
+d8ebed8fc1972e32d2b5619a28fd045f6336b839,azure.properties,None,azurekeyVaultPollSample/src/main/resources/azure.properties,ADD,None,5,0,None,None,2017-07-07 16:42:25-07:00,None,None,None
+23554cdfc15411fb9059e7bf1f8dca128f06148c,README.md,README.md,README.md,MODIFY,None,4,4,None,None,2017-07-07 16:57:37-07:00,None,None,None
+e1ee9112b36c1c49abf795589a0e335f2d93f4ac,README.md,README.md,README.md,MODIFY,None,13,6,None,None,2017-08-28 13:49:24-07:00,None,None,None
+0dc8d8d90d5f529c8e7f2f3fd473ff1c2139b796,README.md,README.md,README.md,MODIFY,None,6,0,None,None,2018-01-25 15:11:42-08:00,None,None,None
+4921e24e700cdef20f1bbc9adc48f8cb97d9ae7a,pom.xml,azurekeyVaultPollSample/pom.xml,azurekeyVaultPollSample/pom.xml,MODIFY,None,1,1,None,None,2018-03-01 14:57:02-08:00,0.0,1.0,0.8
+4921e24e700cdef20f1bbc9adc48f8cb97d9ae7a,JavaKeyVaultAuthenticator.java,azurekeyVaultPollSample/src/main/java/com/microsoft/JavaKeyVaultAuthenticator.java,azurekeyVaultPollSample/src/main/java/com/microsoft/JavaKeyVaultAuthenticator.java,MODIFY,90,113,86,628,11,2018-03-01 14:57:02-08:00,0.0,1.0,0.8
+4921e24e700cdef20f1bbc9adc48f8cb97d9ae7a,runAzureKeyVaultPoller.java,azurekeyVaultPollSample/src/main/java/com/microsoft/runAzureKeyVaultPoller.java,azurekeyVaultPollSample/src/main/java/com/microsoft/runAzureKeyVaultPoller.java,MODIFY,98,2,2,999,7,2018-03-01 14:57:02-08:00,0.0,1.0,0.8
+1bb29c68ac121f799b68f32ca812a1aeccd6006a,README.md,README.md,README.md,MODIFY,None,10,1,None,None,2018-06-29 11:56:17-07:00,None,None,None

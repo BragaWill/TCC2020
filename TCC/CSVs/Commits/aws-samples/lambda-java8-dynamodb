@@ -1,0 +1,17 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+8f746714ae7d8f87cf838d462c1e6f43f417bee6,LICENSE,None,LICENSE,ADD,None,201,0,None,None,2016-09-16 11:36:49-07:00,None,None,None
+8f746714ae7d8f87cf838d462c1e6f43f417bee6,README.md,None,README.md,ADD,None,1,0,None,None,2016-09-16 11:36:49-07:00,None,None,None
+4a178868fced4e632c6d1db2c3d254e8195d31b8,README.md,README.md,README.md,MODIFY,None,36,1,None,None,2016-09-16 17:31:23-07:00,None,None,None
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,pom.xml,None,pom.xml,ADD,None,77,0,None,None,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,DynamoDBEventDao.java,None,src/main/java/com/amazonaws/serverless/dao/DynamoDBEventDao.java,ADD,80,136,0,639,12,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,EventDao.java,None,src/main/java/com/amazonaws/serverless/dao/EventDao.java,ADD,12,38,0,97,0,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,Event.java,None,src/main/java/com/amazonaws/serverless/domain/Event.java,ADD,79,125,0,392,17,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,EventFunctions.java,None,src/main/java/com/amazonaws/serverless/function/EventFunctions.java,ADD,60,100,0,549,13,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,DynamoDBManager.java,None,src/main/java/com/amazonaws/serverless/manager/DynamoDBManager.java,ADD,27,55,0,163,5,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,City.java,None,src/main/java/com/amazonaws/serverless/pojo/City.java,ADD,10,36,0,43,2,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,Team.java,None,src/main/java/com/amazonaws/serverless/pojo/Team.java,ADD,10,37,0,43,2,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,Consts.java,None,src/main/java/com/amazonaws/serverless/util/Consts.java,ADD,5,30,0,28,1,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+a2484c9a5977b88fba7f7f0cda0cd9c02e442e3e,log4j.properties,None,src/main/resources/log4j.properties,ADD,None,7,0,None,None,2016-09-17 21:48:04-07:00,0.8963730569948186,1.0,0.9533678756476683
+13d3430d0902c8ced4a29abea33cb7ce2355bd90,README.md,README.md,README.md,MODIFY,None,7,0,None,None,2016-11-29 16:05:49-08:00,None,None,None
+433c363b105d5d28a716b5ed8aad6a5d1e2c84a2,architecture.jpg,images/architecture.jpg,images/architecture.jpg,ADD,None,0,0,None,None,2017-09-21 08:58:10-07:00,None,None,None
+15a015dda4d63df2b03e30e00057bc7cc432776d,README.md,README.md,README.md,MODIFY,None,20,11,None,None,2017-09-21 09:20:47-07:00,None,None,None

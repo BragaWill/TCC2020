@@ -1,0 +1,41 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+c9e6db73c48d63a1273579914619cff8ef94bb1f,.gitignore,None,.gitignore,ADD,None,22,0,None,None,2017-08-17 16:17:55-07:00,None,None,None
+545f436b5df2588c12d68554c6ebd8f199b7872f,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2017-08-17 16:17:59-07:00,None,None,None
+5b530878a32e98eeb7db6a23a3c9d73bc3e867d7,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2017-08-17 16:18:00-07:00,None,None,None
+97eae710276129bba70e0817cb5b5a846a246905,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2017-08-17 16:18:01-07:00,None,None,None
+14232a4525308e93aca4362fe87ba7201e363dbf,README.md,None,README.md,ADD,None,57,0,None,None,2017-08-17 16:18:02-07:00,None,None,None
+dc056ea8bc0ce58aa69a37af3b88e311d2b68ec5,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2017-08-17 16:18:02-07:00,None,None,None
+9a1c06754780c673cc2e9a290277564592c899f0,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2017-08-17 16:18:03-07:00,None,None,None
+cc17c56a1fa88a95f156251bc98ab436f64ab059,MainFrame.java,None,ComputerVision/Completed Tutorial/MainFrame.java,ADD,1071,1431,0,9806,69,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,build.xml,None,ComputerVision/build.xml,ADD,None,73,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,built-jar.properties,None,ComputerVision/build/built-jar.properties,ADD,None,4,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,manifest.mf,None,ComputerVision/manifest.mf,ADD,None,3,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,build-impl.xml,None,ComputerVision/nbproject/build-impl.xml,ADD,None,1420,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,genfiles.properties,None,ComputerVision/nbproject/genfiles.properties,ADD,None,8,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,private.properties,None,ComputerVision/nbproject/private/private.properties,ADD,None,1,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,project.properties,None,ComputerVision/nbproject/project.properties,ADD,None,101,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,project.xml,None,ComputerVision/nbproject/project.xml,ADD,None,15,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,MainFrame.form,None,ComputerVision/src/MainFrame.form,ADD,None,956,0,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,MainFrame.java,None,ComputerVision/src/MainFrame.java,ADD,732,873,0,7394,19,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+cc17c56a1fa88a95f156251bc98ab436f64ab059,README.md,README.md,README.md,MODIFY,None,7,47,None,None,2017-09-14 15:45:11-07:00,0.015122873345935728,0.8846880907372401,1.0
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,.gitignore,.gitignore,.gitignore,MODIFY,None,0,1,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,commons-codec-1.9.jar,ComputerVision/lib/commons-codec-1.9.jar,ComputerVision/lib/commons-codec-1.9.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,commons-logging-1.2.jar,ComputerVision/lib/commons-logging-1.2.jar,ComputerVision/lib/commons-logging-1.2.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,fluent-hc-4.5.3.jar,ComputerVision/lib/fluent-hc-4.5.3.jar,ComputerVision/lib/fluent-hc-4.5.3.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,httpclient-4.5.3.jar,ComputerVision/lib/httpclient-4.5.3.jar,ComputerVision/lib/httpclient-4.5.3.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,httpclient-cache-4.5.3.jar,ComputerVision/lib/httpclient-cache-4.5.3.jar,ComputerVision/lib/httpclient-cache-4.5.3.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,httpclient-win-4.5.3.jar,ComputerVision/lib/httpclient-win-4.5.3.jar,ComputerVision/lib/httpclient-win-4.5.3.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,httpcore-4.4.6.jar,ComputerVision/lib/httpcore-4.4.6.jar,ComputerVision/lib/httpcore-4.4.6.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,httpmime-4.5.3.jar,ComputerVision/lib/httpmime-4.5.3.jar,ComputerVision/lib/httpmime-4.5.3.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,jna-4.1.0.jar,ComputerVision/lib/jna-4.1.0.jar,ComputerVision/lib/jna-4.1.0.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,jna-platform-4.1.0.jar,ComputerVision/lib/jna-platform-4.1.0.jar,ComputerVision/lib/jna-platform-4.1.0.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+f1ec7b097212bdc0f16d96ebf6a0eeb57a3d365e,json-20170516.jar,ComputerVision/lib/json-20170516.jar,ComputerVision/lib/json-20170516.jar,ADD,None,0,0,None,None,2017-09-15 13:20:25-07:00,None,None,None
+eb4f4ea6c3a23354b86d0fed7890f20b59a16a8d,README.md,README.md,README.md,MODIFY,None,4,4,None,None,2017-09-15 16:11:00-07:00,None,None,None
+379a181e17ad8e58b1b838d42b376185210bc505,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2017-09-22 11:30:42-07:00,None,None,None
+161a0b374098a269e7238a642d43e776b4b621bf,README.md,README.md,README.md,MODIFY,None,1,0,None,None,2017-09-22 12:00:40-07:00,None,None,None
+911622e7cb105ed487dab1aec4a147f5473da257,.gitignore,.gitignore,.gitignore,MODIFY,None,1,0,None,None,2017-09-25 13:15:37-07:00,1.0,1.0,1.0
+911622e7cb105ed487dab1aec4a147f5473da257,MainFrame.java,ComputerVision/Completed Tutorial/MainFrame.java,ComputerVision/Completed Tutorial/MainFrame.java,MODIFY,1071,6,6,9806,69,2017-09-25 13:15:37-07:00,1.0,1.0,1.0
+911622e7cb105ed487dab1aec4a147f5473da257,built-jar.properties,ComputerVision/build/built-jar.properties,ComputerVision/build/built-jar.properties,MODIFY,None,1,1,None,None,2017-09-25 13:15:37-07:00,1.0,1.0,1.0
+911622e7cb105ed487dab1aec4a147f5473da257,private.xml,None,ComputerVision/nbproject/private/private.xml,ADD,None,9,0,None,None,2017-09-25 13:15:37-07:00,1.0,1.0,1.0
+911622e7cb105ed487dab1aec4a147f5473da257,MainFrame.form,ComputerVision/src/MainFrame.form,ComputerVision/src/MainFrame.form,MODIFY,None,0,18,None,None,2017-09-25 13:15:37-07:00,1.0,1.0,1.0
+911622e7cb105ed487dab1aec4a147f5473da257,MainFrame.java,ComputerVision/src/MainFrame.java,ComputerVision/src/MainFrame.java,MODIFY,726,0,12,7352,19,2017-09-25 13:15:37-07:00,1.0,1.0,1.0

@@ -1,0 +1,18 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+ca3d8ca58f61aacf0a37e40bcd67b058d63da3b0,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2018-08-05 18:39:51-07:00,None,None,None
+52d9fc12fd80f86a4da7c342b150c9e2215c0213,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-08-05 18:39:54-07:00,None,None,None
+0cc4c6f9773ebf6561ec5d5d158ebbc5c63eee48,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-08-05 18:39:55-07:00,None,None,None
+2d441a8a0b3a6083174dd0a5860a87fde1123eaf,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-08-05 18:39:56-07:00,None,None,None
+5cc2879365ecead23efd307e124177abbea0445f,README.md,None,README.md,ADD,None,57,0,None,None,2018-08-05 18:39:57-07:00,None,None,None
+492c154a8c36f449973cbfb29d55a8c450b85aa7,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-08-05 18:39:57-07:00,None,None,None
+c7b8152b1bfa0211b64f133c21543e4ec0bb2708,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-08-05 18:39:58-07:00,None,None,None
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,.gitignore,.gitignore,.gitignore,MODIFY,None,2,0,None,None,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,README.md,README.md,README.md,MODIFY,None,95,35,None,None,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,pom.xml,None,pom.xml,ADD,None,65,0,None,None,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,ConfigApplication.java,None,src/main/java/com/microsoft/azure/microprofile/config/keyvault/sample/ConfigApplication.java,ADD,6,9,0,47,0,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,ConfigDemo.java,None,src/main/java/com/microsoft/azure/microprofile/config/keyvault/sample/ConfigDemo.java,ADD,25,32,0,167,1,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,microprofile-config.properties,None,src/main/resources/META-INF/microprofile-config.properties,ADD,None,8,0,None,None,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+5ea0090fe7517eeeaa2a0a89ff05bc7ee73d714a,web.xml,None,src/main/webapp/WEB-INF/web.xml,ADD,None,10,0,None,None,2018-08-06 13:53:40+12:00,1.0,1.0,1.0
+70366093dcd7a469f6fe484f56f1d3a24f344e79,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2018-08-06 13:55:57+12:00,None,None,None
+dbc798db2dd95921bc21a311a1744718e8d6eff2,pom.xml,pom.xml,pom.xml,MODIFY,None,3,3,None,None,2018-08-07 11:38:15+12:00,None,None,None
+1249d7af82c0967da94c6242ea0b943aa9d9141d,README.md,README.md,README.md,MODIFY,None,3,114,None,None,2018-08-30 13:16:11+12:00,None,None,None

@@ -1,0 +1,21 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+c7b858b34ae27300149c7c92a333e419d08c992d,.gitignore,None,.gitignore,ADD,None,12,0,None,None,2018-12-03 18:48:48-08:00,None,None,None
+4884744953f1b78896205c1282afaf4f89817fb5,.gitignore,.gitignore,.gitignore,MODIFY,None,24,11,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,maven-wrapper.jar,.mvn/wrapper/maven-wrapper.jar,.mvn/wrapper/maven-wrapper.jar,ADD,None,0,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,maven-wrapper.properties,None,.mvn/wrapper/maven-wrapper.properties,ADD,None,1,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,README.md,None,README.md,ADD,None,147,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,mvnw,None,mvnw,ADD,None,286,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,mvnw.cmd,None,mvnw.cmd,ADD,None,161,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,pom.xml,None,pom.xml,ADD,None,86,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,Application.java,None,src/main/java/com/microsoft/azure/samples/spring/Application.java,ADD,9,18,0,61,1,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,Pet.java,None,src/main/java/com/microsoft/azure/samples/spring/Pet.java,ADD,39,56,0,174,7,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,PetController.java,None,src/main/java/com/microsoft/azure/samples/spring/PetController.java,ADD,29,43,0,185,4,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,PetRepository.java,None,src/main/java/com/microsoft/azure/samples/spring/PetRepository.java,ADD,4,12,0,34,0,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+4884744953f1b78896205c1282afaf4f89817fb5,application.properties,None,src/main/resources/application.properties,ADD,None,10,0,None,None,2018-12-06 11:07:44+08:00,1.0,1.0,1.0
+8882ce4ddc32bf5a8d7f71e0bc9bf2bfd7349066,README.md,README.md,README.md,MODIFY,None,9,0,None,None,2019-07-03 21:25:40-07:00,None,None,None
+fe1d04573900abab5914bc4276376ecddae75886,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2019-07-03 21:27:20-07:00,None,None,None
+23ea59523e63a309bb4c8832cb5a4e24bc08ef62,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2019-07-03 21:58:49-07:00,None,None,None
+a6f4663860d1826511a216acb07ea0ee2068017a,README.md,README.md,README.md,MODIFY,None,2,1,None,None,2019-07-30 20:08:29-07:00,None,None,None

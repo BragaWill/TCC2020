@@ -1,0 +1,26 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+4fb6c3b25c17aa68d3204baadf65a1fe5be5efee,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2019-07-09 16:43:32-07:00,None,None,None
+c5bea3fdf70138ffd7bba6e34418d0721bd10d50,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2019-07-09 16:43:34-07:00,None,None,None
+06c6eca15c076970edbe2de6116d17b09038141a,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2019-07-09 16:43:35-07:00,None,None,None
+7fc01e8c5a8ce88d303caee6a981779f17d70afd,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2019-07-09 16:43:36-07:00,None,None,None
+a4e2072d42cf0d4ab34b7fd0b9f3fa9db5de231a,README.md,None,README.md,ADD,None,57,0,None,None,2019-07-09 16:43:37-07:00,None,None,None
+99eda8cdbb30f7bea247b322666cf52570123939,CODE_OF_CONDUCT.md,None,.github/CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2019-07-09 16:43:38-07:00,None,None,None
+4236e47da7240de0d5173ac335ed97680f900303,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2019-07-09 16:43:39-07:00,None,None,None
+c41d3307aae8d29a13f94df035fb4b996499a124,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2019-07-09 16:43:40-07:00,None,None,None
+34acef0dec5f591e0736b7a8589a8867407f4f6a,.classpath,None,.classpath,ADD,None,32,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,.project,None,.project,ADD,None,23,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,org.eclipse.core.resources.prefs,None,.settings/org.eclipse.core.resources.prefs,ADD,None,5,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,org.eclipse.jdt.core.prefs,None,.settings/org.eclipse.jdt.core.prefs,ADD,None,13,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,org.eclipse.m2e.core.prefs,None,.settings/org.eclipse.m2e.core.prefs,ADD,None,4,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,pom.xml,None,pom.xml,ADD,None,53,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,cluster.yaml,None,src/cluster.yaml,ADD,None,7,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,App.java,None,src/main/java/jsonLd/jsonLd/App.java,ADD,18,25,0,76,2,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,Graph.java,None,src/main/java/jsonLd/jsonLd/Graph.java,ADD,155,227,0,1113,32,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,GraphParser.java,None,src/main/java/jsonLd/jsonLd/GraphParser.java,ADD,156,191,0,890,25,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,GraphProvider.java,None,src/main/java/jsonLd/jsonLd/GraphProvider.java,ADD,88,143,0,608,9,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,GraphsonToJsonLd.java,None,src/main/java/jsonLd/jsonLd/GraphsonToJsonLd.java,ADD,26,37,0,155,2,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,JsonLdIngestionToCosmos.java,None,src/main/java/jsonLd/jsonLd/JsonLdIngestionToCosmos.java,ADD,17,34,0,115,1,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,Utils.java,None,src/main/java/jsonLd/jsonLd/Utils.java,ADD,46,56,0,171,6,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,pom.properties,None,src/main/resources/pom.properties,ADD,None,1,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,AppTest.java,None,src/test/java/jsonLd/jsonLd/AppTest.java,ADD,20,38,0,75,3,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0
+34acef0dec5f591e0736b7a8589a8867407f4f6a,pom.properties,None,target/classes/pom.properties,ADD,None,1,0,None,None,2019-07-09 16:51:36-07:00,0.32964601769911506,0.5331858407079646,1.0

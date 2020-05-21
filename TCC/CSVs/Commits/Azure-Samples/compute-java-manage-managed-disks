@@ -1,0 +1,9 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+6f5edcddce869714fde742ddd6abde64f26e5e4a,.gitignore,None,.gitignore,ADD,None,50,0,None,None,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,README.md,None,README.md,ADD,None,38,0,None,None,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,pom.xml,None,pom.xml,ADD,None,84,0,None,None,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,ManageManagedDisks.java,None,src/main/java/com/microsoft/azure/management/compute/samples/ManageManagedDisks.java,ADD,417,558,0,3257,17,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,SSHShell.java,None,src/main/java/com/microsoft/azure/management/samples/SSHShell.java,ADD,223,374,0,1630,42,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216
+6f5edcddce869714fde742ddd6abde64f26e5e4a,Utils.java,None,src/main/java/com/microsoft/azure/management/samples/Utils.java,ADD,2430,3156,0,27655,364,2020-01-14 16:28:18+08:00,0.19935920256318976,0.55500177999288,0.8576005695977216

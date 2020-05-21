@@ -1,0 +1,21 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+9bb31927e36bf0c9bea17107185f1985d1c45561,.gitignore,None,.gitignore,ADD,None,50,0,None,None,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,README.md,None,README.md,ADD,None,37,0,None,None,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,pom.xml,None,pom.xml,ADD,None,64,0,None,None,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,ManageScaleSetUserAssignedMSIFromServicePrincipal.java,None,src/main/java/com/microsoft/azure/management/compute/samples/ManageScaleSetUserAssignedMSIFromServicePrincipal.java,ADD,130,187,0,1070,8,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+9bb31927e36bf0c9bea17107185f1985d1c45561,Utils.java,None,src/main/java/com/microsoft/azure/management/samples/Utils.java,ADD,2415,3137,0,27476,362,2018-09-26 15:53:31-07:00,0.1990521327014218,0.4864282636794485,0.9482981473502801
+0107f6ba4d71b45d81d7bd24b2beeef67f40a51e,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2019-06-17 13:52:03-07:00,1.0,1.0,1.0
+0107f6ba4d71b45d81d7bd24b2beeef67f40a51e,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2019-06-17 13:52:03-07:00,1.0,1.0,1.0
+0107f6ba4d71b45d81d7bd24b2beeef67f40a51e,ManageScaleSetUserAssignedMSIFromServicePrincipal.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageScaleSetUserAssignedMSIFromServicePrincipal.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageScaleSetUserAssignedMSIFromServicePrincipal.java,MODIFY,130,1,0,1070,8,2019-06-17 13:52:03-07:00,1.0,1.0,1.0
+50ad76428860a33ad46924b85a9580058f9881d7,README.md,README.md,README.md,MODIFY,None,3,0,None,None,2019-08-09 19:36:35+08:00,None,None,None
+50ad76428860a33ad46924b85a9580058f9881d7,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2019-08-09 19:36:35+08:00,None,None,None
+b1ec818f0c9b58e531004d7d126ae00239f080f5,README.md,README.md,README.md,MODIFY,None,4,2,None,None,2019-08-14 10:33:25+08:00,None,None,None
+480710c8adc2a740f12a7186846e6e97f18fcbc7,README.md,README.md,README.md,MODIFY,None,4,4,None,None,2019-08-15 11:05:37+08:00,None,None,None
+bfb44369a27e4d4651bb8706914faba92f5faa61,README.md,README.md,README.md,MODIFY,None,3,4,None,None,2019-09-13 22:06:09+05:18,None,None,None
+0171d5cc64e0be417a2dd30f72a354b08b8810f0,README.md,README.md,README.md,MODIFY,None,16,16,None,None,2019-10-18 18:42:57-07:00,None,None,None
+9319d99a968b4518cb9e8ffa936b54e470c5186a,README.md,README.md,README.md,MODIFY,None,1,0,None,None,2019-10-18 18:43:11-07:00,None,None,None
+d42563d21ed28d80171ec2eeefd7607336e12674,README.md,README.md,README.md,MODIFY,None,20,19,None,None,2020-01-14 16:17:55+08:00,0.0,0.0,0.9333333333333333
+d42563d21ed28d80171ec2eeefd7607336e12674,pom.xml,pom.xml,pom.xml,MODIFY,None,11,1,None,None,2020-01-14 16:17:55+08:00,0.0,0.0,0.9333333333333333
+d42563d21ed28d80171ec2eeefd7607336e12674,Utils.java,src/main/java/com/microsoft/azure/management/samples/Utils.java,src/main/java/com/microsoft/azure/management/samples/Utils.java,MODIFY,2430,20,1,27655,364,2020-01-14 16:17:55+08:00,0.0,0.0,0.9333333333333333

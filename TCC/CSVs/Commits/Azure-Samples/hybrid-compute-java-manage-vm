@@ -1,0 +1,26 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+e4ecc02c0b2e21098e9d112edf05c585495065d1,.gitignore,None,.gitignore,ADD,None,330,0,None,None,2018-10-08 11:21:54-07:00,None,None,None
+5a4b5d860972c87f57cbedd8fbac31dbc8acd06c,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-10-08 11:21:57-07:00,None,None,None
+a311c7a80076f9451a81a616e8cd947e85cda92f,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-10-08 11:21:59-07:00,None,None,None
+ffd257663e94609dc03531e65e078c6da30d49a4,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-10-08 11:21:59-07:00,None,None,None
+6376aab20176bd7b6b9b3638cee54e60ec2f3f11,README.md,None,README.md,ADD,None,57,0,None,None,2018-10-08 11:22:00-07:00,None,None,None
+c65862c8564d9af6422dc5c73d83c1724775faa6,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-10-08 11:22:02-07:00,None,None,None
+351f8408c7b6e4c58415b55d86f854d11a5693a4,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-10-08 11:22:03-07:00,None,None,None
+d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,CHANGELOG.md,CHANGELOG.md,CHANGELOG.md,MODIFY,None,4,9,None,None,2018-10-08 13:30:36-07:00,0.19902697921273774,0.5497567448031845,0.9469261388766033
+d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,README.md,README.md,README.md,MODIFY,None,39,35,None,None,2018-10-08 13:30:36-07:00,0.19902697921273774,0.5497567448031845,0.9469261388766033
+d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,pom.xml,None,pom.xml,ADD,None,94,0,None,None,2018-10-08 13:30:36-07:00,0.19902697921273774,0.5497567448031845,0.9469261388766033
+d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,ManageVirtualMachine.java,None,src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,ADD,267,414,0,2611,11,2018-10-08 13:30:36-07:00,0.19902697921273774,0.5497567448031845,0.9469261388766033
+d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,Utils.java,None,src/main/java/com/microsoft/azure/management/samples/Utils.java,ADD,2228,2920,0,25400,308,2018-10-08 13:30:36-07:00,0.19902697921273774,0.5497567448031845,0.9469261388766033
+89d82d742705aabeb4f56945e04d2162165693ae,README.md,README.md,README.md,MODIFY,None,2,4,None,None,2018-10-08 14:21:15-07:00,None,None,None
+02286c9068f532fab45d404c4b7bcb1eb45a880f,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-10-19 10:31:11-07:00,None,None,None
+1e3d17a1c960ca952cb0feac0d8d98d84e5960b4,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-10-20 21:03:59-07:00,None,None,None
+91abc6d9fd19a64b5610668a98f1bf9ac2082b32,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-10-23 14:45:36-07:00,None,None,None
+d04026ee70cf7c908456ce56e8d97b31490b63bc,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2019-04-15 22:16:14-07:00,1.0,1.0,1.0
+d04026ee70cf7c908456ce56e8d97b31490b63bc,ManageVirtualMachine.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,MODIFY,267,1,1,2611,11,2019-04-15 22:16:14-07:00,1.0,1.0,1.0
+7b338684cf33271d6bb8e93ac608fa04b91c1334,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2019-06-17 14:20:28-07:00,1.0,1.0,1.0
+7b338684cf33271d6bb8e93ac608fa04b91c1334,ManageVirtualMachine.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,MODIFY,274,31,24,2686,11,2019-06-17 14:20:28-07:00,1.0,1.0,1.0
+7b338684cf33271d6bb8e93ac608fa04b91c1334,Utils.java,src/main/java/com/microsoft/azure/management/samples/Utils.java,src/main/java/com/microsoft/azure/management/samples/Utils.java,MODIFY,2202,11,39,25144,300,2019-06-17 14:20:28-07:00,1.0,1.0,1.0
+19dfc20bed6572da3e39047b278f6af9a6762d27,README.md,README.md,README.md,MODIFY,None,7,3,None,None,2019-09-13 05:01:15+05:18,None,None,None
+ae2940ecb2478b7d73e76a3957a9141f4005d06b,README.md,README.md,README.md,MODIFY,None,18,16,None,None,2019-10-14 17:42:11-07:00,None,None,None
+a21cb1f27e90096c0f0f699d27997aa2eb026be8,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2020-03-17 18:09:30-07:00,None,None,None
+0670973b5ab533c796c63ea9d8c4cbbfd4fde2a2,pom.xml,pom.xml,pom.xml,MODIFY,None,12,2,None,None,2020-03-18 16:14:56-07:00,None,None,None

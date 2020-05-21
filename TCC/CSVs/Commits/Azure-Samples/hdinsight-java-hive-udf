@@ -1,0 +1,17 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+9c8e4689003b19f934a1448811849eacc7e44618,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2016-06-28 16:08:38+00:00,None,None,None
+b05db5fb4ed3983e9e8bc5a1dc751708709274e0,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2016-06-28 16:08:38+00:00,None,None,None
+76ef0f044af375893e9956bb2c560c367b0f9b33,README.md,None,README.md,ADD,None,10,0,None,None,2016-06-28 16:08:38+00:00,None,None,None
+750235842c4345b1a0a5b621eeb698d67b7c129d,pom.xml,None,pom.xml,ADD,None,76,0,None,None,2016-08-22 18:16:29-07:00,0.1948529411764706,0.1948529411764706,1.0
+750235842c4345b1a0a5b621eeb698d67b7c129d,timestampconv.java,None,src/main/java/com/microsoft/example/timestampconv.java,ADD,231,261,0,1857,44,2016-08-22 18:16:29-07:00,0.1948529411764706,0.1948529411764706,1.0
+750235842c4345b1a0a5b621eeb698d67b7c129d,timestampconvTest.java,None,src/test/java/com/microsoft/example/timestampconvTest.java,ADD,68,81,0,555,8,2016-08-22 18:16:29-07:00,0.1948529411764706,0.1948529411764706,1.0
+b7ea02068f0ea6dcaf2a1c3b0ce5720c31660dd7,README.md,README.md,README.md,MODIFY,None,25,4,None,None,2016-08-23 12:10:06-07:00,None,None,None
+ff6a422e6b73f2f7d8ab70be60fcd49020037895,timestampconv.java,src/main/java/com/microsoft/example/timestampconv.java,src/main/java/com/microsoft/example/timestampconv.java,MODIFY,199,1,36,1597,38,2016-08-23 13:41:35-07:00,1.0,1.0,1.0
+00ec3bb07842269bf74706794064488810ee0a2d,.gitignore,None,.gitignore,ADD,None,9,0,None,None,2016-08-24 08:56:06-04:00,None,None,None
+3df8351a3ca1162a62065f79f624c5d87850fbc9,README.md,README.md,README.md,MODIFY,None,56,28,None,None,2016-08-24 08:56:17-04:00,None,None,None
+3fc06b9bcd5965ed43e78df13253cd4d47c78fb0,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2016-08-24 14:31:20-04:00,None,None,None
+cd9fdb737b663e9dace9425f48e31347628a5866,README.md,README.md,README.md,MODIFY,None,28,4,None,None,2017-11-07 14:15:04-05:00,None,None,None
+f55e77b5993ebc13288f3eec5c02cd669d452617,timestampconv.java,src/main/java/com/microsoft/example/timestampconv.java,src/main/java/com/microsoft/example/timestampconv.java,MODIFY,210,11,0,1697,40,2018-07-06 12:37:20-03:00,0.3888888888888889,0.3888888888888889,1.0
+f55e77b5993ebc13288f3eec5c02cd669d452617,timestampconvTest.java,src/test/java/com/microsoft/example/timestampconvTest.java,src/test/java/com/microsoft/example/timestampconvTest.java,MODIFY,76,10,1,623,9,2018-07-06 12:37:20-03:00,0.3888888888888889,0.3888888888888889,1.0
+57a8464ace5676d2b4518e6ef43b003eb295fb88,pom.xml,pom.xml,pom.xml,MODIFY,None,6,7,None,None,2018-11-21 18:05:33-08:00,None,None,None
+c4a2779414d4240a6f4f05025d3e8c5040e60f61,README.md,README.md,README.md,MODIFY,None,8,4,None,None,2019-07-17 14:30:52-07:00,None,None,None

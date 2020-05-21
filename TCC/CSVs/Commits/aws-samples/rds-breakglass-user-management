@@ -1,0 +1,19 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+d258a0f0d8120d91ebcae608cca4adac85cb4805,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2019-10-08 08:11:24-07:00,None,None,None
+d258a0f0d8120d91ebcae608cca4adac85cb4805,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2019-10-08 08:11:24-07:00,None,None,None
+d258a0f0d8120d91ebcae608cca4adac85cb4805,LICENSE,None,LICENSE,ADD,None,15,0,None,None,2019-10-08 08:11:24-07:00,None,None,None
+d258a0f0d8120d91ebcae608cca4adac85cb4805,README.md,None,README.md,ADD,None,13,0,None,None,2019-10-08 08:11:24-07:00,None,None,None
+3330a400cb45f179cb9cf09320fb8c849078d621,README.md,README.md,README.md,MODIFY,None,2,6,None,None,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,pom.xml,None,pom.xml,ADD,None,115,0,None,None,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,.DS_Store,src/main/java/com/amazonaws/breakglass/rds/.DS_Store,src/main/java/com/amazonaws/breakglass/rds/.DS_Store,ADD,None,0,0,None,None,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,CleanUpBreakglass.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/CleanUpBreakglass.java,ADD,129,149,0,1056,11,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,CreateBreakglassUser.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/CreateBreakglassUser.java,ADD,151,168,0,1202,13,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,CreateBreakglassUserRequest.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/CreateBreakglassUserRequest.java,ADD,20,28,0,84,5,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,CreateUser.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/CreateUser.java,ADD,110,127,0,877,10,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,GetMasterSecretName.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/GetMasterSecretName.java,ADD,42,51,0,378,3,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,GetMasterSecretValue.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/GetMasterSecretValue.java,ADD,40,50,0,348,3,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,GetMasterSecretValueRequest.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/GetMasterSecretValueRequest.java,ADD,20,28,0,84,5,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,Secret.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/Secret.java,ADD,66,86,0,327,17,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,SendEmail.java,None,src/main/java/com/amazonaws/breakglass/rds/demo/SendEmail.java,ADD,43,52,0,358,2,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3330a400cb45f179cb9cf09320fb8c849078d621,Bastion-Cloudformation.json,None,src/main/resources/Bastion-Cloudformation.json,ADD,None,281,0,None,None,2019-10-08 16:33:01+01:00,0.5150214592274678,1.0,0.6738197424892703
+3779e7e8aa004fcafcad685aa8f8b9546d97a9c5,.gitignore,None,.gitignore,ADD,None,2,0,None,None,2019-10-08 16:33:31+01:00,None,None,None

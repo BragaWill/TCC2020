@@ -9,7 +9,7 @@ from pydriller.metrics.process.lines_count import LinesCount
 import csv
 
 # Url of repository
-name = 'azure-cosmos-java-getting-started'
+name = 'azure-cosmos-java-sql-api-todo-app'
 url = '../Repos/' + name
 
 
@@ -111,6 +111,12 @@ text = '{}'.format(files)  # Commits Count files
 ger = GeradorCSV()
 auxCoC = ger.limpa(text)
 numCoC = auxCoC[1::2]
+
+print(len(num))
+print(len(pal))
+print(len(numCC))
+print(len(num1CC))
+print(len(numLC))
 
 # Make the document CSV with process metrics
 with open('../CSVs/ProcessMetrics/metrics', 'w', newline='') as f:

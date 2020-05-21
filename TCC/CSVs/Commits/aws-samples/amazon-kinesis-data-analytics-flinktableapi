@@ -1,0 +1,20 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+1c59e26bfb53f770291fc71026f6a6cb39c508f0,README.md,None,README.md,ADD,None,2,0,None,None,2019-06-12 10:06:42-07:00,None,None,None
+c08ccd94684c9742a71673eb813673a7db8f38e3,LICENSE,None,LICENSE,ADD,None,14,0,None,None,2019-06-12 10:06:43-07:00,None,None,None
+67b6739224d83fc00bb408fa08047ff134c98bbd,README.md,README.md,README.md,MODIFY,None,6,1,None,None,2019-06-12 10:06:44-07:00,None,None,None
+409cc6d504de699d53cc72bac50296f563ef788b,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,6,0,None,None,2019-06-12 10:06:45-07:00,None,None,None
+da4e7b7cd89075499c92379b6321e7999c5ec0ba,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2019-06-12 10:06:46-07:00,None,None,None
+af8b8108dc4a25fa2f80c707249201d4a14022e5,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2019-06-12 10:06:46-07:00,None,None,None
+4ffe67e2f8d82baefd575e5908800b36a09924b5,README.md,README.md,README.md,MODIFY,None,274,3,None,None,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,ApplicationConfiguration.png,images/ApplicationConfiguration.png,images/ApplicationConfiguration.png,ADD,None,0,0,None,None,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,pom.xml,None,pom.xml,ADD,None,134,0,None,None,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,ExchangeRate.java,None,src/main/java/com/amazonaws/services/kinesisanalytics/ExchangeRate.java,ADD,7,9,0,33,0,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,Order.java,None,src/main/java/com/amazonaws/services/kinesisanalytics/Order.java,ADD,8,9,0,37,0,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,Result.java,None,src/main/java/com/amazonaws/services/kinesisanalytics/Result.java,ADD,7,8,0,30,0,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,StreamingJob.java,None,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,ADD,96,135,0,818,2,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+4ffe67e2f8d82baefd575e5908800b36a09924b5,TimestampToString.java,None,src/main/java/com/amazonaws/services/kinesisanalytics/TimestampToString.java,ADD,13,17,0,100,2,2019-06-12 10:58:06-07:00,0.07142857142857142,1.0,1.0
+917ce47845b5dda80ecac1e153d2343d6a09c326,StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,MODIFY,90,2,9,790,2,2019-06-21 09:28:58-07:00,1.0,1.0,1.0
+d90d621e638747bb9f3d8d27434cd5afc1a3829a,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2019-06-21 09:31:32-07:00,None,None,None
+3f0d5c2a20a402674220db9fed6aff8c304e8264,StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,MODIFY,98,12,3,791,2,2019-06-21 09:33:05-07:00,0.0,1.0,1.0
+5fbe8920a5dbd7534aee808598856734ec69153a,README.md,README.md,README.md,MODIFY,None,11,7,None,None,2019-06-25 17:30:06+01:00,None,None,None
+53c54ac324c9bdb0065b3367677fccbac5ee41f3,StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java,MODIFY,97,4,5,789,2,2019-06-25 17:31:07+01:00,1.0,1.0,1.0

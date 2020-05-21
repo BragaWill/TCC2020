@@ -1,0 +1,22 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+7d30175a842164ab044e658c9b51cf081be8f504,app-service-api-app-java-contact-list.war,webapps/app-service-api-app-java-contact-list.war,webapps/app-service-api-app-java-contact-list.war,ADD,None,0,0,None,None,2015-11-19 22:40:11-08:00,None,None,None
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,.gitignore,None,.gitignore,ADD,None,11,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ROOT.war,webapps/app-service-api-app-java-contact-list.war,deploy/ROOT.war,RENAME,None,0,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,pom.xml,None,src/pom.xml,ADD,None,178,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ApiException.java,None,src/src/gen/java/io/swagger/api/ApiException.java,ADD,9,10,0,55,1,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ApiOriginFilter.java,None,src/src/gen/java/io/swagger/api/ApiOriginFilter.java,ADD,17,22,0,137,3,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ApiResponseMessage.java,None,src/src/gen/java/io/swagger/api/ApiResponseMessage.java,ADD,58,69,0,268,13,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ContactsApi.java,None,src/src/gen/java/io/swagger/api/ContactsApi.java,ADD,39,57,0,408,2,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ContactsApiService.java,None,src/src/gen/java/io/swagger/api/ContactsApiService.java,ADD,18,29,0,144,0,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,NotFoundException.java,None,src/src/gen/java/io/swagger/api/NotFoundException.java,ADD,9,10,0,57,1,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ContactsApiServiceFactory.java,None,src/src/gen/java/io/swagger/api/factories/ContactsApiServiceFactory.java,ADD,11,15,0,71,1,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,Contact.java,None,src/src/gen/java/io/swagger/model/Contact.java,ADD,49,70,0,304,8,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,ContactsApiServiceImpl.java,None,src/src/main/java/io/swagger/api/impl/ContactsApiServiceImpl.java,ADD,39,52,0,320,5,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,web.xml,None,src/src/main/webapp/WEB-INF/web.xml,ADD,None,54,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,pom.properties,None,src/target/maven-archiver/pom.properties,ADD,None,5,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,createdFiles.lst,None,src/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,ADD,None,9,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,inputFiles.lst,None,src/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,ADD,None,9,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+6d6eae96fe600e0d8274c6d2e151cd87145115d6,web.xml,None,src/target/swagger-jaxrs-server-1.0.0/WEB-INF/web.xml,ADD,None,54,0,None,None,2015-12-03 00:20:58-08:00,0.8110236220472441,0.8110236220472441,0.8976377952755905
+fa2fc10d2aa2bc3b86d39bf619838f3f000c21c1,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2015-12-28 10:52:56-08:00,None,None,None
+8088aac6ffecbf980468623a92f6c86e03f2ecac,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2015-12-28 10:52:57-08:00,None,None,None
+d607f7659402cd04d2d7507336d8656d6c0f1e59,README.md,None,README.md,ADD,None,10,0,None,None,2015-12-28 10:52:58-08:00,None,None,None

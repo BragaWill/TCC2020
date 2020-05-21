@@ -1,0 +1,21 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+f7bfc5c2451e05b0738fb28a8de0e837ce9db958,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2020-05-18 15:51:51+00:00,None,None,None
+0eb24e25a0a309564e19f1c1cdaf097a770e9dc8,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2020-05-18 08:51:54-07:00,None,None,None
+af96b13e908e860306b44835e8b2927f72c14bd9,README.md,None,README.md,ADD,None,64,0,None,None,2020-05-18 08:51:55-07:00,None,None,None
+426ea85c0f5f69a07b524ad20e0848a150f8d11c,SECURITY.md,None,SECURITY.md,ADD,None,41,0,None,None,2020-05-18 08:51:56-07:00,None,None,None
+c1828267727de62a904d51a3649480b19ed34c4f,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2020-05-18 08:51:57-07:00,None,None,None
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,.factorypath,None,.factorypath,ADD,None,61,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,.gitignore,.gitignore,.gitignore,MODIFY,None,26,20,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,README.md,README.md,README.md,MODIFY,None,129,54,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,output.png,media/output.png,media/output.png,ADD,None,0,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,pom.xml,None,pom.xml,ADD,None,71,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,User.java,None,src/main/java/com/azure/cosmosdb/cassandra/User.java,ADD,39,54,0,169,9,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,UserProfile.java,None,src/main/java/com/azure/cosmosdb/cassandra/examples/UserProfile.java,ADD,38,60,0,301,1,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,UserRepository.java,None,src/main/java/com/azure/cosmosdb/cassandra/repository/UserRepository.java,ADD,55,103,0,486,9,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,CassandraUtils.java,None,src/main/java/com/azure/cosmosdb/cassandra/util/CassandraUtils.java,ADD,73,108,0,583,12,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,Configurations.java,None,src/main/java/com/azure/cosmosdb/cassandra/util/Configurations.java,ADD,26,35,0,169,4,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,config.properties,None,src/main/resources/config.properties,ADD,None,8,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,log4j.properties,None,src/main/resources/log4j.properties,ADD,None,12,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+6f0e1177989bfab2a3863c9fe7e5ea4ce0214ec2,reference.conf,None,src/main/resources/reference.conf,ADD,None,2027,0,None,None,2020-05-18 19:00:21+01:00,0.5384615384615384,0.8520710059171598,0.9112426035502958
+5dd752576b8ffcbe35e6a220477d0a3ab20d2ff5,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-05-18 19:03:19+01:00,None,None,None
+d24a77ac11928f9d89a63ace8d4399ea150e02f1,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-05-18 19:46:32+01:00,None,None,None

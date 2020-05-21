@@ -1,0 +1,16 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+98af1b9591bff17465d1cecf65beb5d3f1289b3f,LICENSE,None,LICENSE,ADD,None,201,0,None,None,2016-01-08 11:09:32-08:00,None,None,None
+98af1b9591bff17465d1cecf65beb5d3f1289b3f,README.md,None,README.md,ADD,None,2,0,None,None,2016-01-08 11:09:32-08:00,None,None,None
+084b9e678489368e0da0c47be8d01428f74027d1,packageTest.sh,None,packageTest.sh,ADD,None,3,0,None,None,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+084b9e678489368e0da0c47be8d01428f74027d1,pom.xml,None,pom.xml,ADD,None,87,0,None,None,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+084b9e678489368e0da0c47be8d01428f74027d1,zip.xml,None,src/main/assembly/zip.xml,ADD,None,41,0,None,None,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+084b9e678489368e0da0c47be8d01428f74027d1,TestBase.java,None,src/test/java/Tests/AbstractBaseTests/TestBase.java,ADD,27,89,0,175,4,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+084b9e678489368e0da0c47be8d01428f74027d1,ScreenshotTest.java,None,src/test/java/Tests/ScreenshotTest.java,ADD,18,44,0,139,1,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+084b9e678489368e0da0c47be8d01428f74027d1,start-appium-android.sh,None,start-appium-android.sh,ADD,None,8,0,None,None,2016-01-08 19:04:08-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,packageTest.sh,packageTest.sh,packageTest.sh,MODIFY,None,1,1,None,None,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,zip.xml,src/main/assembly/zip.xml,src/main/assembly/zip.xml,MODIFY,None,1,1,None,None,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,TestBase.java,src/test/java/Tests/AbstractBaseTests/TestBase.java,src/test/java/Tests/AbstractBaseTests/TestBase.java,MODIFY,28,13,15,183,4,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,ScreenshotTest.java,src/test/java/Tests/ScreenshotTest.java,src/test/java/Tests/ScreenshotTest.java,MODIFY,18,43,44,139,1,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,start-appium-android.sh,start-appium-android.sh,start-appium-android.sh,MODIFY,None,0,5,None,None,2016-01-12 11:39:55-08:00,1.0,1.0,1.0
+10d0557eb89e8cd947cb444a49234ee32cc9c738,ScreenshotTest.java,src/test/java/Tests/ScreenshotTest.java,src/test/java/Tests/ScreenshotTest.java,MODIFY,18,2,2,139,1,2016-01-22 13:53:42-08:00,1.0,1.0,1.0

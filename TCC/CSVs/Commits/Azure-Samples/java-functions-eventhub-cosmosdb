@@ -1,0 +1,16 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+7a41a2be26fdeb73eab6c470cec564b7822d7b34,.gitignore,None,.gitignore,ADD,None,12,0,None,None,2019-10-30 21:26:05+00:00,None,None,None
+79308fed23ef5d9acdcd3b36fa3ea08d50b2fc55,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2019-10-30 14:26:10-07:00,None,None,None
+0b112fe3f420a7f84440ca09fc1b138eb1a91d22,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2019-10-30 14:26:11-07:00,None,None,None
+c076769f64fd0cf76eaf24e280b8dbdd8de10bc1,SECURITY.md,None,SECURITY.md,ADD,None,41,0,None,None,2019-10-30 14:26:12-07:00,None,None,None
+abf36fa52a7c34662811dcc6849c604da9946b7b,README.md,None,README.md,ADD,None,64,0,None,None,2019-10-30 14:26:13-07:00,None,None,None
+dd0bef251c9509deac26e847d19880576a5187da,.gitignore,.gitignore,.gitignore,MODIFY,None,38,11,None,None,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+dd0bef251c9509deac26e847d19880576a5187da,README.md,README.md,README.md,MODIFY,None,126,32,None,None,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+dd0bef251c9509deac26e847d19880576a5187da,host.json,None,host.json,ADD,None,7,0,None,None,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+dd0bef251c9509deac26e847d19880576a5187da,pom.xml,None,pom.xml,ADD,None,209,0,None,None,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+dd0bef251c9509deac26e847d19880576a5187da,Function.java,None,src/main/java/com/example/Function.java,ADD,59,68,0,383,5,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+dd0bef251c9509deac26e847d19880576a5187da,TelemetryItem.java,None,src/main/java/com/example/TelemetryItem.java,ADD,43,54,0,167,9,2019-10-30 16:25:36-07:00,0.5857142857142857,1.0,0.5857142857142857
+efe187bb2aa4a4572e3070833f68cfec319fbfcf,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2019-10-30 17:34:53-07:00,None,None,None
+9a6695868093bd22f835f85b1aeacc68a14c59a6,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2019-10-30 20:31:28-07:00,None,None,None
+84d442b26c31a13cde71fc873017322115185271,Function.java,src/main/java/com/example/Function.java,src/main/java/com/example/Function.java,MODIFY,59,1,1,387,5,2019-10-30 21:13:46-07:00,1.0,1.0,1.0
+6dba8f4a06623478c889c08f0b93beaab54d7994,README.md,README.md,README.md,MODIFY,None,11,0,None,None,2019-11-11 10:28:03-08:00,None,None,None

@@ -1,0 +1,11 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+c87be38e571aaf1ca69919b2771d6c9f29262034,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,README.md,None,README.md,ADD,None,56,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,pom.xml,None,pom.xml,ADD,None,37,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,KeyVaultGettingStarted.java,None,src/gettingstarted/KeyVaultGettingStarted.java,ADD,94,199,0,758,3,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,KVCredentials.java,None,src/util/KVCredentials.java,ADD,58,117,0,383,6,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,KeyVaultUtility.java,None,src/util/KeyVaultUtility.java,ADD,98,165,0,701,15,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,LocalResolver.java,None,src/util/LocalResolver.java,ADD,16,54,0,135,2,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+c87be38e571aaf1ca69919b2771d6c9f29262034,Utility.java,None,src/util/Utility.java,ADD,22,68,0,105,2,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
+6fb25fd91135c88c2a4c1840d289e5bb5e584423,README.md,README.md,README.md,MODIFY,None,13,18,None,None,2016-12-14 15:09:35-08:00,None,None,None
+a7f1cb6c46ca994c130f719dc7d48dca0c7e79da,README.md,README.md,README.md,MODIFY,None,2,1,None,None,2016-12-14 15:10:37-08:00,None,None,None

@@ -1,0 +1,19 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+73b008892e042b1d38278d0449580375b1f16052,.gitignore,None,.gitignore,ADD,None,22,0,None,None,2018-03-16 16:08:47-07:00,None,None,None
+123834831ccfe5fc25fbd61f98498b92da2831bb,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-03-16 16:08:50-07:00,None,None,None
+602e6fcb41072d870097dc22d24feae303b25323,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-03-16 16:08:51-07:00,None,None,None
+d051e4f64865f9d06bc4a4fa91b3b4a569a2cea4,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-03-16 16:08:52-07:00,None,None,None
+04d963721068b109c9751aae9c991324e21f347f,README.md,None,README.md,ADD,None,57,0,None,None,2018-03-16 16:08:53-07:00,None,None,None
+3fe20fc474bee0b52d3ce251b3dd719b20198ac0,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-03-16 16:08:54-07:00,None,None,None
+c9475eb9643ce1b870abeaf3407b2d80c8e36402,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-03-16 16:08:55-07:00,None,None,None
+0a34f00726c3cbdddcbd47a020af65262519c05d,pom.xml,None,RAGRS/pom.xml,ADD,None,44,0,None,None,2018-03-16 16:11:54-07:00,0.0,0.0,1.0
+0a34f00726c3cbdddcbd47a020af65262519c05d,App.java,None,RAGRS/src/main/java/AzureApp/App.java,ADD,115,153,0,832,17,2018-03-16 16:11:54-07:00,0.0,0.0,1.0
+0a34f00726c3cbdddcbd47a020af65262519c05d,pom.properties,None,RAGRS/target/maven-archiver/pom.properties,ADD,None,5,0,None,None,2018-03-16 16:11:54-07:00,0.0,0.0,1.0
+0a34f00726c3cbdddcbd47a020af65262519c05d,createdFiles.lst,RAGRS/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,RAGRS/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,ADD,None,0,0,None,None,2018-03-16 16:11:54-07:00,0.0,0.0,1.0
+0a34f00726c3cbdddcbd47a020af65262519c05d,inputFiles.lst,None,RAGRS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,ADD,None,1,0,None,None,2018-03-16 16:11:54-07:00,0.0,0.0,1.0
+79c2e7c7f0bc971287f79c72c04565cd2c2d500c,App.java,RAGRS/src/main/java/AzureApp/App.java,RAGRS/src/main/java/AzureApp/App.java,MODIFY,115,22,0,832,17,2018-03-19 09:54:33-07:00,1.0,1.0,1.0
+87fd6bbff45e8438a9e6dac665a27d7d95e86aa9,App.java,RAGRS/src/main/java/AzureApp/App.java,RAGRS/src/main/java/AzureApp/App.java,MODIFY,120,15,12,828,18,2018-03-21 11:47:07-07:00,0.0,0.0,1.0
+f231eb9a5296abf45f8f0288d284b7ff7711aeb2,README.md,README.md,README.md,MODIFY,None,48,37,None,None,2018-04-02 11:14:33-07:00,None,None,None
+7ede2c37da3f53917482da62423dd41444a457b5,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-04-02 13:29:09-07:00,None,None,None
+1e595ed62a4435d98681c27747180c34c9d9e6b4,README.md,README.md,README.md,MODIFY,None,3,3,None,None,2019-02-25 11:44:43-08:00,None,None,None
+308cfe5c0ae5d9779c3a3a1778e194bab13c4899,README.md,README.md,README.md,MODIFY,None,12,12,None,None,2019-02-27 15:00:29-08:00,None,None,None

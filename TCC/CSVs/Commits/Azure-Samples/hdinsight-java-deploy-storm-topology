@@ -1,0 +1,11 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+ed6041c7d0c1e531a3f83ec8cb1392d0cd403dba,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2016-06-22 15:59:43+00:00,None,None,None
+c0312d268d0865a13dbac6a18387736e331fd60b,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2016-06-22 15:59:43+00:00,None,None,None
+5c19694b3cb865b9dc0d65246768e7585fa84619,README.md,None,README.md,ADD,None,10,0,None,None,2016-06-22 15:59:43+00:00,None,None,None
+456f89ebaa99242949472a45e1c881ec04f51de8,.gitignore,None,.gitignore,ADD,None,9,0,None,None,2016-06-22 14:55:44-04:00,None,None,None
+4b2ef0cc5766c5cf4d29547c47740c38e9078fd9,README.md,README.md,README.md,MODIFY,None,87,10,None,None,2016-06-22 14:55:54-04:00,0.0,0.0,1.0
+4b2ef0cc5766c5cf4d29547c47740c38e9078fd9,SubmitToNimbus.iml,None,SubmitToNimbus.iml,ADD,None,55,0,None,None,2016-06-22 14:55:54-04:00,0.0,0.0,1.0
+4b2ef0cc5766c5cf4d29547c47740c38e9078fd9,pom.xml,None,pom.xml,ADD,None,58,0,None,None,2016-06-22 14:55:54-04:00,0.0,0.0,1.0
+4b2ef0cc5766c5cf4d29547c47740c38e9078fd9,Submit.java,None,src/main/java/com/microsoft/example/SubmitToNimbus/Submit.java,ADD,57,73,0,415,6,2016-06-22 14:55:54-04:00,0.0,0.0,1.0
+c2f3b83e73207b8f2e7598b30a3e6d92c0aedb90,README.md,README.md,README.md,MODIFY,None,2,0,None,None,2016-06-23 07:47:36-04:00,None,None,None
+22db4695d5a0464c85e206ecf10d4e7a3199c2a8,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2018-10-30 23:48:11-07:00,None,None,None

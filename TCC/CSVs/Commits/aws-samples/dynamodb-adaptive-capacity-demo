@@ -1,0 +1,10 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+681a5cfd059b4eb2ec083dacb6db83065940e8d9,LICENSE,None,LICENSE,ADD,None,201,0,None,None,2017-10-13 12:22:17-07:00,None,None,None
+681a5cfd059b4eb2ec083dacb6db83065940e8d9,README.md,None,README.md,ADD,None,2,0,None,None,2017-10-13 12:22:17-07:00,None,None,None
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,NOTICE,None,NOTICE,ADD,None,2,0,None,None,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,README.md,README.md,README.md,MODIFY,None,21,2,None,None,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,pom.xml,None,pom.xml,ADD,None,103,0,None,None,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,CensusDemo.java,None,src/main/java/com/amazonaws/dynamodb/demo/CensusDemo.java,ADD,108,142,0,948,14,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,Province.java,None,src/main/java/com/amazonaws/dynamodb/demo/Province.java,ADD,35,59,0,208,4,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159
+ad984454625b746392b359d4dc1a4e2d8e1ae65a,TableUtil.java,None,src/main/java/com/amazonaws/dynamodb/demo/TableUtil.java,ADD,31,55,0,254,3,2018-08-09 09:19:36-07:00,0.616822429906542,1.0,0.7663551401869159

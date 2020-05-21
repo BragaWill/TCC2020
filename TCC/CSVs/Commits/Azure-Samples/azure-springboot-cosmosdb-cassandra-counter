@@ -1,0 +1,18 @@
+commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+130ada8fac4d29a6109d5d12886bf60cf8142c3a,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2019-07-30 23:00:37-07:00,None,None,None
+f32b7b5b64caef3732afee53f30087f411bc7b84,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2019-07-30 23:00:40-07:00,None,None,None
+6e2021e4cba9f65f969d60c014aac1ced4a41e92,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2019-07-30 23:00:42-07:00,None,None,None
+cee3c9ec8e7652f211ce488070bc5e0a65e209d6,README.md,None,README.md,ADD,None,64,0,None,None,2019-07-30 23:00:43-07:00,None,None,None
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,.gitignore,.gitignore,.gitignore,MODIFY,None,5,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,README.md,README.md,README.md,MODIFY,None,27,7,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,azure-springboot-cosmosdb-cassandra-counter.iml,None,azure-springboot-cosmosdb-cassandra-counter.iml,ADD,None,9,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,pom.xml,None,pom.xml,ADD,None,65,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,Application.java,None,src/main/java/com/microsoft/azure/cassandra/coupon/Application.java,ADD,9,12,0,61,1,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,CouponController.java,None,src/main/java/com/microsoft/azure/cassandra/coupon/controller/CouponController.java,ADD,41,53,0,337,6,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,Coupon.java,None,src/main/java/com/microsoft/azure/cassandra/coupon/model/Coupon.java,ADD,23,33,0,149,0,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,CouponRepository.java,None,src/main/java/com/microsoft/azure/cassandra/coupon/repository/CouponRepository.java,ADD,15,23,0,142,0,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+9cd9e3b59d3cf6ad30261d53e76fd8b3b3815c6e,application.properties,None,src/main/resources/application.properties,ADD,None,8,0,None,None,2019-07-31 10:45:39-07:00,1.0,1.0,1.0
+cef2055be4cf45b77bf323e2de5e0ad5a123e9cc,.gitignore,.gitignore,.gitignore,MODIFY,None,1,1,None,None,2019-07-31 10:46:59-07:00,None,None,None
+cef2055be4cf45b77bf323e2de5e0ad5a123e9cc,azure-springboot-cosmosdb-cassandra-counter.iml,azure-springboot-cosmosdb-cassandra-counter.iml,None,DELETE,None,0,9,None,None,2019-07-31 10:46:59-07:00,None,None,None
