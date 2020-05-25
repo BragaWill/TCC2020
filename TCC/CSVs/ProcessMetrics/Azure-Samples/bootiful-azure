@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+src/main/resources/application.properties,8,2,23,23,8,3,1,42,14,23,19,6,19
+.gitignore,8,2,25,23,12,2,1.0,25,12,23,0,0,0
+pom.xml,8,2,105,102,52,2,4.5,118,59,102,13,6,13
+src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,8,2,180,186,90,2,10.0,236,118,186,56,28,56
+README.md,8,2,2,57,1,2,1.0,59,30,57,57,28,57
+mvnw,8,2,286,286,286,1,1,286,286,286,0,0,0
+mvnw.cmd,8,2,161,161,161,1,1,161,161,161,0,0,0
+src/main/resources/cat.jpg,8,2,0,0,0,1,0,0,0,0,0,0,0
+src/test/java/com/example/bootifulazure/BootifulAzureApplicationTests.java,8,2,16,16,16,1,1,16,16,16,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,8,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,8,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,8,2,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,8,2,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,8,2,13,13,13,1,1,13,13,13,0,0,0

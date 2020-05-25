@@ -1,0 +1,11 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,3,1,63,57,13,5,1,127,25,57,64,13,57
+pom.xml,3,1,75,40,25,3,2,79,26,40,4,1,2
+src/main/java/com.microsoft.azure/Main.java,3,1,8,10,4,2,1.0,10,5,10,2,1,2
+src/main/java/com.microsoft.azure/NetworkAclSample.java,3,1,111,94,28,4,2.0,119,30,94,8,2,4
+.github/PULL_REQUEST_TEMPLATE.md,3,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,3,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,3,1,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,3,1,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,3,1,13,13,13,1,1,13,13,13,0,0,0
+.gitignore,3,1,23,23,23,1,1,23,23,23,0,0,0

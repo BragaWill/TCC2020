@@ -1,0 +1,16 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+.gitignore,8,1,28,22,9,3,1,29,10,22,1,0,1
+README.md,8,1,43,57,11,4,6.5,128,32,57,85,21,41
+blobAzureApp/.classpath,8,1,44,24,22,2,1.5,45,22,25,1,0,1
+blobAzureApp/.settings/org.eclipse.jdt.apt.core.prefs,8,1,2,2,2,1,1,2,2,2,0,0,0
+blobAzureApp/.settings/org.eclipse.jdt.core.prefs,8,1,9,5,4,2,1.5,12,6,7,3,2,3
+blobAzureApp/pom.xml,8,1,44,42,15,3,1,45,15,42,1,0,1
+blobAzureApp/src/main/java/blobQuickstart/blobAzureApp/AzureApp.java,8,1,144,145,18,8,3.5,485,61,145,341,43,79
+blobAzureApp/.project,8,1,23,23,23,1,1,23,23,23,0,0,0
+blobAzureApp/.settings/org.eclipse.core.resources.prefs,8,1,3,3,3,1,1,3,3,3,0,0,0
+blobAzureApp/.settings/org.eclipse.m2e.core.prefs,8,1,4,4,4,1,1,4,4,4,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,8,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,8,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,8,1,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,8,1,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,8,1,13,13,13,1,1,13,13,13,0,0,0

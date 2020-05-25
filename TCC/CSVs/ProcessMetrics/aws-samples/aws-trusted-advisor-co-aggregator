@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+template.yaml,11,4,121,117,40,3,1,125,42,117,4,1,2
+CostDataLake/src/main/java/com.awssample.costdatalake/TAChecks.java,11,4,91,63,30,3,5,109,36,63,18,6,12
+CostDataLake/src/main/java/com.awssample.costdatalake/TrustedAdvisorFunction.java,11,4,79,78,26,3,2,82,27,78,3,1,2
+.gitignore,11,4,7,7,7,1,1,7,7,7,0,0,0
+CostDataLake/CostDatalake.iml,11,4,33,33,33,1,1,33,33,33,0,0,0
+CostDataLake/pom.xml,11,4,67,67,67,1,1,67,67,67,0,0,0
+QuickSight.png,11,4,0,0,0,1,0,0,0,0,0,0,0
+README.md,11,4,141,128,70,2,4.0,148,74,135,7,4,7
+TA,11,4,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg,Aggregator.jpg
+0,11,4,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json,events/event.json
+63,11,4,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh,oneclick.sh
+3,11,4,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md
+4,11,4,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md
+61,11,4,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE,LICENSE

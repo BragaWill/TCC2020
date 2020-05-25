@@ -1,0 +1,9 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,3,1,37,31,6,6,2.0,53,9,33,16,3,7
+src/GetStarted/Program.java,3,1,53,53,18,3,1,56,19,53,3,1,2
+None,3,1,-91,-38,-46,2,1.0,0,0,0,91,46,53
+pom.xml,3,1,45,33,15,3,1,50,17,33,5,2,3
+src/main/java/MongoDBGetStarted/Program/Program.java,3,1,53,53,26,2,1.5,56,28,53,3,2,3
+src/test/java/MongoDBGetStarted/Program/AppTest.java,3,1,38,38,38,1,1,38,38,38,0,0,0
+LICENSE,3,1,21,21,21,1,1,21,21,21,0,0,0
+.gitignore,3,1,12,12,12,1,1,12,12,12,0,0,0

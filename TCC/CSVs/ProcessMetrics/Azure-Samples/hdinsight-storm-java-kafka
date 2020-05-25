@@ -1,0 +1,13 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+pom.xml,7,2,158,125,32,5,2,170,34,125,12,2,7
+README.md,7,2,151,121,22,7,5,272,39,121,121,17,49
+create-kafka-storm-clusters-in-vnet.json,7,2,324,272,108,3,1,390,130,272,66,22,65
+dev.properties,7,2,5,3,2,2,1.0,5,2,3,0,0,0
+resources/reader.yaml,7,2,118,66,30,4,3.0,132,33,66,14,4,10
+.gitignore,7,2,16,11,4,4,1.0,17,4,11,1,0,1
+resources/writer.yaml,7,2,76,56,25,3,2,85,28,56,9,3,7
+None,7,2,-29,-29,-29,1,1,0,0,0,29,29,29
+scripts/set-env-variables.sh,7,2,29,29,14,2,1.0,30,15,29,1,0,1
+src/main/java/com/microsoft/example/LoggerBolt.java,7,2,30,31,15,2,3.5,40,20,31,10,5,10
+src/main/java/com/microsoft/example/SentenceSpout.java,7,2,75,75,38,2,1.0,82,41,75,7,4,7
+resources/log4j2.xml,7,2,18,18,18,1,1,18,18,18,0,0,0

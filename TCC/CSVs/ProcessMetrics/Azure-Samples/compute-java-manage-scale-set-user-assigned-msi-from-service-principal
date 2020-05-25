@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,43,37,5,9,1,89,10,37,46,5,19
+pom.xml,7,2,74,64,18,4,1.0,77,19,64,3,1,1
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,3137,1578,2,2.0,3157,1578,3137,1,0,1
+src/main/java/com/microsoft/azure/management/compute/samples/ManageScaleSetUserAssignedMSIFromServicePrincipal.java,7,2,188,187,94,2,1.0,188,94,187,0,0,0
+.gitignore,7,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,2,21,21,21,1,1,21,21,21,0,0,0

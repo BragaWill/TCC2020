@@ -1,0 +1,13 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,6,2,227,154,15,15,2,306,20,155,79,5,26
+src/main/java/com/amazonaws/msk/samples/AWSACMPCAProxy.java,6,2,89,93,44,2,1.0,93,46,93,4,2,4
+src/main/java/com/amazonaws/msk/samples/AuthMSK.java,6,2,137,435,10,14,12.0,964,69,435,827,59,271
+src/main/java/com/amazonaws/msk/samples/Crypto.java,6,2,133,133,44,3,2,138,46,133,5,2,3
+src/main/java/com/amazonaws/msk/samples/Util.java,6,2,32,33,16,2,1.0,33,16,33,1,0,1
+CODE_OF_CONDUCT.md,6,2,4,4,4,1,1,4,4,4,0,0,0
+CONTRIBUTING.md,6,2,61,61,61,1,1,61,61,61,0,0,0
+LICENSE,6,2,15,15,15,1,1,15,15,15,0,0,0
+pom.xml,6,2,149,135,30,5,1,156,31,135,7,1,7
+src/main/java/com/amazonaws/msk/samples/Credentials.java,6,2,43,43,43,1,1,43,43,43,0,0,0
+src/main/resources/log4j2.xml,6,2,29,29,29,1,1,29,29,29,0,0,0
+.gitignore,6,2,5,5,5,1,1,5,5,5,0,0,0

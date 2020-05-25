@@ -1,0 +1,10 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,6,2,45,33,3,15,2,129,9,35,84,6,32
+pom.xml,6,2,74,64,5,15,1,101,7,64,27,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,6,2,3156,1686,243,13,10,3936,303,1686,780,60,387
+LICENSE,6,2,21,21,7,3,1,42,14,21,21,7,20
+.gitignore,6,2,50,38,25,2,1.5,52,26,40,2,1,2
+None,6,2,-7,-7,-7,1,1,0,0,0,7,7,7
+CONTRIBUTING.md,6,2,11,11,11,1,1,11,11,11,0,0,0
+src/main/java/com/microsoft/azure/management/storage/samples/ManageStorageAccountAsync.java,6,2,158,158,158,1,1,158,158,158,0,0,0
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,6,2,7,7,7,1,1,7,7,7,0,0,0

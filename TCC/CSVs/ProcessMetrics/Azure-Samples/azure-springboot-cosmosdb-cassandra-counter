@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+.gitignore,11,3,28,23,9,3,1,29,10,23,1,0,1
+None,11,3,-9,-9,-9,1,1,0,0,0,9,9,9
+CHANGELOG.md,11,3,13,13,13,1,1,13,13,13,0,0,0
+CONTRIBUTING.md,11,3,76,76,76,1,1,76,76,76,0,0,0
+README.md,11,3,84,64,42,2,4.0,91,46,64,7,4,7
+azure-springboot-cosmosdb-cassandra-counter.iml,11,3,9,9,9,1,1,9,9,9,0,0,0
+pom.xml,11,3,65,65,65,1,1,65,65,65,0,0,0
+src/main/java/com/microsoft/azure/cassandra/coupon/Application.java,11,3,12,12,12,1,1,12,12,12,0,0,0
+src/main/java/com/microsoft/azure/cassandra/coupon/controller/CouponController.java,11,3,53,53,53,1,1,53,53,53,0,0,0
+src/main/java/com/microsoft/azure/cassandra/coupon/model/Coupon.java,11,3,33,33,33,1,1,33,33,33,0,0,0
+src/main/java/com/microsoft/azure/cassandra/coupon/repository/CouponRepository.java,11,3,23,23,23,1,1,23,23,23,0,0,0
+src/main/resources/application.properties,11,3,8,8,8,1,1,8,8,8,0,0,0
+LICENSE,11,3,21,21,21,1,1,21,21,21,0,0,0
+CODE_OF_CONDUCT.md,11,3,9,9,9,1,1,9,9,9,0,0,0

@@ -1,0 +1,14 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+pom.xml,6,1,69,69,34,2,2.5,72,36,69,3,2,3
+README.md,6,1,58,57,14,4,1.0,117,29,57,59,15,57
+src/main/java/KeyVaultManagedStorageSamples.java,6,1,146,146,73,2,1.5,148,74,146,2,1,2
+src/main/java/KeyVaultSampleBase.java,6,1,113,137,38,3,2,163,54,137,50,17,46
+src/main/java/SampleTokenCredential.java,6,1,38,21,19,2,3.0,44,22,23,6,3,6
+src/main/java/SasDefinitionSample.java,6,1,230,226,58,4,1.5,233,58,226,3,1,2
+src/main/java/Main.java,6,1,27,27,14,2,2.0,32,16,27,5,2,5
+.github/PULL_REQUEST_TEMPLATE.md,6,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,6,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,6,1,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,6,1,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,6,1,13,13,13,1,1,13,13,13,0,0,0
+.gitignore,6,1,22,22,22,1,1,22,22,22,0,0,0

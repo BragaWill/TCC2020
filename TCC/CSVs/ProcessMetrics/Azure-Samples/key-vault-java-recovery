@@ -1,0 +1,16 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,9,2,90,57,18,5,1,138,28,57,48,10,41
+pom.xml,9,2,78,39,11,7,1,122,17,39,44,6,38
+src/main/java/KeyVaultSampleBase.java,9,2,140,143,70,2,2.5,153,76,143,13,6,13
+src/main/java/SoftDeleteSample.java,9,2,384,384,192,2,2.0,387,194,384,3,2,3
+None,9,2,-234,-1,-78,3,1,0,0,0,234,78,146
+src/main/java/BackupRestoreSample.java,9,2,83,83,83,1,1,83,83,83,0,0,0
+src/main/java/Main.java,9,2,14,14,14,1,1,14,14,14,0,0,0
+.gitignore,9,2,1,22,0,2,1.0,23,12,22,22,11,22
+src/main/java/com/microsoft/azure/BackupRestoreSample.java,9,2,87,87,44,2,0.5,87,44,87,0,0,0
+src/main/java/com/microsoft/azure/KeyVaultSampleBase.java,9,2,146,146,73,2,0.5,146,73,146,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,9,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,9,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,9,2,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,9,2,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,9,2,13,13,13,1,1,13,13,13,0,0,0

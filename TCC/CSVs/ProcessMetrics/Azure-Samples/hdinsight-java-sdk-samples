@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,11,2,30,57,3,10,3.5,112,11,57,82,8,44
+management/pom.xml,11,2,28,28,14,2,1.0,29,14,28,1,0,1
+management/src/main/java/com/microsoft/azure/hdinsight/samples/CreateHadoopClusterWithAdlsGen2Sample.java,11,2,87,86,29,3,1,90,30,86,3,1,2
+management/src/main/java/com/microsoft/azure/hdinsight/samples/CreateEspClusterSample.java,11,2,112,112,56,2,1.5,114,57,112,2,1,2
+management/src/main/java/com/microsoft/azure/hdinsight/samples/CreateKafkaClusterSample.java,11,2,102,102,51,2,1.5,104,52,102,2,1,2
+management/src/main/java/com/microsoft/azure/hdinsight/samples/CreateSparkClusterSample.java,11,2,85,85,42,2,1.5,87,44,85,2,1,2
+.github/PULL_REQUEST_TEMPLATE.md,11,2,11,45,6,2,2.0,51,26,45,40,20,40
+.gitignore,11,2,64,41,32,2,3.5,75,38,52,11,6,11
+None,11,2,-13,-13,-13,1,1,0,0,0,13,13,13
+CONTRIBUTING.md,11,2,76,76,38,2,1.0,77,38,76,1,0,1
+management/src/main/java/com/microsoft/azure/hdinsight/samples/Configurations.java.template,11,2,157,157,157,1,1,157,157,157,0,0,0
+.github/ISSUE_TEMPLATE.md,11,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,11,2,21,21,21,1,1,21,21,21,0,0,0
+CHANGELOG.md,11,2,13,13,13,1,1,13,13,13,0,0,0

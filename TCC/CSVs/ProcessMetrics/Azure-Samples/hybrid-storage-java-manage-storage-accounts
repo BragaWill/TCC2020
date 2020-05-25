@@ -1,0 +1,11 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+pom.xml,6,1,104,94,21,5,2,119,24,94,15,3,7
+README.md,6,1,58,57,7,8,1.0,103,13,57,45,6,36
+CHANGELOG.md,6,1,13,13,6,2,1.5,16,8,13,3,2,3
+CONTRIBUTING.md,6,1,76,76,38,2,1.5,78,39,76,2,1,2
+src/main/java/com/microsoft/azure/management/samples/Utils.java,6,1,2901,2901,2901,1,1,2901,2901,2901,0,0,0
+src/main/java/com/microsoft/azure/management/storage/samples/ManageStorageAccount.java,6,1,260,260,260,1,1,260,260,260,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,6,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,6,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,6,1,21,21,21,1,1,21,21,21,0,0,0
+.gitignore,6,1,330,330,330,1,1,330,330,330,0,0,0

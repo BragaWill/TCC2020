@@ -1,0 +1,17 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,11,2,102,85,20,5,2,110,22,89,8,2,4
+.gitignore,11,2,4,4,4,1,1,4,4,4,0,0,0
+pom.xml,11,2,83,83,83,1,1,83,83,83,0,0,0
+src/main/java/com/amazonaws/workmail/demo/ApiGatewayProxyResponse.java,11,2,21,21,21,1,1,21,21,21,0,0,0
+src/main/java/com/amazonaws/workmail/demo/ApiGatewayRequest.java,11,2,54,54,54,1,1,54,54,54,0,0,0
+src/main/java/com/amazonaws/workmail/demo/EwsApi.java,11,2,41,41,41,1,1,41,41,41,0,0,0
+src/main/java/com/amazonaws/workmail/demo/PushNotificationLambdaHandler.java,11,2,149,149,149,1,1,149,149,149,0,0,0
+src/main/java/com/amazonaws/workmail/demo/PushNotificationResponse.java,11,2,87,87,87,1,1,87,87,87,0,0,0
+src/main/java/com/amazonaws/workmail/demo/SendNotificationResult.java,11,2,18,18,18,1,1,18,18,18,0,0,0
+src/main/java/com/amazonaws/workmail/demo/SubscribeLambdaHandler.java,11,2,52,52,52,1,1,52,52,52,0,0,0
+template.yml,11,2,84,84,84,1,1,84,84,84,0,0,0
+NOTICE,11,2,2,2,2,1,1,2,2,2,0,0,0
+LICENSE,11,2,202,202,202,1,1,202,202,202,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,11,2,6,6,6,1,1,6,6,6,0,0,0
+CONTRIBUTING.md,11,2,61,61,61,1,1,61,61,61,0,0,0
+CODE_OF_CONDUCT.md,11,2,4,4,4,1,1,4,4,4,0,0,0

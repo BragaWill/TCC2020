@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,8,1,31,31,10,3,1,33,11,31,2,1,1
+greeting-sam.yaml,8,1,160,160,160,1,1,160,160,160,0,0,0
+hooks/postTrafficHook.js,8,1,45,45,45,1,1,45,45,45,0,0,0
+hooks/preTrafficHook.js,8,1,49,49,49,1,1,49,49,49,0,0,0
+.gitignore,8,1,7,4,4,2,1.0,7,4,4,0,0,0
+pom.xml,8,1,307,276,28,11,2,359,33,276,52,5,30
+Dockerfile,8,1,6,6,6,1,1,6,6,6,0,0,0
+readme.adoc,8,1,4,4,4,1,1,4,4,4,0,0,0
+src/assembly/lambda.xml,8,1,19,19,19,1,1,19,19,19,0,0,0
+src/main/java/org/aws/samples/compute/greeting/GreetingHandler.java,8,1,48,48,48,1,1,48,48,48,0,0,0
+src/main/java/org/aws/samples/compute/greeting/MyApplication.java,8,1,37,37,37,1,1,37,37,37,0,0,0
+src/main/java/org/aws/samples/compute/greeting/StartupBean.java,8,1,35,35,35,1,1,35,35,35,0,0,0
+src/main/webapp/WEB-INF/web.xml,8,1,18,18,18,1,1,18,18,18,0,0,0
+LICENSE,8,1,201,201,201,1,1,201,201,201,0,0,0

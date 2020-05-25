@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,9,3,77,54,19,4,4.0,93,23,61,16,4,8
+.gitignore,9,3,1,1,1,1,1,1,1,1,0,0,0
+CodeGuruProfilerScreenshot.png,9,3,0,0,0,1,0,0,0,0,0,0,0
+pom.xml,9,3,122,122,122,1,1,122,122,122,0,0,0
+src/main/java/com/company/demoapplication/ImageEditor.java,9,3,25,25,25,1,1,25,25,25,0,0,0
+src/main/java/com/company/demoapplication/ImageProcessor.java,9,3,154,154,154,1,1,154,154,154,0,0,0
+src/main/java/com/company/demoapplication/Main.java,9,3,141,141,141,1,1,141,141,141,0,0,0
+src/main/java/com/company/demoapplication/SqsMessage.java,9,3,57,57,57,1,1,57,57,57,0,0,0
+src/main/java/com/company/demoapplication/TaskPublisher.java,9,3,64,64,64,1,1,64,64,64,0,0,0
+src/main/resources/example-image.png,9,3,0,0,0,1,0,0,0,0,0,0,0
+src/main/resources/log4j2.xml,9,3,24,24,24,1,1,24,24,24,0,0,0
+CODE_OF_CONDUCT.md,9,3,4,4,4,1,1,4,4,4,0,0,0
+CONTRIBUTING.md,9,3,61,61,61,1,1,61,61,61,0,0,0
+LICENSE,9,3,15,15,15,1,1,15,15,15,0,0,0

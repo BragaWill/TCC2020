@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,44,38,4,11,1,99,9,38,55,5,20
+pom.xml,7,2,74,64,9,8,1.5,87,11,64,13,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,2650,631,5,6,3174,635,2650,18,4,11
+.gitignore,7,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,2,21,21,21,1,1,21,21,21,0,0,0
+src/main/java/com/microsoft/azure/management/eventhub/samples/ManageEventHubGeoDisasterRecovery.java,7,2,193,193,193,1,1,193,193,193,0,0,0

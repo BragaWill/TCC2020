@@ -1,0 +1,10 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,6,2,49,39,2,21,1,109,5,39,60,3,19
+pom.xml,6,2,74,66,3,24,1.0,196,8,66,122,5,66
+src/main/java/com/microsoft/azure/management/samples/Utils.java,6,2,3156,800,186,17,15,4061,239,849,905,53,387
+src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,6,2,249,274,31,8,3.5,507,63,274,258,32,156
+LICENSE,6,2,21,21,10,2,3.5,38,19,21,17,8,17
+None,6,2,-134,-134,-134,1,1,0,0,0,134,134,134
+.gitignore,6,2,50,50,25,2,1.0,51,26,50,1,0,1
+CONTRIBUTING.md,6,2,11,11,4,3,1,31,10,11,20,7,10
+src/main/java/com/microsoft/azure/management/samples/SSHShell.java,6,2,134,1448,67,2,13.5,1543,772,1448,1409,704,1409

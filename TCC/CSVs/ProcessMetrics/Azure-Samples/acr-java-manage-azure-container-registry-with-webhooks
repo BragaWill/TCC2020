@@ -1,0 +1,10 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,9,2,46,40,4,12,1.5,104,9,40,58,5,22
+pom.xml,9,2,89,79,8,11,1,106,10,79,17,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,9,2,3156,2412,351,9,6,3563,396,2412,407,45,387
+src/main/java/com/microsoft/azure/management/samples/DockerUtils.java,9,2,520,517,260,2,1.5,521,260,517,1,0,1
+.gitignore,9,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,9,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,9,2,21,21,21,1,1,21,21,21,0,0,0
+src/main/java/com/microsoft/azure/management/containerregistry/samples/ManageContainerRegistryWithWebhooks.java,9,2,222,222,222,1,1,222,222,222,0,0,0
+src/main/java/com/microsoft/azure/management/samples/SSHShell.java,9,2,374,374,374,1,1,374,374,374,0,0,0

@@ -1,0 +1,13 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,5,1,68,57,14,5,3,121,24,57,53,11,37
+RAGRS/src/main/java/AzureApp/App.java,5,1,178,153,59,3,1,190,63,153,12,4,12
+RAGRS/pom.xml,5,1,44,44,44,1,1,44,44,44,0,0,0
+RAGRS/target/maven-archiver/pom.properties,5,1,5,5,5,1,1,5,5,5,0,0,0
+RAGRS/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,5,1,0,0,0,1,0,0,0,0,0,0,0
+RAGRS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,5,1,1,1,1,1,1,1,1,1,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,5,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,5,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,5,1,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,5,1,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,5,1,13,13,13,1,1,13,13,13,0,0,0
+.gitignore,5,1,22,22,22,1,1,22,22,22,0,0,0

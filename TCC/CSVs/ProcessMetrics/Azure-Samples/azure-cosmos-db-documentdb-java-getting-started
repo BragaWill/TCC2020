@@ -1,0 +1,12 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,11,2,39,34,6,6,1.0,51,8,34,12,2,6
+src/GetStarted/Program.java,11,2,269,268,90,3,1,272,91,268,3,1,2
+.gitignore,11,2,15,15,15,1,1,15,15,15,0,0,0
+CONTRIBUTING.md,11,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,11,2,22,22,22,1,1,22,22,22,0,0,0
+pom.xml,11,2,27,27,27,1,1,27,27,27,0,0,0
+src/GetStarted/Address.java,11,2,32,32,32,1,1,32,32,32,0,0,0
+src/GetStarted/Child.java,11,2,50,50,50,1,1,50,50,50,0,0,0
+src/GetStarted/Family.java,11,2,71,71,71,1,1,71,71,71,0,0,0
+src/GetStarted/Parent.java,11,2,30,30,30,1,1,30,30,30,0,0,0
+src/GetStarted/Pet.java,11,2,13,13,13,1,1,13,13,13,0,0,0

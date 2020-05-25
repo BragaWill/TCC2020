@@ -1,0 +1,9 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,45,39,5,9,1,95,11,39,50,6,21
+pom.xml,7,2,74,64,12,6,2.0,86,14,64,12,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,2533,631,5,3,3168,634,2533,12,2,8
+src/main/resources/web.config,7,2,11,11,11,1,1,11,11,11,0,0,0
+.gitignore,7,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,2,21,21,21,1,1,21,21,21,0,0,0
+src/main/java/com/microsoft/azure/management/appservice/samples/ManageWebAppCosmosDbThroughKeyVault.java,7,2,196,196,196,1,1,196,196,196,0,0,0

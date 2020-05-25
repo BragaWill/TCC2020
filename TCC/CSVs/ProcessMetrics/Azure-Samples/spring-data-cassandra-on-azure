@@ -1,0 +1,16 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,15,4,83,73,28,3,1,84,28,73,1,0,1
+.gitignore,15,4,25,13,12,2,1.5,36,18,24,11,6,11
+.mvn/wrapper/maven-wrapper.jar,15,4,0,0,0,1,0,0,0,0,0,0,0
+.mvn/wrapper/maven-wrapper.properties,15,4,1,1,1,1,1,1,1,1,0,0,0
+CHANGELOG.md,15,4,13,13,13,1,1,13,13,13,0,0,0
+CONTRIBUTING.md,15,4,76,76,76,1,1,76,76,76,0,0,0
+LICENSE.md,15,4,21,21,21,1,1,21,21,21,0,0,0
+mvnw,15,4,286,286,286,1,1,286,286,286,0,0,0
+mvnw.cmd,15,4,161,161,161,1,1,161,161,161,0,0,0
+pom.xml,15,4,51,51,51,1,1,51,51,51,0,0,0
+src/main/java/com/microsoft/azure/samples/spring/Application.java,15,4,18,18,18,1,1,18,18,18,0,0,0
+src/main/java/com/microsoft/azure/samples/spring/Pet.java,15,4,55,55,55,1,1,55,55,55,0,0,0
+src/main/java/com/microsoft/azure/samples/spring/PetController.java,15,4,46,46,46,1,1,46,46,46,0,0,0
+src/main/java/com/microsoft/azure/samples/spring/PetRepository.java,15,4,14,14,14,1,1,14,14,14,0,0,0
+src/main/resources/application.properties,15,4,8,8,8,1,1,8,8,8,0,0,0

@@ -1,0 +1,17 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,9,2,18,57,4,4,1.0,71,18,57,53,13,45
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/ConfigurationManager.java,9,2,32,32,32,1,1,32,32,32,0,0,0
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/Helpers.java,9,2,104,104,104,1,1,104,104,104,0,0,0
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/samples/ConflictWorker.java,9,2,882,882,882,1,1,882,882,882,0,0,0
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/samples/Main.java,9,2,79,79,79,1,1,79,79,79,0,0,0
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/samples/MultiMasterScenario.java,9,2,166,166,166,1,1,166,166,166,0,0,0
+main/java/com/microsoft/azure/cosmosdb/rx/examples/multimaster/samples/Worker.java,9,2,186,186,186,1,1,186,186,186,0,0,0
+main/resources/log4j.properties,9,2,23,23,23,1,1,23,23,23,0,0,0
+main/resources/multi-master-sample-config.properties,9,2,8,8,8,1,1,8,8,8,0,0,0
+main/resources/resolver-storedproc.txt,9,2,45,45,45,1,1,45,45,45,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,9,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,9,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,9,2,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,9,2,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,9,2,13,13,13,1,1,13,13,13,0,0,0
+.gitignore,9,2,330,330,330,1,1,330,330,330,0,0,0

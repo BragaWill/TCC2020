@@ -1,0 +1,15 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+pom.xml,6,1,104,104,21,5,5,227,45,109,123,25,112
+None,6,1,-166,-32,-55,3,1,0,0,0,166,55,81
+src/main/java/package/Function.java,6,1,32,32,32,1,1,32,32,32,0,0,0
+src/test/java/package/FunctionTest.java,6,1,53,53,53,1,1,53,53,53,0,0,0
+src/test/java/package/HttpResponseMessageMock.java,6,1,81,81,81,1,1,81,81,81,0,0,0
+README.md,6,1,58,57,8,7,1,106,15,57,48,7,36
+CHANGELOG.md,6,1,13,13,6,2,1.5,16,8,13,3,2,3
+CONTRIBUTING.md,6,1,76,76,38,2,2.0,79,40,76,3,2,3
+src/main/java/com/microsoft/azure/management/resources/samples/ManageResourceGroup.java,6,1,220,220,220,1,1,220,220,220,0,0,0
+src/main/java/com/microsoft/azure/management/samples/Utils.java,6,1,2930,2930,2930,1,1,2930,2930,2930,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,6,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,6,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,6,1,21,21,21,1,1,21,21,21,0,0,0
+.gitignore,6,1,330,330,330,1,1,330,330,330,0,0,0

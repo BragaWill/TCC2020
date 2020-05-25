@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+src/main/webapp/index.jsp,5,2,14,14,7,2,1.0,15,8,14,1,0,1
+az-settings.xml,5,2,21,23,10,2,2.5,40,20,23,19,10,19
+pom.xml,5,2,81,77,40,2,4.0,143,72,77,62,31,62
+README.md,5,2,23,20,12,2,1.0,23,12,20,0,0,0
+.gitignore,5,2,60,38,30,2,3.0,70,35,48,10,5,10
+src/main/webapp/WEB-INF/web.xml,5,2,6,6,6,1,1,6,6,6,0,0,0
+LICENSE,5,2,21,21,21,1,1,21,21,21,0,0,0

@@ -1,0 +1,10 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,6,1,169,94,34,5,1,203,41,126,34,7,32
+src/main/java/com/example/Function.java,6,1,68,68,34,2,1.0,69,34,68,1,0,1
+.gitignore,6,1,39,27,20,2,1.5,50,25,38,11,6,11
+host.json,6,1,7,7,7,1,1,7,7,7,0,0,0
+pom.xml,6,1,209,209,209,1,1,209,209,209,0,0,0
+src/main/java/com/example/TelemetryItem.java,6,1,54,54,54,1,1,54,54,54,0,0,0
+SECURITY.md,6,1,41,41,41,1,1,41,41,41,0,0,0
+LICENSE,6,1,21,21,21,1,1,21,21,21,0,0,0
+CODE_OF_CONDUCT.md,6,1,9,9,9,1,1,9,9,9,0,0,0

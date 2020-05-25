@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,43,37,4,10,1.5,80,8,37,37,4,12
+pom.xml,7,2,74,64,11,7,2,86,12,64,12,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,2904,789,4,4.5,3171,793,2904,15,4,11
+.gitignore,7,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,2,21,21,21,1,1,21,21,21,0,0,0
+src/main/java/com/microsoft/azure/management/eventhub/samples/ManageEventHubEvents.java,7,2,161,161,161,1,1,161,161,161,0,0,0

@@ -1,0 +1,14 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,6,2,47,57,4,11,2,126,11,57,79,7,43
+pom.xml,6,2,74,64,6,13,1,96,7,64,22,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,6,2,3156,2214,287,11,9,3593,327,2214,437,40,387
+None,6,2,-113,-2,-23,5,1,0,0,0,113,23,45
+.gitignore,6,2,50,28,25,2,2.5,61,30,39,11,6,11
+LICENSE,6,2,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,6,2,11,76,6,2,3.0,83,42,76,72,36,72
+src/main/java/com/microsoft/azure/management/graphrbac/samples/ManageUsersGroupsAndRoles.java,6,2,185,185,185,1,1,185,185,185,0,0,0
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,6,2,2,2,2,1,1,2,2,2,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,6,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,6,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,6,2,21,21,21,1,1,21,21,21,0,0,0
+CHANGELOG.md,6,2,13,13,13,1,1,13,13,13,0,0,0

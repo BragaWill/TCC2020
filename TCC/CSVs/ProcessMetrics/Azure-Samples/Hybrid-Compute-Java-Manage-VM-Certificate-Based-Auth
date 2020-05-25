@@ -1,0 +1,13 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,8,2,68,57,14,5,1,121,24,57,53,11,35
+CHANGELOG.md,8,2,7,13,4,2,2.0,17,8,13,10,5,10
+CONTRIBUTING.md,8,2,76,76,38,2,2.0,79,40,76,3,2,3
+pom.xml,8,2,111,111,111,1,1,111,111,111,0,0,0
+src/main/java/com/microsoft/azure/management/compute/samples/ManageVirtualMachine.java,8,2,428,428,428,1,1,428,428,428,0,0,0
+src/main/java/com/microsoft/azure/management/samples/JavaAuthenticator.java,8,2,128,128,128,1,1,128,128,128,0,0,0
+src/main/java/com/microsoft/azure/management/samples/KeyCert.java,8,2,41,41,41,1,1,41,41,41,0,0,0
+src/main/java/com/microsoft/azure/management/samples/Utils.java,8,2,2920,2920,2920,1,1,2920,2920,2920,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,8,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,8,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,8,2,21,21,21,1,1,21,21,21,0,0,0
+.gitignore,8,2,330,330,330,1,1,330,330,330,0,0,0

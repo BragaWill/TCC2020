@@ -1,0 +1,17 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,12,2,113,51,5,25,2,300,12,55,187,7,32
+v11/.classpath,12,2,44,26,9,5,0,44,9,26,0,0,0
+v11/.project,12,2,23,23,6,4,0.0,23,6,23,0,0,0
+v11/pom.xml,12,2,48,72,3,15,1,139,9,72,91,6,63
+v11/src/main/java/quickstart/Quickstart.java,12,2,215,200,11,19,3,593,31,200,378,20,129
+v12/.classpath,12,2,44,44,15,3,0,44,15,44,0,0,0
+v12/.project,12,2,23,23,8,3,0,23,8,23,0,0,0
+v12/pom.xml,12,2,53,54,13,4,0.5,62,16,54,9,2,9
+v12/src/main/java/quickstart/Quickstart.java,12,2,118,139,30,4,0.5,173,43,139,55,14,55
+None,12,2,-39,-2,-8,5,1,0,0,0,39,8,15
+storage-blobs-java-v10-quickstart-v11/.settings/org.eclipse.jdt.apt.core.prefs,12,2,2,2,1,2,0.5,2,1,2,0,0,0
+storage-blobs-java-v10-quickstart-v11/.settings/org.eclipse.jdt.core.prefs,12,2,9,9,4,2,0.5,9,4,9,0,0,0
+storage-blobs-java-v10-quickstart-v11/.settings/org.eclipse.m2e.core.prefs,12,2,4,4,2,2,0.5,4,2,4,0,0,0
+storage-blobs-java-v10-quickstart-v3/README.md,12,2,9,61,1,11,1,81,7,61,72,7,64
+storage-blobs-java-v10-quickstart-v4/README.md,12,2,15,65,5,3,1,81,27,65,66,22,65
+.gitignore,12,2,15,15,15,1,1,15,15,15,0,0,0

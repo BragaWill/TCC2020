@@ -1,0 +1,17 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessorFactory.java,12,4,78,55,16,5,2,119,24,55,41,8,25
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradesProcessor.java,12,4,203,105,41,5,1,243,49,105,40,8,28
+None,12,4,-954,-2,-68,14,1.0,0,0,0,954,68,127
+README.md,12,4,18,6,3,6,1.0,26,4,8,8,1,3
+LICENSE.txt,12,4,28,41,7,4,1.0,110,28,41,82,20,41
+pom.xml,12,4,58,58,58,1,1,58,58,58,0,0,0
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/model/StockTrade.java,12,4,194,102,48,4,1.0,205,51,102,11,3,11
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockStats.java,12,4,182,104,46,4,1.0,193,48,104,11,3,11
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessor.java,12,4,130,130,130,1,1,130,130,130,0,0,0
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradeGenerator.java,12,4,212,111,53,4,1.0,223,56,111,11,3,11
+src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradesWriter.java,12,4,236,135,47,5,1,282,56,135,46,9,28
+src/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessor.java,12,4,251,134,84,3,1,262,87,134,11,4,11
+src/com/amazonaws/services/kinesis/samples/stocktrades/utils/ConfigurationUtils.java,12,4,79,44,20,4,1.0,91,23,44,12,3,11
+src/com/amazonaws/services/kinesis/samples/stocktrades/utils/CredentialUtils.java,12,4,80,45,27,3,1,91,30,45,11,4,11
+NOTICE.txt,12,4,4,2,2,2,1.0,4,2,2,0,0,0
+.gitignore,12,4,12,12,12,1,1,12,12,12,0,0,0

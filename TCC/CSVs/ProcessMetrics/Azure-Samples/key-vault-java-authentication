@@ -1,0 +1,12 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,5,1,80,57,7,12,1.5,147,12,57,67,6,43
+pom.xml,5,1,115,74,38,3,7,240,80,105,125,42,65
+src/main/java/com/microsoft/KeyVaultADALAuthenticator.java,5,1,97,96,32,3,1,100,33,96,3,1,2
+src/main/java/com/microsoft/KeyVaultCertificateAuthenticator.java,5,1,143,121,48,3,3,238,79,121,95,32,91
+src/main/java/com/microsoft/Main.java,5,1,81,95,27,3,5,158,53,95,77,26,69
+.github/PULL_REQUEST_TEMPLATE.md,5,1,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,5,1,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,5,1,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,5,1,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,5,1,13,13,13,1,1,13,13,13,0,0,0
+.gitignore,5,1,22,22,22,1,1,22,22,22,0,0,0

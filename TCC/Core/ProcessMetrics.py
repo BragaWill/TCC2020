@@ -7,127 +7,136 @@ from pydriller.metrics.process.contributors_experience import ContributorsExperi
 from pydriller.metrics.process.hunks_count import HunksCount
 from pydriller.metrics.process.lines_count import LinesCount
 import csv
+import os.path
 
-# Url of repository
-name = 'azure-cosmos-java-sql-api-todo-app'
-url = '../Repos/' + name
-
-
-class GeradorCSV(object):
-
-    def limpa(self, text):
-        aux = text
-        aux2 = aux.replace('{', '')
-        aux3 = aux2.replace('}', '')
-        aux4 = aux3.replace('\'', '')
-        aux5 = aux4.replace(':', '')
-        aux6 = aux5.replace(',', '').strip()
-        aux7 = aux6.split()
-        return aux7
+# aux = open('../List-Of-Samples/azuresamples.txt', 'r')
+aux = open('../List-Of-Samples/awssamples.txt', 'r')
+list_repos = aux.readlines()
 
 
-# Initial and final commits hash.
-vet = []
-for commit in RepositoryMining(url).traverse_commits():
-    vet.append(commit.hash)
-x = len(vet)
-inicio = vet[0]
-fim = vet[x - 1]
+# Path of repository
+# name = 'azure-cosmos-java-sql-api-todo-app'
+# path = '../Repos/' + name
 
-# ChangeSet
-metric = ChangeSet(path_to_repo=url, from_commit=inicio, to_commit=fim)
-maximum = metric.max()
-average = metric.avg()
 
-# CodeChurn
-metric = CodeChurn(path_to_repo=url, from_commit=inicio, to_commit=fim)
-files_count = metric.count()
-files_max = metric.max()
-files_avg = metric.avg()
-ger = GeradorCSV()
-total = ger.limpa('{}'.format(files_count))
-num = total[1::2]
-pal = total[::2]
-maxi = ger.limpa('{}'.format(files_max))
-num1 = maxi[1::2]
-avg = ger.limpa('{}'.format(files_avg))
-num2 = avg[1::2]
+def getHash(path, num):  # if num = 0 return init and if num != 0 return end.
+    vet = []
+    for commit in RepositoryMining(path).traverse_commits():
+        vet.append(commit.hash)
+    x = len(vet)
+    if num == 0:
+        return vet[0]
+    return vet[x - 1]
 
-# ContributorsCount
-metric = ContributorsCount(path_to_repo=url, from_commit=inicio, to_commit=fim)
-count = metric.count()
-minor = metric.count_minor()
-ger = GeradorCSV()
-cont = ger.limpa('{}'.format(count))  # Number of contributors per file
-numCC = cont[1::2]
-minor = ger.limpa('{}'.format(minor))  # Number of "minor" contributors per file
-num1CC = minor[1::2]
 
-# Lines Count
-metric = LinesCount(path_to_repo=url, from_commit=inicio, to_commit=fim)
-# Added
-added_count = metric.count_added()
-added_max = metric.max_added()
-added_avg = metric.avg_added()
-# Removed
-removed_count = metric.count_removed()
-removed_max = metric.max_removed()
-removed_avg = metric.avg_removed()
-ger = GeradorCSV()
+def limpa(text, num):
+    aux1 = text
+    aux2 = aux1.replace('{', '')
+    aux3 = aux2.replace('}', '')
+    aux4 = aux3.replace('\'', '')
+    aux5 = aux4.replace(':', '')
+    aux6 = aux5.replace(',', '').strip()
+    aux7 = aux6.split()
+    if num == 0:
+        return aux7[::2]
+    return aux7[1::2]
 
-addc = ger.limpa('{}'.format(added_count))
-numLC = addc[1::2]
-addm = ger.limpa('{}'.format(added_max))
-num1LC = addm[1::2]
-adda = ger.limpa('{}'.format(added_avg))
-num2LC = adda[1::2]
-remc = ger.limpa('{}'.format(removed_count))
-num3LC = remc[1::2]
-remm = ger.limpa('{}'.format(removed_max))
-num4LC = remm[1::2]
-rema = ger.limpa('{}'.format(removed_avg))
-num5LC = rema[1::2]
 
-# HunksCount
-metric = HunksCount(path_to_repo=url, from_commit=inicio, to_commit=fim)
-files = metric.count()
-text = '{}'.format(files)  # Hunks Count files
-ger = GeradorCSV()
-auxHC = ger.limpa(text)
-numHC = auxHC[1::2]
+def geraCSV(url, repository, initial, final):
+    path = '../CSVs/ProcessMetrics/' + repository
+    if path == '../CSVs/ProcessMetrics/':
+        exit()
+    if not os.path.isfile(path):
+        print(path + ".csv")
+        with open('../CSVs/ProcessMetrics/' + repository, 'w', newline='') as f:
+            thewriter = csv.writer(f)
+            thewriter.writerow(
+                ['filePath', 'maxChangeSet', 'avgChangeSet', 'totalCodeChurn', 'maxCodeChurn', 'avgCodeChurn',
+                 'commitCount', 'hunksCount','lines_added_count', 'lines_added_avg',
+                 'lines_added_max', 'lines_removed_count',
+                 'lines_removed_avg', 'lines_removed_max']
+            )
+            # ChangeSet
+            metric = ChangeSet(path_to_repo=url, from_commit=initial, to_commit=final)
+            maximum = metric.max()
+            average = metric.avg()
 
-# ContributorsExperience
-metric = ContributorsExperience(path_to_repo=url, from_commit=inicio, to_commit=fim)
-files = metric.count()
-text = '{}'.format(files)  # Contributors Experience files
-ger = GeradorCSV()
-auxCE = ger.limpa(text)
-numCE = auxCE[1::2]
+            # CodeChurn
+            metric = CodeChurn(path_to_repo=url, from_commit=initial, to_commit=final)
+            files_count = metric.count()
+            files_max = metric.max()
+            files_avg = metric.avg()
 
-# CommitsCount
-metric = CommitsCount(path_to_repo=url, from_commit=inicio, to_commit=fim)
-files = metric.count()
-text = '{}'.format(files)  # Commits Count files
-ger = GeradorCSV()
-auxCoC = ger.limpa(text)
-numCoC = auxCoC[1::2]
+            diretory = limpa("{}".format(files_count), 0)  # names of archives
 
-print(len(num))
-print(len(pal))
-print(len(numCC))
-print(len(num1CC))
-print(len(numLC))
+            files_count = limpa("{}".format(files_count), 1)
+            files_max = limpa("{}".format(files_max), 1)
+            files_avg = limpa("{}".format(files_avg), 1)
 
-# Make the document CSV with process metrics
-with open('../CSVs/ProcessMetrics/metrics', 'w', newline='') as f:
-    thewriter = csv.writer(f)
-    thewriter.writerow(
-        ['filePath', 'filesCount', 'filesMax', 'filesAvg', 'maxChanges', 'avgChanges', 'countContributors',
-         'minorContributors', 'countAdded', 'maxAdded', 'avgAdded', 'countRem', 'maxRem', 'avgRem', 'hunksCount',
-         'contributorsExperience', 'commitsCount'])
-    for i in range(len(num) and len(pal)):
-        thewriter.writerow(
-            ['{}'.format(pal[i]), '{}'.format(num[i]), '{}'.format(num1[i]), '{}'.format(num2[i]), '{}'.format(maximum),
-             '{}'.format(average), '{}'.format(numCC[i]), '{}'.format(num1CC[i]), '{},'.format(numLC[i]),
-             '{}'.format(num1LC[i]), '{}'.format(num2LC[i]), '{}'.format(num3LC[i]), '{}'.format(num4LC[i]),
-             '{}'.format(num5LC[i]), '{}'.format(numHC[i]), '{}'.format(numCE[i]), '{}'.format(numCoC[i])])
+            # CommitsCount
+            metric = CommitsCount(path_to_repo=url, from_commit=initial, to_commit=final)
+            commitCount = metric.count()
+            commitCount = limpa("{}".format(commitCount), 1)
+
+            # ContributorsCount
+            metric = ContributorsCount(path_to_repo=url, from_commit=initial, to_commit=final)
+            count = metric.count()
+            minor = metric.count_minor()
+            count = limpa("{}".format(count), 1)
+            minor = limpa("{}".format(minor), 1)
+
+            # ContributorsExperience
+            metric = ContributorsExperience(path_to_repo=url, from_commit=initial, to_commit=final)
+            exp = metric.count()
+            exp = limpa("{}".format(exp), 1)
+
+            # HunksCount
+            metric = HunksCount(path_to_repo=url, from_commit=initial, to_commit=final)
+            hunks = metric.count()
+            hunks = limpa("{}".format(hunks), 1)
+
+            # LinesCount
+            metric = LinesCount(path_to_repo=url, from_commit=initial, to_commit=final)
+            # Line Added
+            added_count = metric.count_added()
+            added_max = metric.max_added()
+            added_avg = metric.avg_added()
+
+            added_count = limpa("{}".format(added_count), 1)
+            added_max = limpa("{}".format(added_max), 1)
+            added_avg = limpa("{}".format(added_avg), 1)
+
+            # Line Removed
+            removed_count = metric.count_removed()
+            removed_max = metric.max_removed()
+            removed_avg = metric.avg_removed()
+
+            removed_count = limpa("{}".format(removed_count), 1)
+            removed_max = limpa("{}".format(removed_max), 1)
+            removed_avg = limpa("{}".format(removed_avg), 1)
+
+            n = len(diretory)
+            """
+            print(len(diretory), "max:{}".format(maximum), "avg:{}".format(average), len(files_count), len(files_max),
+                  len(files_avg), len(commitCount), len(count), len(minor), len(exp),
+                  len(hunks), len(added_count), len(added_avg), len(added_max),
+                  len(removed_count), len(removed_avg), len(removed_max))
+            """
+            for i in range(len(diretory)):
+                thewriter.writerow(
+                    [diretory[i], maximum, average, files_count[i], files_max[i],
+                     files_avg[i], commitCount[i], hunks[i], added_count[i],
+                     added_avg[i], added_max[i], removed_count[i], removed_avg[i], removed_max[i]]
+                )
+
+
+for repo in list_repos:
+    repo = repo.rstrip('\n')
+    urlweb = 'https://github.com/' + repo + '.git'
+    print("Analyzing: " + urlweb)
+    init = (getHash(urlweb, 0))
+    end = (getHash(urlweb, 1))
+    if not os.path.isfile('../CSVs/ProcessMetrics/' + repo):
+        geraCSV(urlweb, repo, init, end)
+
+aux.close()

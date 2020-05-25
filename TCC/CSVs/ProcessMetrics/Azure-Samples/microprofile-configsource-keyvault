@@ -1,0 +1,13 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,6,60,2,4,2.5,157,39,95,151,38,114
+pom.xml,7,2,65,65,32,2,1.0,68,34,65,3,2,3
+.gitignore,7,2,25,23,12,2,1.0,25,12,23,0,0,0
+src/main/java/com/microsoft/azure/microprofile/config/keyvault/sample/ConfigApplication.java,7,2,9,9,9,1,1,9,9,9,0,0,0
+src/main/java/com/microsoft/azure/microprofile/config/keyvault/sample/ConfigDemo.java,7,2,32,32,32,1,1,32,32,32,0,0,0
+src/main/resources/META-INF/microprofile-config.properties,7,2,8,8,8,1,1,8,8,8,0,0,0
+src/main/webapp/WEB-INF/web.xml,7,2,10,10,10,1,1,10,10,10,0,0,0
+.github/PULL_REQUEST_TEMPLATE.md,7,2,45,45,45,1,1,45,45,45,0,0,0
+.github/ISSUE_TEMPLATE.md,7,2,33,33,33,1,1,33,33,33,0,0,0
+LICENSE.md,7,2,21,21,21,1,1,21,21,21,0,0,0
+CONTRIBUTING.md,7,2,76,76,76,1,1,76,76,76,0,0,0
+CHANGELOG.md,7,2,13,13,13,1,1,13,13,13,0,0,0

@@ -1,0 +1,10 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,46,44,3,15,2,118,8,44,72,5,19
+pom.xml,7,2,84,66,3,28,1.0,272,10,66,188,7,74
+src/main/java/com/microsoft/azure/management/network/samples/ManageNetworkSecurityGroup.java,7,2,331,322,47,7,3,606,87,322,275,39,255
+src/main/java/com/microsoft/azure/management/samples/SSHShell.java,7,2,508,1448,169,3,1,1917,639,1448,1409,470,1409
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,800,175,18,14.0,4062,226,849,906,50,387
+LICENSE,7,2,21,21,10,2,3.5,38,19,21,17,8,17
+None,7,2,-134,-134,-134,1,1,0,0,0,134,134,134
+.gitignore,7,2,50,50,25,2,1.0,51,26,50,1,0,1
+CONTRIBUTING.md,7,2,11,11,3,4,1.0,41,10,11,30,8,10

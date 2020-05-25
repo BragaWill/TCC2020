@@ -1,0 +1,16 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,12,3,47,35,4,13,2,122,9,37,75,6,34
+pom.xml,12,3,79,75,5,16,1.0,179,11,75,100,6,69
+src/main/java/com/microsoft/azure/management/samples/Utils.java,12,3,3156,1686,263,12,13.0,3936,328,1686,780,65,387
+LICENSE,12,3,21,21,7,3,1,42,14,21,21,7,20
+src/main/java/com/microsoft/azure/management/appservice/samples/ManageLinuxWebAppSourceControl.java,12,3,254,254,85,3,1,259,86,254,5,2,4
+.gitignore,12,3,50,38,25,2,1.5,52,26,40,2,1,2
+None,12,3,-81,-2,-20,4,1.0,0,0,0,81,20,57
+CONTRIBUTING.md,12,3,11,11,11,1,1,11,11,11,0,0,0
+src/main/resources/azure-samples-appservice-helloworld/.gitignore,12,3,57,57,57,1,1,57,57,57,0,0,0
+src/main/resources/azure-samples-appservice-helloworld/webapps/WEB-INF/web.xml,12,3,6,6,6,1,1,6,6,6,0,0,0
+src/main/resources/azure-samples-appservice-helloworld/webapps/index.jsp,12,3,17,17,17,1,1,17,17,17,0,0,0
+target/classes/azure-samples-appservice-helloworld/.gitignore,12,3,57,57,57,1,1,57,57,57,0,0,0
+target/classes/azure-samples-appservice-helloworld/webapps/WEB-INF/web.xml,12,3,6,6,6,1,1,6,6,6,0,0,0
+target/classes/azure-samples-appservice-helloworld/webapps/index.jsp,12,3,17,17,17,1,1,17,17,17,0,0,0
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,12,3,2,2,2,1,1,2,2,2,0,0,0

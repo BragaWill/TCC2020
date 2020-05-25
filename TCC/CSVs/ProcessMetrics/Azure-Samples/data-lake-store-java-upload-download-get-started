@@ -1,0 +1,6 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,3,1,18,15,4,4,1.0,24,6,15,6,2,3
+pom.xml,3,1,57,62,10,6,1.5,73,12,62,16,3,11
+src/main/java/com/contoso/sample/UploadDownloadApp.java,3,1,129,130,43,3,3,151,50,130,22,7,13
+LICENSE.txt,3,1,24,24,24,1,1,24,24,24,0,0,0
+.gitignore,3,1,36,36,36,1,1,36,36,36,0,0,0

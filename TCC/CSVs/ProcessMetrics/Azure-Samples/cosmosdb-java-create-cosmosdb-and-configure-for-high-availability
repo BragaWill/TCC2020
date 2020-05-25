@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+.gitignore,7,7,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,7,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,7,21,21,21,1,1,21,21,21,0,0,0
+README.md,7,7,43,43,43,1,1,43,43,43,0,0,0
+pom.xml,7,7,79,79,79,1,1,79,79,79,0,0,0
+src/main/java/com/microsoft/azure/management/cosmosdb/samples/ManageHACosmosDB.java,7,7,185,185,185,1,1,185,185,185,0,0,0
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,7,3156,3156,3156,1,1,3156,3156,3156,0,0,0

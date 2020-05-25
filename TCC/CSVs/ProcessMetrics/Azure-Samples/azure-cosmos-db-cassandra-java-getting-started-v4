@@ -1,0 +1,17 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,13,2,139,75,35,4,1.0,195,49,129,56,14,54
+.factorypath,13,2,61,61,61,1,1,61,61,61,0,0,0
+.gitignore,13,2,29,23,14,2,2.5,49,24,26,20,10,20
+media/output.png,13,2,0,0,0,1,0,0,0,0,0,0,0
+pom.xml,13,2,71,71,71,1,1,71,71,71,0,0,0
+src/main/java/com/azure/cosmosdb/cassandra/User.java,13,2,54,54,54,1,1,54,54,54,0,0,0
+src/main/java/com/azure/cosmosdb/cassandra/examples/UserProfile.java,13,2,60,60,60,1,1,60,60,60,0,0,0
+src/main/java/com/azure/cosmosdb/cassandra/repository/UserRepository.java,13,2,103,103,103,1,1,103,103,103,0,0,0
+src/main/java/com/azure/cosmosdb/cassandra/util/CassandraUtils.java,13,2,108,108,108,1,1,108,108,108,0,0,0
+src/main/java/com/azure/cosmosdb/cassandra/util/Configurations.java,13,2,35,35,35,1,1,35,35,35,0,0,0
+src/main/resources/config.properties,13,2,8,8,8,1,1,8,8,8,0,0,0
+src/main/resources/log4j.properties,13,2,12,12,12,1,1,12,12,12,0,0,0
+src/main/resources/reference.conf,13,2,2027,2027,2027,1,1,2027,2027,2027,0,0,0
+LICENSE,13,2,21,21,21,1,1,21,21,21,0,0,0
+SECURITY.md,13,2,41,41,41,1,1,41,41,41,0,0,0
+CODE_OF_CONDUCT.md,13,2,9,9,9,1,1,9,9,9,0,0,0

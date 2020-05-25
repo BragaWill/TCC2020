@@ -1,0 +1,16 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+functions-add-output-binding-storage-queue/src/main/java/com/function/Function.java,10,2,39,38,20,2,1.5,42,21,38,3,2,3
+functions-add-output-binding-storage-queue/src/test/java/com/function/FunctionTest.java,10,2,55,57,28,2,1.0,57,28,57,2,1,2
+README.md,10,2,20,64,10,2,1.5,66,33,64,46,23,46
+functions-add-output-binding-storage-queue/.gitignore,10,2,38,38,38,1,1,38,38,38,0,0,0
+functions-add-output-binding-storage-queue/.vscode/extensions.json,10,2,6,6,6,1,1,6,6,6,0,0,0
+functions-add-output-binding-storage-queue/.vscode/launch.json,10,2,13,13,13,1,1,13,13,13,0,0,0
+functions-add-output-binding-storage-queue/.vscode/settings.json,10,2,7,7,7,1,1,7,7,7,0,0,0
+functions-add-output-binding-storage-queue/.vscode/tasks.json,10,2,29,29,29,1,1,29,29,29,0,0,0
+functions-add-output-binding-storage-queue/host.json,10,2,7,7,7,1,1,7,7,7,0,0,0
+functions-add-output-binding-storage-queue/pom.xml,10,2,218,218,218,1,1,218,218,218,0,0,0
+functions-add-output-binding-storage-queue/src/test/java/com/function/HttpResponseMessageMock.java,10,2,81,81,81,1,1,81,81,81,0,0,0
+SECURITY.md,10,2,41,41,41,1,1,41,41,41,0,0,0
+LICENSE,10,2,21,21,21,1,1,21,21,21,0,0,0
+CODE_OF_CONDUCT.md,10,2,9,9,9,1,1,9,9,9,0,0,0
+.gitignore,10,2,350,350,350,1,1,350,350,350,0,0,0

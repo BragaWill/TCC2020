@@ -1,0 +1,9 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+src/test/java/Tests/ScreenshotTest.java,6,2,43,44,14,3,1,89,30,44,46,15,44
+packageTest.sh,6,2,3,3,2,2,1.5,4,2,3,1,0,1
+pom.xml,6,2,87,87,44,2,1.5,88,44,87,1,0,1
+src/main/assembly/zip.xml,6,2,41,41,20,2,1.5,42,21,41,1,0,1
+src/test/java/Tests/AbstractBaseTests/TestBase.java,6,2,87,89,44,2,5.0,102,51,89,15,8,15
+start-appium-android.sh,6,2,3,8,2,2,1.0,8,4,8,5,2,5
+LICENSE,6,2,201,201,201,1,1,201,201,201,0,0,0
+README.md,6,2,2,2,2,1,1,2,2,2,0,0,0

@@ -1,0 +1,8 @@
+filePath,maxChangeSet,avgChangeSet,totalCodeChurn,maxCodeChurn,avgCodeChurn,commitCount,hunksCount,lines_added_count,lines_added_avg,lines_added_max,lines_removed_count,lines_removed_avg,lines_removed_max
+README.md,7,2,43,37,4,11,2,81,7,37,38,3,13
+pom.xml,7,2,74,64,6,12,1.0,92,8,64,18,2,6
+src/main/java/com/microsoft/azure/management/samples/Utils.java,7,2,3156,2352,316,10,7.5,3589,359,2352,433,43,387
+src/main/java/com/microsoft/azure/management/containerinstance/samples/ManageContainerInstanceWithManualAzureFileShareMountCreation.java,7,2,163,162,82,2,1.0,163,82,162,0,0,0
+.gitignore,7,2,50,50,50,1,1,50,50,50,0,0,0
+CONTRIBUTING.md,7,2,11,11,11,1,1,11,11,11,0,0,0
+LICENSE,7,2,21,21,21,1,1,21,21,21,0,0,0
