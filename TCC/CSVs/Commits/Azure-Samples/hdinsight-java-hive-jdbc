@@ -1,16 +1,7 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-6956d3e21245388f6f2116b4d4236c15e23a2049,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2016-01-27 12:20:01-08:00,None,None,None
-b06e3276fbd42759b6b12a39aa0c772586403a9d,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,11,0,None,None,2016-01-27 12:20:01-08:00,None,None,None
-e2e8acefbb872593263410bd743326994c50d366,README.md,None,README.md,ADD,None,10,0,None,None,2016-01-27 12:20:01-08:00,None,None,None
-ccb586c78f5e6bee80062201e25d484a0a725496,.gitignore,None,.gitignore,ADD,None,9,0,None,None,2016-01-29 10:10:41-05:00,None,None,None
-445ad6883c2996e9562cacd86bfc53f0043b4026,README.md,README.md,README.md,MODIFY,None,65,8,None,None,2016-01-29 10:15:24-05:00,0.0,0.0,1.0
-445ad6883c2996e9562cacd86bfc53f0043b4026,pom.xml,None,pom.xml,ADD,None,96,0,None,None,2016-01-29 10:15:24-05:00,0.0,0.0,1.0
-445ad6883c2996e9562cacd86bfc53f0043b4026,HDInsightHiveJdbc.java,None,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,ADD,74,109,0,510,10,2016-01-29 10:15:24-05:00,0.0,0.0,1.0
-9f53d2a32b5d8586bfe43ed697c42649fa60c5c3,README.md,README.md,README.md,MODIFY,None,6,0,None,None,2016-01-29 10:20:19-05:00,None,None,None
-cc5712746c5be91941970f49351c4f8b950d3530,README.md,README.md,README.md,MODIFY,None,5,1,None,None,2016-06-22 09:35:29-04:00,None,None,None
-68c349c7d03beb0d56ba328b065d04a234f12084,README.md,README.md,README.md,MODIFY,None,3,2,None,None,2017-05-22 14:39:26-04:00,1.0,1.0,1.0
-68c349c7d03beb0d56ba328b065d04a234f12084,pom.xml,pom.xml,pom.xml,MODIFY,None,8,23,None,None,2017-05-22 14:39:26-04:00,1.0,1.0,1.0
-68c349c7d03beb0d56ba328b065d04a234f12084,HDInsightHiveJdbc.java,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,MODIFY,74,1,1,510,10,2017-05-22 14:39:26-04:00,1.0,1.0,1.0
-f8069c3f2afb09bfd4ff9ac934c5cfa934a4b493,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2017-09-06 15:36:12-04:00,None,None,None
-f8069c3f2afb09bfd4ff9ac934c5cfa934a4b493,pom.xml,pom.xml,pom.xml,MODIFY,None,3,3,None,None,2017-09-06 15:36:12-04:00,None,None,None
-a4f7e48ea3e97d36a7627e972b584d1d1164a049,README.md,README.md,README.md,MODIFY,None,3,3,None,None,2018-04-05 13:08:14-04:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+445ad6883c2996e9562cacd86bfc53f0043b4026,2016-01-29 10:15:24-05:00,18000,2016-01-29 10:15:24-05:00,18000,True,False,hdinsight-java-hive-jdbc,0.0,0.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,65,8,None,None,None
+445ad6883c2996e9562cacd86bfc53f0043b4026,2016-01-29 10:15:24-05:00,18000,2016-01-29 10:15:24-05:00,18000,True,False,hdinsight-java-hive-jdbc,0.0,0.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,96,0,None,None,None
+445ad6883c2996e9562cacd86bfc53f0043b4026,2016-01-29 10:15:24-05:00,18000,2016-01-29 10:15:24-05:00,18000,True,False,hdinsight-java-hive-jdbc,0.0,0.0,1.0,None,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,HDInsightHiveJdbc.java,ModificationType.ADD,109,0,74,10,510
+68c349c7d03beb0d56ba328b065d04a234f12084,2017-05-22 14:39:26-04:00,14400,2017-05-22 14:39:26-04:00,14400,True,False,hdinsight-java-hive-jdbc,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,3,2,None,None,None
+68c349c7d03beb0d56ba328b065d04a234f12084,2017-05-22 14:39:26-04:00,14400,2017-05-22 14:39:26-04:00,14400,True,False,hdinsight-java-hive-jdbc,1.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,8,23,None,None,None
+68c349c7d03beb0d56ba328b065d04a234f12084,2017-05-22 14:39:26-04:00,14400,2017-05-22 14:39:26-04:00,14400,True,False,hdinsight-java-hive-jdbc,1.0,1.0,1.0,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,src/main/java/com/microsoft/example/HDInsightHiveJdbc.java,HDInsightHiveJdbc.java,ModificationType.MODIFY,1,1,74,10,510

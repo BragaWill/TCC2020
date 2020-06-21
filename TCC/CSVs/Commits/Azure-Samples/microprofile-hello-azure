@@ -1,42 +1,14 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-f6de87508945564f226c9bfabb6db10288bf7141,.gitignore,None,.gitignore,ADD,None,12,0,None,None,2018-07-30 09:11:13-07:00,None,None,None
-38c6803549a1f7a4135bf13fcddb6eaa00155c41,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-07-30 09:11:17-07:00,None,None,None
-c45923752ea166298cbb9d42d9e19429d17417c1,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-07-30 09:11:18-07:00,None,None,None
-b183275ed13ae857878e1baf43499d45b96e1a6f,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-07-30 09:11:19-07:00,None,None,None
-9a7412ad19e9ed97bb521ead92d77f63a50aae11,README.md,None,README.md,ADD,None,57,0,None,None,2018-07-30 09:11:20-07:00,None,None,None
-86c90aa7f1157f76424a44df3c777bab0f0eef85,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-07-30 09:11:21-07:00,None,None,None
-0f5891d6312dd1fcef5b2a976ab62020ac856194,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-07-30 09:11:22-07:00,None,None,None
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,Dockerfile,None,Dockerfile,ADD,None,3,0,None,None,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,README.md,README.md,README.md,MODIFY,None,39,36,None,None,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,pom.xml,None,pom.xml,ADD,None,81,0,None,None,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,Application.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/Application.java,ADD,5,8,0,40,0,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,API.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,ADD,16,20,0,97,1,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-8a42282ec6c9d5a1709239fc8ed80f1e265170ab,LivenessCheck.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/LivenessCheck.java,ADD,16,21,0,98,1,2018-07-30 13:18:54-07:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,Dockerfile,None,Dockerfile,ADD,None,3,0,None,None,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,README.md,README.md,README.md,MODIFY,None,39,36,None,None,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,pom.xml,None,pom.xml,ADD,None,81,0,None,None,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,Application.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/Application.java,ADD,5,8,0,40,0,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,API.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,ADD,16,20,0,97,1,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-d974f868819dd7fc7705953ac1235b6184f8213b,LivenessCheck.java,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/LivenessCheck.java,ADD,16,21,0,98,1,2018-08-06 13:06:50+12:00,1.0,1.0,1.0
-106e2fe2eefde2abcbfffb0f44dc62e669ed4a4f,Dockerfile.cicd,None,Dockerfile.cicd,ADD,None,8,0,None,None,2018-08-07 09:46:18-07:00,None,None,None
-90bff9ef1757860cdc273d8249eb2242da4b5b0b,Dockerfile.cicd,Dockerfile.cicd,Dockerfile.cicd,MODIFY,None,1,1,None,None,2018-08-07 10:10:22-07:00,None,None,None
-f2548ae7e5c7d0c4ddcbfd64245446ac146941a0,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-08-09 15:30:39+02:00,None,None,None
-9d621d87833c5df74ec643a10c864003d28389e2,mvnw,None,mvnw,ADD,None,286,0,None,None,2018-08-17 15:49:59-07:00,None,None,None
-9d621d87833c5df74ec643a10c864003d28389e2,mvnw.cmd,None,mvnw.cmd,ADD,None,161,0,None,None,2018-08-17 15:49:59-07:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,.classpath,None,.classpath,ADD,None,28,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,.project,None,.project,ADD,None,37,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,.jsdtscope,None,.settings/.jsdtscope,ADD,None,13,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.core.resources.prefs,None,.settings/org.eclipse.core.resources.prefs,ADD,None,3,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.jdt.core.prefs,None,.settings/org.eclipse.jdt.core.prefs,ADD,None,9,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.m2e.core.prefs,None,.settings/org.eclipse.m2e.core.prefs,ADD,None,4,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.common.component,None,.settings/org.eclipse.wst.common.component,ADD,None,9,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.common.project.facet.core.prefs.xml,None,.settings/org.eclipse.wst.common.project.facet.core.prefs.xml,ADD,None,7,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.common.project.facet.core.xml,None,.settings/org.eclipse.wst.common.project.facet.core.xml,ADD,None,8,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.jsdt.ui.superType.container,None,.settings/org.eclipse.wst.jsdt.ui.superType.container,ADD,None,1,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.jsdt.ui.superType.name,None,.settings/org.eclipse.wst.jsdt.ui.superType.name,ADD,None,1,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,org.eclipse.wst.validation.prefs,None,.settings/org.eclipse.wst.validation.prefs,ADD,None,2,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-4521e71a3022dbcf099301d3f89003fd27b57026,docker-compose.yml,None,docker-compose.yml,ADD,None,10,0,None,None,2018-08-27 13:56:23-04:00,None,None,None
-c94fdf31392cab53478b4bf8997f2b79a9c4f5a7,API.java,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,MODIFY,16,20,20,97,1,2018-08-27 14:01:51-04:00,1.0,1.0,1.0
-2b8ba20e18a3c9b36ad87f56434c45ab84a67148,.project,.project,.project,MODIFY,None,2,2,None,None,2018-08-27 17:18:11-04:00,None,None,None
-2b8ba20e18a3c9b36ad87f56434c45ab84a67148,org.eclipse.wst.common.component,.settings/org.eclipse.wst.common.component,.settings/org.eclipse.wst.common.component,MODIFY,None,2,2,None,None,2018-08-27 17:18:11-04:00,None,None,None
-2b8ba20e18a3c9b36ad87f56434c45ab84a67148,docker-compose.yml,docker-compose.yml,docker-compose.yml,MODIFY,None,3,2,None,None,2018-08-27 17:18:11-04:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,Dockerfile,Dockerfile,ModificationType.ADD,3,0,None,None,None
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,39,36,None,None,None
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,81,0,None,None,None
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/Application.java,Application.java,ModificationType.ADD,8,0,5,0,40
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,API.java,ModificationType.ADD,20,0,16,1,97
+8a42282ec6c9d5a1709239fc8ed80f1e265170ab,2018-07-30 13:18:54-07:00,25200,2018-07-30 13:18:54-07:00,25200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/LivenessCheck.java,LivenessCheck.java,ModificationType.ADD,21,0,16,1,98
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,Dockerfile,Dockerfile,ModificationType.ADD,3,0,None,None,None
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,39,36,None,None,None
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,81,0,None,None,None
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/Application.java,Application.java,ModificationType.ADD,8,0,5,0,40
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,API.java,ModificationType.ADD,20,0,16,1,97
+d974f868819dd7fc7705953ac1235b6184f8213b,2018-08-06 13:06:50+12:00,-43200,2018-08-06 13:06:50+12:00,-43200,True,False,microprofile-hello-azure,1.0,1.0,1.0,None,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/LivenessCheck.java,LivenessCheck.java,ModificationType.ADD,21,0,16,1,98
+c94fdf31392cab53478b4bf8997f2b79a9c4f5a7,2018-08-27 14:01:51-04:00,14400,2018-08-27 14:01:51-04:00,14400,True,False,microprofile-hello-azure,1.0,1.0,1.0,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,src/main/java/com/microsoft/azure/samples/microprofilehelloazure/api/API.java,API.java,ModificationType.MODIFY,20,20,16,1,97

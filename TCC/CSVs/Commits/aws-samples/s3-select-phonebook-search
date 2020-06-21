@@ -1,64 +1,8 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-80240a6cb0c87bafb005eb5d31dadf980c03a0af,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2020-01-30 15:34:03-08:00,None,None,None
-80240a6cb0c87bafb005eb5d31dadf980c03a0af,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2020-01-30 15:34:03-08:00,None,None,None
-80240a6cb0c87bafb005eb5d31dadf980c03a0af,LICENSE,None,LICENSE,ADD,None,15,0,None,None,2020-01-30 15:34:03-08:00,None,None,None
-80240a6cb0c87bafb005eb5d31dadf980c03a0af,README.md,None,README.md,ADD,None,13,0,None,None,2020-01-30 15:34:03-08:00,None,None,None
-f19a01c599528a4440e5f533c10e59ee2ac111d3,test,None,images/test,ADD,None,1,0,None,None,2020-01-31 10:35:22-08:00,None,None,None
-c62f063e7ba27b6b5a2b2d259074f96016496017,architecture.png,images/architecture.png,images/architecture.png,ADD,None,0,0,None,None,2020-01-31 10:35:53-08:00,None,None,None
-6341535a7735b08e83b3fd6548aed4ee04e2fb97,test,images/test,None,DELETE,None,0,1,None,None,2020-01-31 10:43:55-08:00,None,None,None
-9bf7f524bce90f4b9b4c92c03d205d3e5b6f9146,createStack.png,images/createStack.png,images/createStack.png,ADD,None,0,0,None,None,2020-01-31 10:44:24-08:00,None,None,None
-53775bdb961c185319564076a66409197e96a233,stackName.png,images/stackName.png,images/stackName.png,ADD,None,0,0,None,None,2020-01-31 10:47:50-08:00,None,None,None
-fb2cc7f738042a28faab67cc20d7c51284e9c44f,README.md,README.md,README.md,MODIFY,None,120,5,None,None,2020-01-31 11:08:41-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,cloud_formation_template.yaml,None,cloud_formation_template.yaml,ADD,None,133,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,dependency-reduced-pom.xml,None,dependency-reduced-pom.xml,ADD,None,86,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,lambdaCode-1.0.0.jar,lambdaCode-1.0.0.jar,lambdaCode-1.0.0.jar,ADD,None,0,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,packaged.yaml,None,packaged.yaml,ADD,None,82,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,pom.xml,None,pom.xml,ADD,None,102,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-d51ade3ade215961ae169a90232d026099797215,template.yaml,None,template.yaml,ADD,None,117,0,None,None,2020-01-31 11:11:51-08:00,None,None,None
-8088a6c44b7c44bdd4f2fa8877d8fb69c1c144f8,samples,None,src/main/java/com/amazonaws/samples,ADD,None,1,0,None,None,2020-01-31 11:15:18-08:00,None,None,None
-b81ec48b0421934ca118914ed9c6510b694f05e7,samples,src/main/java/com/amazonaws/samples,None,DELETE,None,0,1,None,None,2020-01-31 11:16:31-08:00,None,None,None
-8e8b0e4fe5e1373014a71e213010ce08d65871fe,.DS_Store,.DS_Store,.DS_Store,ADD,None,0,0,None,None,2020-01-31 11:44:12-08:00,0.39361702127659576,0.48404255319148937,0.5851063829787234
-8e8b0e4fe5e1373014a71e213010ce08d65871fe,ApiGatewayResponse.java,None,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,ADD,83,130,0,476,17,2020-01-31 11:44:12-08:00,0.39361702127659576,0.48404255319148937,0.5851063829787234
-8e8b0e4fe5e1373014a71e213010ce08d65871fe,S3SelectDemoLambdaHandler.java,None,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,ADD,162,230,0,1356,32,2020-01-31 11:44:12-08:00,0.39361702127659576,0.48404255319148937,0.5851063829787234
-8e8b0e4fe5e1373014a71e213010ce08d65871fe,sample_data.csv,None,src/test/resources/sample_data.csv,ADD,None,8,0,None,None,2020-01-31 11:44:12-08:00,0.39361702127659576,0.48404255319148937,0.5851063829787234
-97e0b7d7d00accc7cb6834f43ed0e5c21a1a356e,architecture2.png,images/architecture2.png,images/architecture2.png,ADD,None,0,0,None,None,2020-02-10 15:49:21-08:00,None,None,None
-4005d0fb08e81cc5ad3ab88a7527ab08f6e5007f,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-02-10 15:49:53-08:00,None,None,None
-0c4ee3a8e77b7f658e251a2b36ed6d82e14d7860,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-02-10 15:50:15-08:00,None,None,None
-3542568b156e7e2a8a378734c67b13ec7439b1d4,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-02-10 15:50:53-08:00,None,None,None
-c7e990b80f90040176e2cb471ac18c479295930a,README.md,README.md,README.md,MODIFY,None,2,1,None,None,2020-02-10 15:51:18-08:00,None,None,None
-ea8cdbb58cd8a6110becc5c340ad4ca349ea83a7,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2020-02-10 15:51:57-08:00,None,None,None
-df595af57890ffc5e5d51b9e078b85a737d443bf,architecture2.png,images/architecture2.png,images/architecture2.png,MODIFY,None,0,0,None,None,2020-02-11 07:41:01-08:00,None,None,None
-bb9df9587f80ffba1ac35b71304890b9a3a2e48d,createStack.png,images/createStack.png,images/createStack.png,MODIFY,None,0,0,None,None,2020-02-12 18:49:45+09:00,None,None,None
-bb9df9587f80ffba1ac35b71304890b9a3a2e48d,stackName.png,images/stackName.png,images/stackName.png,MODIFY,None,0,0,None,None,2020-02-12 18:49:45+09:00,None,None,None
-b8df200350a7b44e54a7c16d26ba008937d50a1e,.DS_Store,.DS_Store,.DS_Store,DELETE,None,0,0,None,None,2020-02-13 12:36:59+09:00,None,None,None
-e4123b8d5a4d3464c652a7b1124ab9609c3e66ea,architecture.png,images/architecture.png,images/architecture.png,DELETE,None,0,0,None,None,2020-02-13 12:37:18+09:00,None,None,None
-e0d5383e90f707805fc6a675c458c505f78eab14,README.md,README.md,README.md,MODIFY,None,29,26,None,None,2020-02-13 12:45:26+09:00,None,None,None
-e0d5383e90f707805fc6a675c458c505f78eab14,architecture.png,images/architecture.png,images/architecture.png,MODIFY,None,0,0,None,None,2020-02-13 12:45:26+09:00,None,None,None
-e0d5383e90f707805fc6a675c458c505f78eab14,architecture2.png,images/architecture2.png,images/architecture2.png,DELETE,None,0,0,None,None,2020-02-13 12:45:26+09:00,None,None,None
-e0d5383e90f707805fc6a675c458c505f78eab14,createStack.png,images/createStack.png,images/createStack.png,MODIFY,None,0,0,None,None,2020-02-13 12:45:26+09:00,None,None,None
-e0d5383e90f707805fc6a675c458c505f78eab14,stackName.png,images/stackName.png,images/stackName.png,MODIFY,None,0,0,None,None,2020-02-13 12:45:26+09:00,None,None,None
-120fb130218ff3a54b99c24691c3725a97d0a4a9,README.md,README.md,README.md,MODIFY,None,8,7,None,None,2020-02-13 12:56:16+09:00,None,None,None
-db67b6dd691b634ee507627d77167be8b6bc0248,README.md,README.md,README.md,MODIFY,None,5,5,None,None,2020-02-13 12:59:52+09:00,None,None,None
-448ae9555f098dc83e43e4329df80b2a91660d38,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2020-02-13 13:00:38+09:00,None,None,None
-01fb6019e7192eb9a5d57b1564af36fc0160de12,.gitignore,None,.gitignore,ADD,None,2,0,None,None,2020-02-13 13:26:44+09:00,None,None,None
-01fb6019e7192eb9a5d57b1564af36fc0160de12,README.md,README.md,README.md,MODIFY,None,18,18,None,None,2020-02-13 13:26:44+09:00,None,None,None
-9fd581cdc8210c08dcc3b947d65cd596f88d7c5d,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2020-02-13 16:53:36+09:00,None,None,None
-106403479751a254e2fa471109340f13549f55c0,jane-gzip.py,None,src/samples/jane-gzip.py,ADD,22,25,0,136,0,2020-02-13 18:20:58+09:00,1.0,1.0,1.0
-106403479751a254e2fa471109340f13549f55c0,jane.py,None,src/samples/jane.py,ADD,22,25,0,136,0,2020-02-13 18:20:58+09:00,1.0,1.0,1.0
-b62c574b48b5e40f066ecc45ebaf39e98d0cc66d,cloud_formation_template.yaml,cloud_formation_template.yaml,cloud_formation_template.yaml,MODIFY,None,1,4,None,None,2020-02-18 22:53:42+09:00,None,None,None
-256ba21475c27f008482105d4d9ba40e9ed75ba7,stackName.png,images/stackName.png,images/stackName.png,MODIFY,None,0,0,None,None,2020-02-21 05:11:53+09:00,None,None,None
-8c0a7313571ad2d84ada006d118fff93476e2677,README.md,README.md,README.md,MODIFY,None,0,1,None,None,2020-02-21 05:12:50+09:00,None,None,None
-7fb3ed315fe34fcafe0f4b49327fd5db028b53d1,README.md,README.md,README.md,MODIFY,None,29,9,None,None,2020-02-21 12:27:39+09:00,None,None,None
-7fb3ed315fe34fcafe0f4b49327fd5db028b53d1,stack-created.png,images/stack-created.png,images/stack-created.png,ADD,None,0,0,None,None,2020-02-21 12:27:39+09:00,None,None,None
-7fb3ed315fe34fcafe0f4b49327fd5db028b53d1,sample_data.csv,src/test/resources/sample_data.csv,src/test/resources/sample_data.csv,MODIFY,None,4,4,None,None,2020-02-21 12:27:39+09:00,None,None,None
-ded9d2cc2a1b11c738755a84597eff9a034e465e,.gitignore,.gitignore,None,DELETE,None,0,2,None,None,2020-02-21 12:29:20+09:00,None,None,None
-437b9b1314d74c42f897ee1c05286b3187807275,README.md,README.md,README.md,MODIFY,None,1,0,None,None,2020-03-02 14:29:02-08:00,1.0,1.0,0.7142857142857143
-437b9b1314d74c42f897ee1c05286b3187807275,ApiGatewayResponse.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,MODIFY,83,7,13,476,17,2020-03-02 14:29:02-08:00,1.0,1.0,0.7142857142857143
-437b9b1314d74c42f897ee1c05286b3187807275,S3SelectDemoLambdaHandler.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,MODIFY,155,34,40,1356,32,2020-03-02 14:29:02-08:00,1.0,1.0,0.7142857142857143
-5c7a4c4a1c0e0fe6dd87bb1ba783539a01403358,.DS_Store,src/.DS_Store,src/.DS_Store,ADD,None,0,0,None,None,2020-03-04 12:28:20+09:00,1.0,1.0,1.0
-5c7a4c4a1c0e0fe6dd87bb1ba783539a01403358,jane-gzip.py,src/samples/jane-gzip.py,src/samples/jane-gzip.py,MODIFY,22,1,1,136,0,2020-03-04 12:28:20+09:00,1.0,1.0,1.0
-5c7a4c4a1c0e0fe6dd87bb1ba783539a01403358,jane.py,src/samples/jane.py,src/samples/jane.py,MODIFY,22,1,1,136,0,2020-03-04 12:28:20+09:00,1.0,1.0,1.0
-5c7a4c4a1c0e0fe6dd87bb1ba783539a01403358,sample_data.csv.gz,src/test/resources/sample_data.csv.gz,src/test/resources/sample_data.csv.gz,ADD,None,0,0,None,None,2020-03-04 12:28:20+09:00,1.0,1.0,1.0
-e43cf1b11f9f2d933a4c3d15ead9e6f517e8f3f1,.DS_Store,src/.DS_Store,src/.DS_Store,DELETE,None,0,0,None,None,2020-03-04 12:50:39+09:00,None,None,None
-e08baaff6fce641d444025f42b10c18067e89f25,sample_data.csv.gz,src/test/resources/sample_data.csv.gz,src/test/resources/sample_data.csv.gz,DELETE,None,0,0,None,None,2020-03-04 12:57:08+09:00,None,None,None
-605b12a684f6a5692a07e772413979ab046573d8,sample_data.csv.gz,src/test/resources/sample_data.csv.gz,src/test/resources/sample_data.csv.gz,ADD,None,0,0,None,None,2020-03-04 12:58:54+09:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+8e8b0e4fe5e1373014a71e213010ce08d65871fe,2020-01-31 11:44:12-08:00,28800,2020-01-31 11:44:12-08:00,28800,True,False,s3-select-phonebook-search,0.39361702127659576,0.48404255319148937,0.5851063829787234,.DS_Store,.DS_Store,.DS_Store,ModificationType.ADD,0,0,None,None,None
+8e8b0e4fe5e1373014a71e213010ce08d65871fe,2020-01-31 11:44:12-08:00,28800,2020-01-31 11:44:12-08:00,28800,True,False,s3-select-phonebook-search,0.39361702127659576,0.48404255319148937,0.5851063829787234,None,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,ApiGatewayResponse.java,ModificationType.ADD,130,0,83,17,476
+8e8b0e4fe5e1373014a71e213010ce08d65871fe,2020-01-31 11:44:12-08:00,28800,2020-01-31 11:44:12-08:00,28800,True,False,s3-select-phonebook-search,0.39361702127659576,0.48404255319148937,0.5851063829787234,None,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,S3SelectDemoLambdaHandler.java,ModificationType.ADD,230,0,162,32,1356
+8e8b0e4fe5e1373014a71e213010ce08d65871fe,2020-01-31 11:44:12-08:00,28800,2020-01-31 11:44:12-08:00,28800,True,False,s3-select-phonebook-search,0.39361702127659576,0.48404255319148937,0.5851063829787234,None,src/test/resources/sample_data.csv,sample_data.csv,ModificationType.ADD,8,0,None,None,None
+437b9b1314d74c42f897ee1c05286b3187807275,2020-03-02 14:29:02-08:00,28800,2020-03-02 14:29:02-08:00,28800,True,False,s3-select-phonebook-search,1.0,1.0,0.7142857142857143,README.md,README.md,README.md,ModificationType.MODIFY,1,0,None,None,None
+437b9b1314d74c42f897ee1c05286b3187807275,2020-03-02 14:29:02-08:00,28800,2020-03-02 14:29:02-08:00,28800,True,False,s3-select-phonebook-search,1.0,1.0,0.7142857142857143,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/ApiGatewayResponse.java,ApiGatewayResponse.java,ModificationType.MODIFY,7,13,83,17,476
+437b9b1314d74c42f897ee1c05286b3187807275,2020-03-02 14:29:02-08:00,28800,2020-03-02 14:29:02-08:00,28800,True,False,s3-select-phonebook-search,1.0,1.0,0.7142857142857143,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,src/main/java/com/amazonaws/samples/s3select/s3_select_demo/S3SelectDemoLambdaHandler.java,S3SelectDemoLambdaHandler.java,ModificationType.MODIFY,34,40,155,32,1356

@@ -1,37 +1,22 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-2b5ac51ee5a44531e3d3229843968e53e19407fd,.gitignore,None,.gitignore,ADD,None,252,0,None,None,2017-05-09 08:42:37-07:00,None,None,None
-58924a147a269bcf56eaf1e3db32b7230b54e7f2,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2017-05-09 08:42:40-07:00,None,None,None
-adf9002e46069187408c12b5d1b9cedc3e31dfcb,README.md,None,README.md,ADD,None,3,0,None,None,2017-05-09 08:42:41-07:00,None,None,None
-6b665b36101d0392ccba1f3aac23c00c839baa38,README.md,README.md,README.md,MODIFY,None,34,2,None,None,2017-05-09 08:54:47-07:00,0.0,1.0,1.0
-6b665b36101d0392ccba1f3aac23c00c839baa38,pom.xml,None,pom.xml,ADD,None,17,0,None,None,2017-05-09 08:54:47-07:00,0.0,1.0,1.0
-6b665b36101d0392ccba1f3aac23c00c839baa38,App.java,None,src/main/java/com/euler/gremlindriverclient/App.java,ADD,30,50,0,227,3,2017-05-09 08:54:47-07:00,0.0,1.0,1.0
-6b665b36101d0392ccba1f3aac23c00c839baa38,remote-secure.yaml,None,src/remote-secure.yaml,ADD,None,7,0,None,None,2017-05-09 08:54:47-07:00,0.0,1.0,1.0
-972fa4896e13058d77eadd7a1846c793ccb8a317,pom.xml,pom.xml,pom.xml,MODIFY,None,13,0,None,None,2017-05-09 09:15:38-07:00,None,None,None
-8c7b375cccb0c99e791c8c8833440c4271c46b63,App.java,src/main/java/com/euler/gremlindriverclient/App.java,src/main/java/com/euler/gremlindriverclient/App.java,MODIFY,30,1,1,227,3,2017-05-09 09:17:33-07:00,1.0,1.0,1.0
-8c7b375cccb0c99e791c8c8833440c4271c46b63,remote-secure.yaml,src/remote-secure.yaml,src/remote-secure.yaml,MODIFY,None,1,1,None,None,2017-05-09 09:17:33-07:00,1.0,1.0,1.0
-8c7b375cccb0c99e791c8c8833440c4271c46b63,remote.yaml,None,src/remote.yaml,ADD,None,7,0,None,None,2017-05-09 09:17:33-07:00,1.0,1.0,1.0
-6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,Program.java,src/main/java/com/euler/gremlindriverclient/App.java,src/GetStarted/Program.java,RENAME,None,0,0,None,None,2017-05-09 09:23:17-07:00,1.0,1.0,1.0
-6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,remote-secure.yaml,src/remote-secure.yaml,None,DELETE,None,0,7,None,None,2017-05-09 09:23:17-07:00,1.0,1.0,1.0
-6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,remote.yaml,src/remote.yaml,None,DELETE,None,0,7,None,None,2017-05-09 09:23:17-07:00,1.0,1.0,1.0
-741847bb954f3b9cf7421c7a56f246bed911fb08,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,30,1,1,227,3,2017-05-09 09:25:06-07:00,1.0,1.0,1.0
-acd4318c3a8ef071df29641e78f82a6632639fc1,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,30,1,1,223,3,2017-05-09 09:27:22-07:00,1.0,1.0,1.0
-fed1b9d4e4f8cfb4ce233cb8025c74fef90e67ae,remote.yaml,None,remote.yaml,ADD,None,3,0,None,None,2017-05-09 09:29:02-07:00,None,None,None
-ed46eb8d78702581b571efc61b1862a397cfa5d6,remote.yaml,remote.yaml,src/remote.yaml,RENAME,None,0,0,None,None,2017-05-09 09:30:05-07:00,None,None,None
-41eb94670f15d6371b177457a3a779325cee9b67,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,51,34,5,276,4,2017-05-09 11:50:57-07:00,0.0,1.0,1.0
-4763368491ab626b2ff13b4b21b0cc56fb04057c,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,51,1,1,279,4,2017-05-09 12:03:55-07:00,1.0,1.0,1.0
-dcc7f035da4b0460086e08fcea2916dde1f7d815,remote.yaml,src/remote.yaml,src/remote.yaml,MODIFY,None,7,3,None,None,2017-08-05 13:58:43-07:00,None,None,None
-80d69163a5dfc7c628c189adc275bef3c65dc27f,README.md,README.md,README.md,MODIFY,None,10,1,None,None,2017-08-05 14:07:19-07:00,None,None,None
-2e6aba4e212b295002ea7c5c64964db0d0f680cf,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2017-08-05 14:09:07-07:00,None,None,None
-cbb16baa97560ed45abdc695b40bc2cad261c8cf,README.md,README.md,README.md,MODIFY,None,11,11,None,None,2017-10-05 19:36:22-07:00,None,None,None
-b744c4756d7191ec7bda3d4abc00fb617918b931,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,62,47,29,359,5,2017-10-25 16:25:25-07:00,1.0,1.0,1.0
-f48f5ec1859cc311a0359f87328fd3b53d371b59,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2017-10-30 10:09:51-07:00,None,None,None
-ec56db2f99d3bee1d862514880e469838bb534f1,remote.yaml,src/remote.yaml,src/remote.yaml,MODIFY,None,2,2,None,None,2018-07-31 14:31:15-07:00,None,None,None
-f43f92ffea02c0c3e9a2a3033707ddef2a8f1935,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-10-10 14:17:32-07:00,None,None,None
-a5ff742f6468aeb4aa49dfec169e23a2a492a80a,pom.xml,pom.xml,pom.xml,MODIFY,None,3,3,None,None,2019-03-22 17:15:31-07:00,0.0,0.0,1.0
-a5ff742f6468aeb4aa49dfec169e23a2a492a80a,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,166,156,31,784,6,2019-03-22 17:15:31-07:00,0.0,0.0,1.0
-3e581ed7eccba55aa872c52800670e1fd2e24945,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,82,0,84,616,6,2019-03-22 17:16:45-07:00,1.0,1.0,1.0
-f078725123db1b5d830441da692bb2b159fe07cd,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,82,13,2,610,6,2019-03-25 13:37:27-07:00,1.0,1.0,1.0
-142d9699ca95c11ffd1312afcb01d25cd8bd4153,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,88,10,1,628,7,2019-03-25 13:51:22-07:00,0.0,0.0,1.0
-d594d27841dda2ca2dbb6cf6a924bd3c918adc00,remote.yaml,src/remote.yaml,src/remote.yaml,MODIFY,None,1,1,None,None,2019-03-25 16:11:29-07:00,None,None,None
-9e3b4cba655412c4428bedf347a7a8119ae27751,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,88,4,4,628,7,2019-08-01 17:50:21-07:00,1.0,1.0,1.0
-931c28b1cedf4c6be9c1c6da5475f1182a252935,README.md,README.md,README.md,MODIFY,None,7,3,None,None,2019-09-13 05:14:28+05:18,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+6b665b36101d0392ccba1f3aac23c00c839baa38,2017-05-09 08:54:47-07:00,25200,2017-05-09 08:54:47-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,34,2,None,None,None
+6b665b36101d0392ccba1f3aac23c00c839baa38,2017-05-09 08:54:47-07:00,25200,2017-05-09 08:54:47-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,17,0,None,None,None
+6b665b36101d0392ccba1f3aac23c00c839baa38,2017-05-09 08:54:47-07:00,25200,2017-05-09 08:54:47-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,1.0,1.0,None,src/main/java/com/euler/gremlindriverclient/App.java,App.java,ModificationType.ADD,50,0,30,3,227
+6b665b36101d0392ccba1f3aac23c00c839baa38,2017-05-09 08:54:47-07:00,25200,2017-05-09 08:54:47-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,1.0,1.0,None,src/remote-secure.yaml,remote-secure.yaml,ModificationType.ADD,7,0,None,None,None
+8c7b375cccb0c99e791c8c8833440c4271c46b63,2017-05-09 09:17:33-07:00,25200,2017-05-09 09:17:33-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/main/java/com/euler/gremlindriverclient/App.java,src/main/java/com/euler/gremlindriverclient/App.java,App.java,ModificationType.MODIFY,1,1,30,3,227
+8c7b375cccb0c99e791c8c8833440c4271c46b63,2017-05-09 09:17:33-07:00,25200,2017-05-09 09:17:33-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/remote-secure.yaml,src/remote-secure.yaml,remote-secure.yaml,ModificationType.MODIFY,1,1,None,None,None
+8c7b375cccb0c99e791c8c8833440c4271c46b63,2017-05-09 09:17:33-07:00,25200,2017-05-09 09:17:33-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,None,src/remote.yaml,remote.yaml,ModificationType.ADD,7,0,None,None,None
+6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,2017-05-09 09:23:17-07:00,25200,2017-05-09 09:23:17-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/main/java/com/euler/gremlindriverclient/App.java,src/GetStarted/Program.java,Program.java,ModificationType.RENAME,0,0,None,None,None
+6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,2017-05-09 09:23:17-07:00,25200,2017-05-09 09:23:17-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/remote-secure.yaml,None,remote-secure.yaml,ModificationType.DELETE,0,7,None,None,None
+6dd480014eb1e9dd23b6d008f2222bf4e0b6a42d,2017-05-09 09:23:17-07:00,25200,2017-05-09 09:23:17-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/remote.yaml,None,remote.yaml,ModificationType.DELETE,0,7,None,None,None
+741847bb954f3b9cf7421c7a56f246bed911fb08,2017-05-09 09:25:06-07:00,25200,2017-05-09 09:25:06-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,1,1,30,3,227
+acd4318c3a8ef071df29641e78f82a6632639fc1,2017-05-09 09:27:22-07:00,25200,2017-05-09 09:27:22-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,1,1,30,3,223
+41eb94670f15d6371b177457a3a779325cee9b67,2017-05-09 11:50:57-07:00,25200,2017-05-09 11:50:57-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,34,5,51,4,276
+4763368491ab626b2ff13b4b21b0cc56fb04057c,2017-05-09 12:03:55-07:00,25200,2017-05-09 12:03:55-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,1,1,51,4,279
+b744c4756d7191ec7bda3d4abc00fb617918b931,2017-10-25 16:25:25-07:00,25200,2017-10-25 16:25:25-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,47,29,62,5,359
+a5ff742f6468aeb4aa49dfec169e23a2a492a80a,2019-03-22 17:15:31-07:00,25200,2019-03-22 17:15:31-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,0.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,3,3,None,None,None
+a5ff742f6468aeb4aa49dfec169e23a2a492a80a,2019-03-22 17:15:31-07:00,25200,2019-03-22 17:15:31-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,0.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,156,31,166,6,784
+3e581ed7eccba55aa872c52800670e1fd2e24945,2019-03-22 17:16:45-07:00,25200,2019-03-22 17:16:45-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,0,84,82,6,616
+f078725123db1b5d830441da692bb2b159fe07cd,2019-03-25 13:37:27-07:00,25200,2019-03-25 13:37:27-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,13,2,82,6,610
+142d9699ca95c11ffd1312afcb01d25cd8bd4153,2019-03-25 13:51:22-07:00,25200,2019-03-25 13:51:22-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,0.0,0.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,10,1,88,7,628
+9e3b4cba655412c4428bedf347a7a8119ae27751,2019-08-01 17:50:21-07:00,25200,2019-08-01 17:50:21-07:00,25200,True,False,azure-cosmos-db-graph-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,4,4,88,7,628

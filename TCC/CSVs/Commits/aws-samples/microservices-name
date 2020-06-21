@@ -1,19 +1,12 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-e20691e05b4989d9a0fb7f5565401a158a159349,LICENSE,None,LICENSE,ADD,None,201,0,None,None,2018-04-06 13:01:54-07:00,None,None,None
-93c10a9b1ee22aa509a5c073cb239352336db1ad,.gitignore,None,.gitignore,ADD,None,3,0,None,None,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,pom.xml,None,pom.xml,ADD,None,279,0,None,None,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,lambda.xml,None,src/assembly/lambda.xml,ADD,None,19,0,None,None,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,MyApplication.java,None,src/main/java/org/aws/samples/compute/name/MyApplication.java,ADD,21,31,0,160,2,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,Name.java,None,src/main/java/org/aws/samples/compute/name/Name.java,ADD,33,47,0,159,8,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,NameEndpoint.java,None,src/main/java/org/aws/samples/compute/name/NameEndpoint.java,ADD,30,39,0,242,4,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,NameHandler.java,None,src/main/java/org/aws/samples/compute/name/NameHandler.java,ADD,34,49,0,312,1,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,NameMessageBodyWriter.java,None,src/main/java/org/aws/samples/compute/name/NameMessageBodyWriter.java,ADD,36,43,0,268,3,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,Names.java,None,src/main/java/org/aws/samples/compute/name/Names.java,ADD,19,23,0,139,2,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,StartupBean.java,None,src/main/java/org/aws/samples/compute/name/StartupBean.java,ADD,27,34,0,192,3,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-93c10a9b1ee22aa509a5c073cb239352336db1ad,web.xml,None,src/main/webapp/WEB-INF/web.xml,ADD,None,18,0,None,None,2018-04-06 13:16:55-07:00,1.0,1.0,0.7415730337078652
-72308d254f9209f183eb4b2dc6de7780758028c3,readme.adoc,None,readme.adoc,ADD,None,4,0,None,None,2018-04-06 13:17:33-07:00,None,None,None
-8849fb9b38d8f6798b36d7564999d63cd96741ae,pom.xml,pom.xml,pom.xml,MODIFY,None,24,5,None,None,2018-04-06 22:42:55-07:00,None,None,None
-c36afdcde64201b5908ffdb3e2a4d7653ddf3867,Dockerfile,None,Dockerfile,ADD,None,6,0,None,None,2018-04-14 10:34:20+02:00,None,None,None
-c36afdcde64201b5908ffdb3e2a4d7653ddf3867,pom.xml,pom.xml,pom.xml,MODIFY,None,12,7,None,None,2018-04-14 10:34:20+02:00,None,None,None
-a06892765378e5b94789979e96316953a27dd5b5,pom.xml,pom.xml,pom.xml,MODIFY,None,2,1,None,None,2018-04-14 20:33:32+10:00,None,None,None
-a308b05fc7d364670f45820fe7ed411b5f9ef7cd,name-sam.yaml,None,name-sam.yaml,ADD,None,86,0,None,None,2018-04-16 22:04:21+10:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,.gitignore,.gitignore,ModificationType.ADD,3,0,None,None,None
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,pom.xml,pom.xml,ModificationType.ADD,279,0,None,None,None
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/assembly/lambda.xml,lambda.xml,ModificationType.ADD,19,0,None,None,None
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/MyApplication.java,MyApplication.java,ModificationType.ADD,31,0,21,2,160
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/Name.java,Name.java,ModificationType.ADD,47,0,33,8,159
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/NameEndpoint.java,NameEndpoint.java,ModificationType.ADD,39,0,30,4,242
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/NameHandler.java,NameHandler.java,ModificationType.ADD,49,0,34,1,312
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/NameMessageBodyWriter.java,NameMessageBodyWriter.java,ModificationType.ADD,43,0,36,3,268
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/Names.java,Names.java,ModificationType.ADD,23,0,19,2,139
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/java/org/aws/samples/compute/name/StartupBean.java,StartupBean.java,ModificationType.ADD,34,0,27,3,192
+93c10a9b1ee22aa509a5c073cb239352336db1ad,2018-04-06 13:16:55-07:00,25200,2018-04-06 13:16:55-07:00,25200,True,False,microservices-name,1.0,1.0,0.7415730337078652,None,src/main/webapp/WEB-INF/web.xml,web.xml,ModificationType.ADD,18,0,None,None,None

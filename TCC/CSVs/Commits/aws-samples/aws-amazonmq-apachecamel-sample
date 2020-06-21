@@ -1,17 +1,9 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-4e77e6a5203e9ac1fd8ae161e317eaca7197a708,README.md,None,README.md,ADD,None,2,0,None,None,2018-04-17 10:23:18-07:00,None,None,None
-615409779c1b5fabbd8c88ca81860cc0e3759f1e,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2018-04-17 10:23:20-07:00,None,None,None
-420e9ff601c23094032a9c7088f5f2c61ab052e2,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2018-04-17 10:23:20-07:00,None,None,None
-b371fe78113fc3d64d4485b7b5dae3567e630cf1,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,6,0,None,None,2018-04-17 10:23:21-07:00,None,None,None
-23df7396775e7147f90ec0dffacabbe1d8ca2f4f,LICENSE,None,LICENSE,ADD,None,14,0,None,None,2018-04-17 10:23:22-07:00,None,None,None
-b8f6adfd66cb1015ed7332905705f7473a3c4310,README.md,README.md,README.md,MODIFY,None,6,1,None,None,2018-04-17 10:23:23-07:00,None,None,None
-b3925262d0971f655415d0f88a2a71bf563f04d6,hello.txt,None,input/hello.txt,ADD,None,1,0,None,None,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,index.html,None,input/index.html,ADD,None,7,0,None,None,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,pom.xml,None,pom.xml,ADD,None,110,0,None,None,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,MainApp.java,None,src/main/java/com/angmas/MainApp.java,ADD,22,50,0,203,2,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,MessageProducerBuilder.java,None,src/main/java/com/angmas/MessageProducerBuilder.java,ADD,9,34,0,45,1,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,MyRouteBuilder.java,None,src/main/java/com/angmas/MyRouteBuilder.java,ADD,27,53,0,204,2,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-b3925262d0971f655415d0f88a2a71bf563f04d6,log4j2.properties,None,src/main/resources/log4j2.properties,ADD,None,7,0,None,None,2018-04-22 22:04:44+02:00,1.0,1.0,1.0
-673a1d5ed96bda88203f620b060ada173fec496d,NOTICE,None,NOTICE,ADD,None,2,0,None,None,2018-04-22 22:06:15+02:00,None,None,None
-605d94423f56f21be62a6046be1eddfa22c67ddd,NOTICE,NOTICE,NOTICE,MODIFY,None,1,1,None,None,2018-04-23 17:21:26+02:00,None,None,None
-0f58740c165d146b16769345940506fd261f0892,MyRouteBuilder.java,src/main/java/com/angmas/MyRouteBuilder.java,src/main/java/com/angmas/MyRouteBuilder.java,MODIFY,25,0,2,182,2,2018-04-26 22:07:44+02:00,1.0,1.0,1.0
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,input/hello.txt,hello.txt,ModificationType.ADD,1,0,None,None,None
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,input/index.html,index.html,ModificationType.ADD,7,0,None,None,None
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,110,0,None,None,None
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,src/main/java/com/angmas/MainApp.java,MainApp.java,ModificationType.ADD,50,0,22,2,203
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,src/main/java/com/angmas/MessageProducerBuilder.java,MessageProducerBuilder.java,ModificationType.ADD,34,0,9,1,45
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,src/main/java/com/angmas/MyRouteBuilder.java,MyRouteBuilder.java,ModificationType.ADD,53,0,27,2,204
+b3925262d0971f655415d0f88a2a71bf563f04d6,2018-04-22 22:04:44+02:00,-7200,2018-04-22 22:04:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,None,src/main/resources/log4j2.properties,log4j2.properties,ModificationType.ADD,7,0,None,None,None
+0f58740c165d146b16769345940506fd261f0892,2018-04-26 22:07:44+02:00,-7200,2018-04-26 22:07:44+02:00,-7200,True,False,aws-amazonmq-apachecamel-sample,1.0,1.0,1.0,src/main/java/com/angmas/MyRouteBuilder.java,src/main/java/com/angmas/MyRouteBuilder.java,MyRouteBuilder.java,ModificationType.MODIFY,0,2,25,2,182

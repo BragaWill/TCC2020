@@ -1,31 +1,25 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-d0ec9d76b968c3b553c9bf20c579c5ee03f39b30,.gitignore,None,.gitignore,ADD,None,104,0,None,None,2020-05-15 14:09:54+00:00,None,None,None
-9f9aa4b750141590c0f5b669fbf310807ad05d94,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2020-05-15 07:09:59-07:00,None,None,None
-5255e01e3e0184d742a681f1c7f5d5fc6a3332d6,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2020-05-15 07:10:00-07:00,None,None,None
-96b0d59bbec2a89d2b7d2d82a884d8e12763e16e,SECURITY.md,None,SECURITY.md,ADD,None,41,0,None,None,2020-05-15 07:10:01-07:00,None,None,None
-e0ccbfb38f6dc90249b4e35f45ef7a2d2cdcd1ec,README.md,None,README.md,ADD,None,64,0,None,None,2020-05-15 07:10:02-07:00,None,None,None
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,.gitignore,.gitignore,.gitignore,MODIFY,None,42,43,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.md,README.md,README.md,MODIFY,None,39,29,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,IoTCentralArmSDK.sln,None,csharp/IoTCentralArmSDK.sln,ADD,None,25,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,IoTCentralArmSDK.csproj,None,csharp/IoTCentralArmSDK/IoTCentralArmSDK.csproj,ADD,None,13,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,IoTCentralArmSDK.csproj.user,None,csharp/IoTCentralArmSDK/IoTCentralArmSDK.csproj.user,ADD,None,9,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,Program.cs,None,csharp/IoTCentralArmSDK/Program.cs,ADD,47,62,0,311,1,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.md,None,csharp/README.md,ADD,None,15,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,.gitignore,None,go/.gitignore,ADD,None,1,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.md,None,go/README.md,ADD,None,29,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,main.go,None,go/main.go,ADD,69,98,0,361,8,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,.gitignore,None,java/.gitignore,ADD,None,6,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.MD,None,java/README.MD,ADD,None,24,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,build.gradle,None,java/build.gradle,ADD,None,24,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,IoTCentralExample.java,None,java/src/main/java/sample/IoTCentralExample.java,ADD,63,88,0,638,2,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.md,None,nodejs/README.md,ADD,None,23,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,index.ts,None,nodejs/index.ts,ADD,None,84,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,package-lock.json,None,nodejs/package-lock.json,ADD,None,877,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,package.json,None,nodejs/package.json,ADD,None,18,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,tsconfig.json,None,nodejs/tsconfig.json,ADD,None,7,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.MD,None,python/README.MD,ADD,None,24,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,requirements.txt,None,python/requirements.txt,ADD,None,2,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,run.py,None,python/run.py,ADD,30,47,0,218,0,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,README.md,None,ruby/README.md,ADD,None,24,0,None,None,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,example.rb,None,ruby/example.rb,ADD,39,64,0,231,0,2020-05-18 16:52:45+01:00,0.0,0.5602836879432624,1.0
-42744187c3a729ee91a8f0a10ea4ab7bd920ed48,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2020-05-18 17:04:03+01:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,.gitignore,.gitignore,.gitignore,ModificationType.MODIFY,42,43,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,README.md,README.md,README.md,ModificationType.MODIFY,39,29,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,csharp/IoTCentralArmSDK.sln,IoTCentralArmSDK.sln,ModificationType.ADD,25,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,csharp/IoTCentralArmSDK/IoTCentralArmSDK.csproj,IoTCentralArmSDK.csproj,ModificationType.ADD,13,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,csharp/IoTCentralArmSDK/IoTCentralArmSDK.csproj.user,IoTCentralArmSDK.csproj.user,ModificationType.ADD,9,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,csharp/IoTCentralArmSDK/Program.cs,Program.cs,ModificationType.ADD,62,0,47,1,311
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,csharp/README.md,README.md,ModificationType.ADD,15,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,go/.gitignore,.gitignore,ModificationType.ADD,1,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,go/README.md,README.md,ModificationType.ADD,29,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,go/main.go,main.go,ModificationType.ADD,98,0,69,8,361
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,java/.gitignore,.gitignore,ModificationType.ADD,6,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,java/README.MD,README.MD,ModificationType.ADD,24,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,java/build.gradle,build.gradle,ModificationType.ADD,24,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,java/src/main/java/sample/IoTCentralExample.java,IoTCentralExample.java,ModificationType.ADD,88,0,63,2,638
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,nodejs/README.md,README.md,ModificationType.ADD,23,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,nodejs/index.ts,index.ts,ModificationType.ADD,84,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,nodejs/package-lock.json,package-lock.json,ModificationType.ADD,877,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,nodejs/package.json,package.json,ModificationType.ADD,18,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,nodejs/tsconfig.json,tsconfig.json,ModificationType.ADD,7,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,python/README.MD,README.MD,ModificationType.ADD,24,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,python/requirements.txt,requirements.txt,ModificationType.ADD,2,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,python/run.py,run.py,ModificationType.ADD,47,0,30,0,218
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,ruby/README.md,README.md,ModificationType.ADD,24,0,None,None,None
+a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,-3600,2020-05-18 16:52:45+01:00,-3600,True,False,azure-iot-central-arm-sdk-samples,0.0,0.5602836879432624,1.0,None,ruby/example.rb,example.rb,ModificationType.ADD,64,0,39,0,231

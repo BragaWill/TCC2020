@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TCC/Repos/azure-cosmos-java-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TCC/Repos/azure-cosmos-java-sql-api-todo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TCC/Repos/documentdb-java-todo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TCC/Repos/novo" vcs="Git" />
+  </component>
+</project>

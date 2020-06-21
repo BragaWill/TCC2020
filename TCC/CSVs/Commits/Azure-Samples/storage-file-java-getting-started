@@ -1,39 +1,24 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-ed560268597dbdd9ef65be8cf6f21f63683cbf93,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2015-09-22 13:13:25-07:00,None,None,None
-bba0c100a0fa8d76910495ce7b97b2f02bb82d79,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,2,0,None,None,2015-09-22 13:13:27-07:00,None,None,None
-511c213dd3d5cc09adbd6ad8f1ad078410953cfd,README.md,None,README.md,ADD,None,16,0,None,None,2015-09-22 13:13:29-07:00,None,None,None
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,.classpath,None,.classpath,ADD,None,25,0,None,None,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,.gitignore,None,.gitignore,ADD,None,2,0,None,None,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,.project,None,.project,ADD,None,23,0,None,None,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,pom.xml,None,pom.xml,ADD,None,58,0,None,None,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,config.properties,None,resources/config.properties,ADD,None,6,0,None,None,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-4f7c354d9dd1dda0acee95e35c56eebf0c704aae,FileBasics.java,None,src/FileBasics.java,ADD,165,294,0,1303,19,2015-09-25 16:26:53-07:00,0.10144927536231885,0.4420289855072464,1.0
-ca5fe681b960b5cbf9f3fa0e3d4b1a9c5a6f89c4,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,MODIFY,None,11,2,None,None,2015-09-28 07:11:02-07:00,None,None,None
-50e4a808bb28de4a6717a88ffb228d9760b4e578,README.md,README.md,README.md,MODIFY,None,0,4,None,None,2015-09-28 07:11:03-07:00,None,None,None
-05452a2dd69bd35d7aa8b1581f943524bc48e77f,README.md,README.md,README.md,MODIFY,None,33,8,None,None,2015-09-28 13:55:12-07:00,1.0,1.0,1.0
-05452a2dd69bd35d7aa8b1581f943524bc48e77f,config.properties,resources/config.properties,resources/config.properties,MODIFY,None,2,5,None,None,2015-09-28 13:55:12-07:00,1.0,1.0,1.0
-05452a2dd69bd35d7aa8b1581f943524bc48e77f,FileBasics.java,src/FileBasics.java,src/FileBasics.java,MODIFY,165,2,5,1303,19,2015-09-28 13:55:12-07:00,1.0,1.0,1.0
-66f730400d63d8c46761ecbe69c7cd59739240d6,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2015-09-28 21:21:43-07:00,None,None,None
-56a90fa7379a5c784d547a911e9574a8118042cc,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2015-09-28 21:24:00-07:00,None,None,None
-7ee6c6759f441dca047e4b0f6775d9ee473c9f3b,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2015-10-02 11:59:16-07:00,None,None,None
-0d1c7ab4db1a6b60a61ef9e48b7dc08ded95b849,FileBasics.java,src/FileBasics.java,src/FileBasics.java,MODIFY,213,97,43,1768,25,2015-10-06 16:45:07-07:00,0.13333333333333333,0.13333333333333333,1.0
-cef24babf387ecbc3f2f2320559334b90bdeea32,README.md,README.md,README.md,MODIFY,None,9,1,None,None,2016-04-27 11:18:42-07:00,1.0,1.0,0.904
-cef24babf387ecbc3f2f2320559334b90bdeea32,pom.xml,pom.xml,pom.xml,MODIFY,None,7,0,None,None,2016-04-27 11:18:42-07:00,1.0,1.0,0.904
-cef24babf387ecbc3f2f2320559334b90bdeea32,setup.js,None,setup.js,ADD,61,70,0,481,19,2016-04-27 11:18:42-07:00,1.0,1.0,0.904
-cef24babf387ecbc3f2f2320559334b90bdeea32,teardown.js,None,teardown.js,ADD,62,70,0,439,19,2016-04-27 11:18:42-07:00,1.0,1.0,0.904
-2ef0b265ad59809e94ddb77035de8468b425b01c,teardown.js,teardown.js,teardown.js,MODIFY,59,2,5,418,19,2016-04-27 11:23:09-07:00,1.0,1.0,1.0
-5946f79e373ef8478b18447c3337b4ba1caade58,setup.js,setup.js,setup.js,MODIFY,61,1,1,480,19,2016-04-29 10:41:03-07:00,1.0,1.0,1.0
-6105acef6feaa27867fa1b0f19f22dc24095f655,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2016-05-10 10:55:15-07:00,None,None,None
-459093374f18d4ca2c67540e7011905b5cc3c5ec,.classpath,.classpath,None,DELETE,None,0,25,None,None,2016-05-20 14:28:29-07:00,0.4342105263157895,0.21052631578947367,0.6447368421052632
-459093374f18d4ca2c67540e7011905b5cc3c5ec,.gitignore,.gitignore,.gitignore,MODIFY,None,36,2,None,None,2016-05-20 14:28:29-07:00,0.4342105263157895,0.21052631578947367,0.6447368421052632
-459093374f18d4ca2c67540e7011905b5cc3c5ec,.project,.project,None,DELETE,None,0,23,None,None,2016-05-20 14:28:29-07:00,0.4342105263157895,0.21052631578947367,0.6447368421052632
-459093374f18d4ca2c67540e7011905b5cc3c5ec,pom.xml,pom.xml,pom.xml,MODIFY,None,4,3,None,None,2016-05-20 14:28:29-07:00,0.4342105263157895,0.21052631578947367,0.6447368421052632
-459093374f18d4ca2c67540e7011905b5cc3c5ec,FileBasics.java,src/FileBasics.java,src/FileBasics.java,MODIFY,285,251,121,2602,41,2016-05-20 14:28:29-07:00,0.4342105263157895,0.21052631578947367,0.6447368421052632
-25990f42b5d2c81a6be9a84d29eb193382f724d3,DataGenerator.java,None,src/DataGenerator.java,ADD,34,79,0,210,6,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-25990f42b5d2c81a6be9a84d29eb193382f724d3,FileAdvanced.java,None,src/FileAdvanced.java,ADD,237,382,0,1951,12,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-25990f42b5d2c81a6be9a84d29eb193382f724d3,FileBasics.java,src/FileBasics.java,src/FileBasics.java,MODIFY,207,12,161,2104,25,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-25990f42b5d2c81a6be9a84d29eb193382f724d3,FileClientProvider.java,None,src/FileClientProvider.java,ADD,39,57,0,235,5,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-25990f42b5d2c81a6be9a84d29eb193382f724d3,Main.java,None,src/Main.java,ADD,8,50,0,47,1,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-25990f42b5d2c81a6be9a84d29eb193382f724d3,PrintHelper.java,None,src/PrintHelper.java,ADD,26,62,0,187,5,2016-08-25 17:42:17-03:00,0.06837606837606838,1.0,1.0
-43bfc1f0a832ab7a7fa2e411a2c025ff4c305453,FileAdvanced.java,src/FileAdvanced.java,src/FileAdvanced.java,MODIFY,236,15,16,1947,12,2016-09-13 14:26:51-03:00,1.0,1.0,1.0
-cba8d51bdb59cb25c72a46eeb71111aa986d21c0,FileAdvanced.java,src/FileAdvanced.java,src/FileAdvanced.java,MODIFY,256,30,0,2096,13,2016-10-05 15:49:15-03:00,0.0,1.0,1.0
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,.classpath,.classpath,ModificationType.ADD,25,0,None,None,None
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,.gitignore,.gitignore,ModificationType.ADD,2,0,None,None,None
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,.project,.project,ModificationType.ADD,23,0,None,None,None
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,pom.xml,pom.xml,ModificationType.ADD,58,0,None,None,None
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,resources/config.properties,config.properties,ModificationType.ADD,6,0,None,None,None
+4f7c354d9dd1dda0acee95e35c56eebf0c704aae,2015-09-25 16:26:53-07:00,25200,2015-09-25 16:26:53-07:00,25200,True,False,storage-file-java-getting-started,0.10144927536231885,0.4420289855072464,1.0,None,src/FileBasics.java,FileBasics.java,ModificationType.ADD,294,0,165,19,1303
+05452a2dd69bd35d7aa8b1581f943524bc48e77f,2015-09-28 13:55:12-07:00,25200,2015-09-28 13:55:12-07:00,25200,True,False,storage-file-java-getting-started,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,33,8,None,None,None
+05452a2dd69bd35d7aa8b1581f943524bc48e77f,2015-09-28 13:55:12-07:00,25200,2015-09-28 13:55:12-07:00,25200,True,False,storage-file-java-getting-started,1.0,1.0,1.0,resources/config.properties,resources/config.properties,config.properties,ModificationType.MODIFY,2,5,None,None,None
+05452a2dd69bd35d7aa8b1581f943524bc48e77f,2015-09-28 13:55:12-07:00,25200,2015-09-28 13:55:12-07:00,25200,True,False,storage-file-java-getting-started,1.0,1.0,1.0,src/FileBasics.java,src/FileBasics.java,FileBasics.java,ModificationType.MODIFY,2,5,165,19,1303
+0d1c7ab4db1a6b60a61ef9e48b7dc08ded95b849,2015-10-06 16:45:07-07:00,25200,2015-10-06 16:45:07-07:00,25200,True,False,storage-file-java-getting-started,0.13333333333333333,0.13333333333333333,1.0,src/FileBasics.java,src/FileBasics.java,FileBasics.java,ModificationType.MODIFY,97,43,213,25,1768
+459093374f18d4ca2c67540e7011905b5cc3c5ec,2016-05-20 14:28:29-07:00,25200,2016-05-20 14:28:29-07:00,25200,True,False,storage-file-java-getting-started,0.4342105263157895,0.21052631578947367,0.6447368421052632,.classpath,None,.classpath,ModificationType.DELETE,0,25,None,None,None
+459093374f18d4ca2c67540e7011905b5cc3c5ec,2016-05-20 14:28:29-07:00,25200,2016-05-20 14:28:29-07:00,25200,True,False,storage-file-java-getting-started,0.4342105263157895,0.21052631578947367,0.6447368421052632,.gitignore,.gitignore,.gitignore,ModificationType.MODIFY,36,2,None,None,None
+459093374f18d4ca2c67540e7011905b5cc3c5ec,2016-05-20 14:28:29-07:00,25200,2016-05-20 14:28:29-07:00,25200,True,False,storage-file-java-getting-started,0.4342105263157895,0.21052631578947367,0.6447368421052632,.project,None,.project,ModificationType.DELETE,0,23,None,None,None
+459093374f18d4ca2c67540e7011905b5cc3c5ec,2016-05-20 14:28:29-07:00,25200,2016-05-20 14:28:29-07:00,25200,True,False,storage-file-java-getting-started,0.4342105263157895,0.21052631578947367,0.6447368421052632,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,4,3,None,None,None
+459093374f18d4ca2c67540e7011905b5cc3c5ec,2016-05-20 14:28:29-07:00,25200,2016-05-20 14:28:29-07:00,25200,True,False,storage-file-java-getting-started,0.4342105263157895,0.21052631578947367,0.6447368421052632,src/FileBasics.java,src/FileBasics.java,FileBasics.java,ModificationType.MODIFY,251,121,285,41,2602
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,None,src/DataGenerator.java,DataGenerator.java,ModificationType.ADD,79,0,34,6,210
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,None,src/FileAdvanced.java,FileAdvanced.java,ModificationType.ADD,382,0,237,12,1951
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,src/FileBasics.java,src/FileBasics.java,FileBasics.java,ModificationType.MODIFY,12,161,207,25,2104
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,None,src/FileClientProvider.java,FileClientProvider.java,ModificationType.ADD,57,0,39,5,235
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,None,src/Main.java,Main.java,ModificationType.ADD,50,0,8,1,47
+25990f42b5d2c81a6be9a84d29eb193382f724d3,2016-08-25 17:42:17-03:00,10800,2016-08-25 17:42:17-03:00,10800,True,False,storage-file-java-getting-started,0.06837606837606838,1.0,1.0,None,src/PrintHelper.java,PrintHelper.java,ModificationType.ADD,62,0,26,5,187
+43bfc1f0a832ab7a7fa2e411a2c025ff4c305453,2016-09-13 14:26:51-03:00,10800,2016-09-13 14:26:51-03:00,10800,True,False,storage-file-java-getting-started,1.0,1.0,1.0,src/FileAdvanced.java,src/FileAdvanced.java,FileAdvanced.java,ModificationType.MODIFY,15,16,236,12,1947
+cba8d51bdb59cb25c72a46eeb71111aa986d21c0,2016-10-05 15:49:15-03:00,10800,2016-10-05 15:49:15-03:00,10800,True,False,storage-file-java-getting-started,0.0,1.0,1.0,src/FileAdvanced.java,src/FileAdvanced.java,FileAdvanced.java,ModificationType.MODIFY,30,0,256,13,2096

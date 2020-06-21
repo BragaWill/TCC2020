@@ -1,15 +1,9 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-f44f437212b37e87738d370f6237fa0b226bd19a,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2019-07-31 11:00:44-07:00,None,None,None
-a3f6f4f4123a814c31f8bfe5c66115b3a2f2414e,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,9,0,None,None,2019-07-31 11:00:48-07:00,None,None,None
-be9bb9ec05124e59a866aecd5fca302ee7c24e25,README.md,None,README.md,ADD,None,64,0,None,None,2019-07-31 11:00:50-07:00,None,None,None
-2372e55140017e876be82f3c42225e9394e41813,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2019-07-31 11:00:51-07:00,None,None,None
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,.gitignore,.gitignore,.gitignore,MODIFY,None,5,0,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,README.md,README.md,README.md,MODIFY,None,20,9,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,pom.xml,None,pom.xml,ADD,None,76,0,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,AccountSettings.java,None,src/main/java/AccountSettings.java,ADD,13,18,0,86,0,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,Main.java,None,src/main/java/Main.java,ADD,133,217,0,1106,14,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,application.properties,None,src/main/resources/application.properties,ADD,None,7,0,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,ehcache.xml,None,src/main/resources/ehcache.xml,ADD,None,17,0,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-8356e1f25878d3aa68310fe85ebb3fff6554afa5,log4j.properties,None,src/main/resources/log4j.properties,ADD,None,15,0,None,None,2019-07-31 15:24:39-07:00,0.2909090909090909,1.0,0.7818181818181819
-53782b565def1dfb68d3805b58fd083133943087,README.md,README.md,README.md,MODIFY,None,4,4,None,None,2019-09-23 14:52:09-07:00,None,None,None
-ba1e6bdcb1b9ab7d739723e974099bb17de6e292,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2019-09-24 09:43:49-07:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,.gitignore,.gitignore,.gitignore,ModificationType.MODIFY,5,0,None,None,None
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,README.md,README.md,README.md,ModificationType.MODIFY,20,9,None,None,None
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,pom.xml,pom.xml,ModificationType.ADD,76,0,None,None,None
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,src/main/java/AccountSettings.java,AccountSettings.java,ModificationType.ADD,18,0,13,0,86
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,src/main/java/Main.java,Main.java,ModificationType.ADD,217,0,133,14,1106
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,src/main/resources/application.properties,application.properties,ModificationType.ADD,7,0,None,None,None
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,src/main/resources/ehcache.xml,ehcache.xml,ModificationType.ADD,17,0,None,None,None
+8356e1f25878d3aa68310fe85ebb3fff6554afa5,2019-07-31 15:24:39-07:00,25200,2019-07-31 15:24:39-07:00,25200,True,False,azure-cosmosdb-java-pagination,0.2909090909090909,1.0,0.7818181818181819,None,src/main/resources/log4j.properties,log4j.properties,ModificationType.ADD,15,0,None,None,None

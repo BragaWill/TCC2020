@@ -1,39 +1,20 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-71e9e7e8ba7ae473a2a3583184e4746bdb5721df,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,2,0,None,None,2015-09-21 11:00:21-07:00,None,None,None
-667bbdbbe2d765d8022a454162fa2771d16c92f7,LICENSE,None,LICENSE,ADD,None,22,0,None,None,2015-09-21 11:00:21-07:00,None,None,None
-2520048a408c00dd8d2f1adf6db10082749c6474,LICENSE,LICENSE,LICENSE,MODIFY,None,1,2,None,None,2015-09-22 13:13:26-07:00,None,None,None
-686858b6f695333b49c6e3dd4bcb02f1b925d33e,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,MODIFY,None,1,1,None,None,2015-09-22 13:13:27-07:00,None,None,None
-e57eaeb1eefc0b5d89420cd9916322f6c6a87357,README.md,None,README.md,ADD,None,16,0,None,None,2015-09-22 13:13:28-07:00,None,None,None
-ef77d32a5350637b56a8035d399f96381bb981ac,.classpath,None,.classpath,ADD,None,25,0,None,None,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-ef77d32a5350637b56a8035d399f96381bb981ac,.gitignore,None,.gitignore,ADD,None,2,0,None,None,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-ef77d32a5350637b56a8035d399f96381bb981ac,.project,None,.project,ADD,None,23,0,None,None,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-ef77d32a5350637b56a8035d399f96381bb981ac,pom.xml,None,pom.xml,ADD,None,38,0,None,None,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-ef77d32a5350637b56a8035d399f96381bb981ac,config.properties,None,resources/config.properties,ADD,None,6,0,None,None,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-ef77d32a5350637b56a8035d399f96381bb981ac,QueueBasics.java,None,src/QueueBasics.java,ADD,153,283,0,1016,18,2015-09-25 17:34:20-07:00,0.051094890510948905,0.5766423357664233,1.0
-31934dbc3f0e051418d23788338c42b2b381c54c,CONTRIBUTING.md,CONTRIBUTING.md,CONTRIBUTING.md,MODIFY,None,11,2,None,None,2015-09-28 07:11:05-07:00,None,None,None
-c86e4145019f98916df94fad9abc5151cf6fe61b,README.md,README.md,README.md,MODIFY,None,0,4,None,None,2015-09-28 07:11:05-07:00,None,None,None
-d162ae96430de6cbb1c127b3c7ac6c928df95d5d,README.md,README.md,README.md,MODIFY,None,35,10,None,None,2015-09-28 17:43:03-07:00,None,None,None
-4876f1f2934c2c1f96275ab5a577d0ef356298a0,README.md,README.md,README.md,MODIFY,None,4,4,None,None,2015-09-28 21:23:09-07:00,None,None,None
-da51e2457538d28b9495c20b8b76ee10fe8086ad,README.md,README.md,README.md,MODIFY,None,2,1,None,None,2015-09-29 12:28:59-07:00,None,None,None
-3bc891b7ce11baf85c3f8a068fd4dbc7b951377c,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2015-09-29 13:04:20-07:00,None,None,None
-21f1813ee6f78310fe8d02eb6445c1fa5da9f2bf,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2015-10-02 12:09:22-07:00,None,None,None
-9cf0a277c1f07145bd7fe4255ba34827674d5324,README.md,README.md,README.md,MODIFY,None,9,1,None,None,2016-04-27 11:18:19-07:00,1.0,1.0,0.904
-9cf0a277c1f07145bd7fe4255ba34827674d5324,pom.xml,pom.xml,pom.xml,MODIFY,None,30,0,None,None,2016-04-27 11:18:19-07:00,1.0,1.0,0.904
-9cf0a277c1f07145bd7fe4255ba34827674d5324,setup.js,None,setup.js,ADD,61,70,0,481,19,2016-04-27 11:18:19-07:00,1.0,1.0,0.904
-9cf0a277c1f07145bd7fe4255ba34827674d5324,teardown.js,None,teardown.js,ADD,62,70,0,439,19,2016-04-27 11:18:19-07:00,1.0,1.0,0.904
-3afbc2dc95fa35f292be2d54981ba05d38ade00f,setup.js,setup.js,setup.js,MODIFY,60,48,50,480,19,2016-04-29 10:41:36-07:00,1.0,1.0,1.0
-3566f0b3194d5c73b2359945e5a388f8372750a2,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2016-05-10 10:57:11-07:00,None,None,None
-092bfb43237ef34d1bc5a3632dd681497f0eda03,.classpath,.classpath,None,DELETE,None,0,25,None,None,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-092bfb43237ef34d1bc5a3632dd681497f0eda03,.gitignore,.gitignore,.gitignore,MODIFY,None,36,2,None,None,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-092bfb43237ef34d1bc5a3632dd681497f0eda03,.project,.project,None,DELETE,None,0,23,None,None,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-092bfb43237ef34d1bc5a3632dd681497f0eda03,pom.xml,pom.xml,pom.xml,MODIFY,None,2,4,None,None,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-092bfb43237ef34d1bc5a3632dd681497f0eda03,config.properties,resources/config.properties,resources/config.properties,MODIFY,None,1,1,None,None,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-092bfb43237ef34d1bc5a3632dd681497f0eda03,QueueBasics.java,src/QueueBasics.java,src/QueueBasics.java,MODIFY,153,161,149,1246,25,2016-05-20 14:31:41-07:00,1.0,0.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,DataGenerator.java,None,src/DataGenerator.java,ADD,6,33,0,40,1,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,Main.java,None,src/Main.java,ADD,8,60,0,47,1,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,PrintHelper.java,None,src/PrintHelper.java,ADD,26,62,0,187,5,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,QueueAdvanced.java,None,src/QueueAdvanced.java,ADD,162,265,0,1421,9,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,QueueBasics.java,src/QueueBasics.java,src/QueueBasics.java,MODIFY,133,8,75,1073,20,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-ddf99e81030ebaf205a8af1a518e7144fb6a406f,QueueClientProvider.java,None,src/QueueClientProvider.java,ADD,39,57,0,235,5,2016-08-25 15:47:50-03:00,0.1134020618556701,1.0,1.0
-63f2af84ea5abc704ece3a80fa89cbb8c5709285,QueueAdvanced.java,src/QueueAdvanced.java,src/QueueAdvanced.java,MODIFY,163,1,0,1433,9,2016-09-13 13:58:48-03:00,0.0,1.0,1.0
-f8955927a7e0d20e178d21e76f4a3d7cb4d05c93,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2017-03-16 14:55:31-07:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,.classpath,.classpath,ModificationType.ADD,25,0,None,None,None
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,.gitignore,.gitignore,ModificationType.ADD,2,0,None,None,None
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,.project,.project,ModificationType.ADD,23,0,None,None,None
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,pom.xml,pom.xml,ModificationType.ADD,38,0,None,None,None
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,resources/config.properties,config.properties,ModificationType.ADD,6,0,None,None,None
+ef77d32a5350637b56a8035d399f96381bb981ac,2015-09-25 17:34:20-07:00,25200,2015-09-25 17:34:20-07:00,25200,True,False,storage-queue-java-getting-started,0.051094890510948905,0.5766423357664233,1.0,None,src/QueueBasics.java,QueueBasics.java,ModificationType.ADD,283,0,153,18,1016
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,.classpath,None,.classpath,ModificationType.DELETE,0,25,None,None,None
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,.gitignore,.gitignore,.gitignore,ModificationType.MODIFY,36,2,None,None,None
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,.project,None,.project,ModificationType.DELETE,0,23,None,None,None
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,2,4,None,None,None
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,resources/config.properties,resources/config.properties,config.properties,ModificationType.MODIFY,1,1,None,None,None
+092bfb43237ef34d1bc5a3632dd681497f0eda03,2016-05-20 14:31:41-07:00,25200,2016-05-20 14:31:41-07:00,25200,True,False,storage-queue-java-getting-started,1.0,0.0,1.0,src/QueueBasics.java,src/QueueBasics.java,QueueBasics.java,ModificationType.MODIFY,161,149,153,25,1246
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,None,src/DataGenerator.java,DataGenerator.java,ModificationType.ADD,33,0,6,1,40
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,None,src/Main.java,Main.java,ModificationType.ADD,60,0,8,1,47
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,None,src/PrintHelper.java,PrintHelper.java,ModificationType.ADD,62,0,26,5,187
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,None,src/QueueAdvanced.java,QueueAdvanced.java,ModificationType.ADD,265,0,162,9,1421
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,src/QueueBasics.java,src/QueueBasics.java,QueueBasics.java,ModificationType.MODIFY,8,75,133,20,1073
+ddf99e81030ebaf205a8af1a518e7144fb6a406f,2016-08-25 15:47:50-03:00,10800,2016-08-25 15:47:50-03:00,10800,True,False,storage-queue-java-getting-started,0.1134020618556701,1.0,1.0,None,src/QueueClientProvider.java,QueueClientProvider.java,ModificationType.ADD,57,0,39,5,235
+63f2af84ea5abc704ece3a80fa89cbb8c5709285,2016-09-13 13:58:48-03:00,10800,2016-09-13 13:58:48-03:00,10800,True,False,storage-queue-java-getting-started,0.0,1.0,1.0,src/QueueAdvanced.java,src/QueueAdvanced.java,QueueAdvanced.java,ModificationType.MODIFY,1,0,163,9,1433

@@ -1,28 +1,11 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-cf507cd9a8badf40b5561898b57ddb80fae9d507,LICENSE,None,LICENSE,ADD,None,201,0,None,None,2018-04-06 12:11:49-07:00,None,None,None
-3e4f8f3b863d45b40bbd190031625faf0968d07f,.gitignore,None,.gitignore,ADD,None,3,0,None,None,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,pom.xml,None,pom.xml,ADD,None,276,0,None,None,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,lambda.xml,None,src/assembly/lambda.xml,ADD,None,19,0,None,None,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,GreetingEndpoint.java,None,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,ADD,22,31,0,167,2,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,GreetingHandler.java,None,src/main/java/org/aws/samples/compute/greeting/GreetingHandler.java,ADD,34,48,0,312,1,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,MyApplication.java,None,src/main/java/org/aws/samples/compute/greeting/MyApplication.java,ADD,26,37,0,203,2,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,StartupBean.java,None,src/main/java/org/aws/samples/compute/greeting/StartupBean.java,ADD,28,35,0,203,3,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-3e4f8f3b863d45b40bbd190031625faf0968d07f,web.xml,None,src/main/webapp/WEB-INF/web.xml,ADD,None,18,0,None,None,2018-04-06 12:58:50-07:00,1.0,1.0,0.8333333333333334
-53d508b9a5266f116fd600efc331b5299c7049db,readme.adoc,None,readme.adoc,ADD,None,4,0,None,None,2018-04-06 13:00:41-07:00,None,None,None
-9e17eb0221c81f895da461f48ef33b7ac758eb83,pom.xml,pom.xml,pom.xml,MODIFY,None,4,8,None,None,2018-04-06 13:05:11-07:00,None,None,None
-fb01ef0ef6c1853dd81db0142d819d755976dbe2,pom.xml,pom.xml,pom.xml,MODIFY,None,1,0,None,None,2018-04-06 13:10:54-07:00,None,None,None
-d25e8455112995fef2c2d3a750687837302ba5b4,pom.xml,pom.xml,pom.xml,MODIFY,None,28,0,None,None,2018-04-06 22:38:55-07:00,None,None,None
-7b27732b4e0d281494edf5de20120e523295f914,pom.xml,pom.xml,pom.xml,MODIFY,None,31,6,None,None,2018-04-10 09:25:51+02:00,None,None,None
-6fdfbf3cdbec9557973c2bb29dbea428af569b09,pom.xml,pom.xml,pom.xml,MODIFY,None,5,5,None,None,2018-04-11 09:41:40+02:00,None,None,None
-7b00c178f0e838b3b2f7238d0ae152eb1a96257c,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2018-04-11 16:22:43+02:00,None,None,None
-0e197e5f8b5a95a1cc9e6eb918b9c249701cc5e5,pom.xml,pom.xml,pom.xml,MODIFY,None,8,0,None,None,2018-04-13 20:52:09+10:00,None,None,None
-44ec3cb84ed4a5cf61b68afba80b04833d292044,Dockerfile,None,Dockerfile,ADD,None,6,0,None,None,2018-04-13 12:55:41+02:00,None,None,None
-44ec3cb84ed4a5cf61b68afba80b04833d292044,pom.xml,pom.xml,pom.xml,MODIFY,None,2,30,None,None,2018-04-13 12:55:41+02:00,None,None,None
-01d211fc3dc515f2b85601ef463d1ece5b3c2386,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2018-04-14 10:24:27+02:00,None,None,None
-b42801a930c7ce9fa5fb6acf4aa5012607b08bf4,pom.xml,pom.xml,pom.xml,MODIFY,None,2,1,None,None,2018-04-14 20:23:39+10:00,None,None,None
-1f8f242ea839fcac3cc473477c14811139b42a2a,.gitignore,.gitignore,.gitignore,MODIFY,None,4,0,None,None,2018-04-14 20:24:17+10:00,None,None,None
-96d963701835a80a99755a729fab3f2eba005dfa,GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,MODIFY,22,1,1,167,2,2018-04-16 12:17:12+02:00,1.0,1.0,1.0
-3bc7577714bf58922942b4adc6cac925b87b7d85,greeting-sam.yaml,None,greeting-sam.yaml,ADD,None,160,0,None,None,2018-04-16 21:58:15+10:00,1.0,1.0,1.0
-3bc7577714bf58922942b4adc6cac925b87b7d85,postTrafficHook.js,None,hooks/postTrafficHook.js,ADD,27,45,0,169,3,2018-04-16 21:58:15+10:00,1.0,1.0,1.0
-3bc7577714bf58922942b4adc6cac925b87b7d85,preTrafficHook.js,None,hooks/preTrafficHook.js,ADD,29,49,0,187,3,2018-04-16 21:58:15+10:00,1.0,1.0,1.0
-f7f3e1b10a9ed0733afadc7239809433915efa57,GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,MODIFY,22,1,1,167,2,2018-04-17 16:29:54+02:00,1.0,1.0,1.0
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,.gitignore,.gitignore,ModificationType.ADD,3,0,None,None,None
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,pom.xml,pom.xml,ModificationType.ADD,276,0,None,None,None
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/assembly/lambda.xml,lambda.xml,ModificationType.ADD,19,0,None,None,None
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,GreetingEndpoint.java,ModificationType.ADD,31,0,22,2,167
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/main/java/org/aws/samples/compute/greeting/GreetingHandler.java,GreetingHandler.java,ModificationType.ADD,48,0,34,1,312
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/main/java/org/aws/samples/compute/greeting/MyApplication.java,MyApplication.java,ModificationType.ADD,37,0,26,2,203
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/main/java/org/aws/samples/compute/greeting/StartupBean.java,StartupBean.java,ModificationType.ADD,35,0,28,3,203
+3e4f8f3b863d45b40bbd190031625faf0968d07f,2018-04-06 12:58:50-07:00,25200,2018-04-06 12:58:50-07:00,25200,True,False,microservices-greeting,1.0,1.0,0.8333333333333334,None,src/main/webapp/WEB-INF/web.xml,web.xml,ModificationType.ADD,18,0,None,None,None
+96d963701835a80a99755a729fab3f2eba005dfa,2018-04-16 12:17:12+02:00,-7200,2018-04-16 12:17:12+02:00,-7200,True,False,microservices-greeting,1.0,1.0,1.0,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,GreetingEndpoint.java,ModificationType.MODIFY,1,1,22,2,167
+f7f3e1b10a9ed0733afadc7239809433915efa57,2018-04-17 16:29:54+02:00,-7200,2018-04-17 16:29:54+02:00,-7200,True,False,microservices-greeting,1.0,1.0,1.0,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,src/main/java/org/aws/samples/compute/greeting/GreetingEndpoint.java,GreetingEndpoint.java,ModificationType.MODIFY,1,1,22,2,167

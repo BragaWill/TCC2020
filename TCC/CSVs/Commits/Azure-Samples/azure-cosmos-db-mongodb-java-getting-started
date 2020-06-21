@@ -1,20 +1,12 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-d03bc7eaaf29d4cf6ecd9e919494f175b8fa4151,.gitignore,None,.gitignore,ADD,None,12,0,None,None,2017-05-09 21:13:38-07:00,None,None,None
-c6ff07f31ae48253978b64171db04c1a4febffb5,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2017-05-09 21:13:43-07:00,None,None,None
-ab10d1e1c191a35ea2b1609d2e26ae6e63d1a036,README.md,None,README.md,ADD,None,3,0,None,None,2017-05-09 21:13:43-07:00,None,None,None
-7a0e4cf6154dfc0401fc16a666277e1186f1d896,pom.xml,None,pom.xml,ADD,None,33,0,None,None,2017-05-09 23:18:12-07:00,0.36363636363636365,1.0,1.0
-7a0e4cf6154dfc0401fc16a666277e1186f1d896,Program.java,None,src/main/java/MongoDBGetStarted/Program/Program.java,ADD,30,53,0,216,2,2017-05-09 23:18:12-07:00,0.36363636363636365,1.0,1.0
-7a0e4cf6154dfc0401fc16a666277e1186f1d896,AppTest.java,None,src/test/java/MongoDBGetStarted/Program/AppTest.java,ADD,20,38,0,75,3,2017-05-09 23:18:12-07:00,0.36363636363636365,1.0,1.0
-e1ad137ab5416ef20fbd53fd7f533eb5359473c0,pom.xml,pom.xml,pom.xml,MODIFY,None,15,3,None,None,2017-05-09 23:32:40-07:00,1.0,1.0,1.0
-e1ad137ab5416ef20fbd53fd7f533eb5359473c0,Program.java,src/main/java/MongoDBGetStarted/Program/Program.java,src/main/java/MongoDBGetStarted/Program/Program.java,MODIFY,30,3,3,216,2,2017-05-09 23:32:40-07:00,1.0,1.0,1.0
-e1ad137ab5416ef20fbd53fd7f533eb5359473c0,AppTest.java,src/test/java/MongoDBGetStarted/Program/AppTest.java,None,DELETE,None,0,38,None,None,2017-05-09 23:32:40-07:00,1.0,1.0,1.0
-2b93216ee0b9faa7a480c4ef56809c4bc04702ae,pom.xml,pom.xml,pom.xml,MODIFY,None,2,2,None,None,2017-05-09 23:33:51-07:00,None,None,None
-9898f82b7c05773243c08b5468e746ec20e899fa,Program.java,None,src/GetStarted/Program.java,ADD,30,53,0,216,2,2017-05-09 23:35:02-07:00,0.0,1.0,1.0
-d58acb6fc6b42902ea6e14287b5de5f9d681d308,README.md,README.md,README.md,MODIFY,None,33,2,None,None,2017-05-09 23:37:50-07:00,None,None,None
-914360b696b669e361cb41cda8c8dff8123a9888,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2017-05-09 23:38:31-07:00,None,None,None
-a85f2c3ffa38442e275ce9941e711fb004d59cca,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,30,1,1,214,2,2017-05-09 23:42:03-07:00,1.0,1.0,1.0
-a85f2c3ffa38442e275ce9941e711fb004d59cca,Program.java,src/main/java/MongoDBGetStarted/Program/Program.java,None,DELETE,None,0,53,None,None,2017-05-09 23:42:03-07:00,1.0,1.0,1.0
-c22c89349038c1575be01a819078502222ef0415,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2017-05-10 04:02:58-07:00,None,None,None
-981febffba7f8a028cc765491d8b3794e1c5ef13,README.md,README.md,README.md,MODIFY,None,6,7,None,None,2018-12-14 23:55:56-08:00,1.0,1.0,1.0
-981febffba7f8a028cc765491d8b3794e1c5ef13,Program.java,src/GetStarted/Program.java,src/GetStarted/Program.java,MODIFY,30,2,2,214,2,2018-12-14 23:55:56-08:00,1.0,1.0,1.0
-6689ce92b17a34d76137570ffd4cb534a2cf679f,README.md,README.md,README.md,MODIFY,None,7,3,None,None,2019-09-10 10:08:04-07:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+7a0e4cf6154dfc0401fc16a666277e1186f1d896,2017-05-09 23:18:12-07:00,25200,2017-05-09 23:18:12-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,0.36363636363636365,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,33,0,None,None,None
+7a0e4cf6154dfc0401fc16a666277e1186f1d896,2017-05-09 23:18:12-07:00,25200,2017-05-09 23:18:12-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,0.36363636363636365,1.0,1.0,None,src/main/java/MongoDBGetStarted/Program/Program.java,Program.java,ModificationType.ADD,53,0,30,2,216
+7a0e4cf6154dfc0401fc16a666277e1186f1d896,2017-05-09 23:18:12-07:00,25200,2017-05-09 23:18:12-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,0.36363636363636365,1.0,1.0,None,src/test/java/MongoDBGetStarted/Program/AppTest.java,AppTest.java,ModificationType.ADD,38,0,20,3,75
+e1ad137ab5416ef20fbd53fd7f533eb5359473c0,2017-05-09 23:32:40-07:00,25200,2017-05-09 23:32:40-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,15,3,None,None,None
+e1ad137ab5416ef20fbd53fd7f533eb5359473c0,2017-05-09 23:32:40-07:00,25200,2017-05-09 23:32:40-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,src/main/java/MongoDBGetStarted/Program/Program.java,src/main/java/MongoDBGetStarted/Program/Program.java,Program.java,ModificationType.MODIFY,3,3,30,2,216
+e1ad137ab5416ef20fbd53fd7f533eb5359473c0,2017-05-09 23:32:40-07:00,25200,2017-05-09 23:32:40-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,src/test/java/MongoDBGetStarted/Program/AppTest.java,None,AppTest.java,ModificationType.DELETE,0,38,None,None,None
+9898f82b7c05773243c08b5468e746ec20e899fa,2017-05-09 23:35:02-07:00,25200,2017-05-09 23:35:02-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,0.0,1.0,1.0,None,src/GetStarted/Program.java,Program.java,ModificationType.ADD,53,0,30,2,216
+a85f2c3ffa38442e275ce9941e711fb004d59cca,2017-05-09 23:42:03-07:00,25200,2017-05-09 23:42:03-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,1,1,30,2,214
+a85f2c3ffa38442e275ce9941e711fb004d59cca,2017-05-09 23:42:03-07:00,25200,2017-05-09 23:42:03-07:00,25200,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,src/main/java/MongoDBGetStarted/Program/Program.java,None,Program.java,ModificationType.DELETE,0,53,None,None,None
+981febffba7f8a028cc765491d8b3794e1c5ef13,2018-12-14 23:55:56-08:00,28800,2018-12-14 23:55:56-08:00,28800,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,6,7,None,None,None
+981febffba7f8a028cc765491d8b3794e1c5ef13,2018-12-14 23:55:56-08:00,28800,2018-12-14 23:55:56-08:00,28800,True,False,azure-cosmos-db-mongodb-java-getting-started,1.0,1.0,1.0,src/GetStarted/Program.java,src/GetStarted/Program.java,Program.java,ModificationType.MODIFY,2,2,30,2,214

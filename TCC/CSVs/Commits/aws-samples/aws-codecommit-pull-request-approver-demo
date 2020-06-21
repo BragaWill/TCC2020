@@ -1,12 +1,8 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-b6ebc37972bfe016a19822775202f211d7af41a7,CODE_OF_CONDUCT.md,None,CODE_OF_CONDUCT.md,ADD,None,4,0,None,None,2019-12-06 14:44:54-08:00,None,None,None
-b6ebc37972bfe016a19822775202f211d7af41a7,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,61,0,None,None,2019-12-06 14:44:54-08:00,None,None,None
-b6ebc37972bfe016a19822775202f211d7af41a7,LICENSE,None,LICENSE,ADD,None,15,0,None,None,2019-12-06 14:44:54-08:00,None,None,None
-b6ebc37972bfe016a19822775202f211d7af41a7,README.md,None,README.md,ADD,None,13,0,None,None,2019-12-06 14:44:54-08:00,None,None,None
-7015cee1002a09cb80ad5742f8177956d6cb6748,README.md,README.md,README.md,MODIFY,None,7,6,None,None,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,buildspec.yml,None,buildspec.yml,ADD,None,58,0,None,None,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,pom.xml,None,pom.xml,ADD,None,86,0,None,None,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,App.java,None,src/main/java/com/amazonaws/example/App.java,ADD,8,11,0,33,1,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,site.xml,None,src/site/site.xml,ADD,None,26,0,None,None,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,AppTest.java,None,src/test/java/com/amazonaws/example/AppTest.java,ADD,19,25,0,77,3,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
-7015cee1002a09cb80ad5742f8177956d6cb6748,template.yaml,None,template.yaml,ADD,None,194,0,None,None,2019-12-09 14:57:22-08:00,1.0,1.0,1.0
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,7,6,None,None,None
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,buildspec.yml,buildspec.yml,ModificationType.ADD,58,0,None,None,None
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,86,0,None,None,None
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,src/main/java/com/amazonaws/example/App.java,App.java,ModificationType.ADD,11,0,8,1,33
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,src/site/site.xml,site.xml,ModificationType.ADD,26,0,None,None,None
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,src/test/java/com/amazonaws/example/AppTest.java,AppTest.java,ModificationType.ADD,25,0,19,3,77
+7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,28800,2019-12-09 14:57:22-08:00,28800,True,False,aws-codecommit-pull-request-approver-demo,1.0,1.0,1.0,None,template.yaml,template.yaml,ModificationType.ADD,194,0,None,None,None

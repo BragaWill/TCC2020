@@ -1,16 +1,8 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-ca456955fa2d7f1191ced5d5c157774475d31eaf,README.md,None,README.md,ADD,None,15,0,None,None,2016-10-14 17:42:06-07:00,None,None,None
-329a101364a8df542aaf17c45e1d8d0f1c06e320,.gitignore,None,.gitignore,ADD,None,36,0,None,None,2016-10-14 18:32:59-07:00,0.4358974358974359,0.4358974358974359,1.0
-329a101364a8df542aaf17c45e1d8d0f1c06e320,pom.xml,None,pom.xml,ADD,None,62,0,None,None,2016-10-14 18:32:59-07:00,0.4358974358974359,0.4358974358974359,1.0
-329a101364a8df542aaf17c45e1d8d0f1c06e320,UploadDownloadApp.java,None,src/main/java/com/contoso/sample/UploadDownloadApp.java,ADD,97,130,0,864,9,2016-10-14 18:32:59-07:00,0.4358974358974359,0.4358974358974359,1.0
-13d22305b851a5276735937586fcd7dc022e1430,LICENSE.txt,None,LICENSE.txt,ADD,None,24,0,None,None,2016-10-14 18:34:44-07:00,None,None,None
-f5ed0ccc0fc3a2fa479246676f2b6d7cb78c82b9,README.md,README.md,README.md,MODIFY,None,0,1,None,None,2016-10-27 17:32:01-07:00,None,None,None
-b7b6cc173f2bf6846f130ee8a01f99a4922f65ec,pom.xml,pom.xml,pom.xml,MODIFY,None,2,11,None,None,2016-11-16 14:47:23-08:00,0.0,0.0,1.0
-b7b6cc173f2bf6846f130ee8a01f99a4922f65ec,UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,MODIFY,96,8,9,858,9,2016-11-16 14:47:23-08:00,0.0,0.0,1.0
-32046d524a1e5d4801e87a5e6975a67d8e2d993b,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2016-12-22 14:53:46-08:00,None,None,None
-644c176ba0e62c46db0cb50e3810e767b7339c04,pom.xml,pom.xml,pom.xml,MODIFY,None,5,1,None,None,2017-01-27 15:30:35-08:00,1.0,1.0,1.0
-644c176ba0e62c46db0cb50e3810e767b7339c04,UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,MODIFY,96,13,13,857,9,2017-01-27 15:30:35-08:00,1.0,1.0,1.0
-fd874db6f35752ccdc81c9dc337a5b89349061a1,pom.xml,pom.xml,pom.xml,MODIFY,None,1,1,None,None,2017-04-27 18:10:33-07:00,None,None,None
-9825d96fdede8a052b32054b71584fb9a9fc1d8e,pom.xml,pom.xml,pom.xml,MODIFY,None,2,2,None,None,2018-04-17 18:27:27-07:00,None,None,None
-749e6d4b2b5cd1a51ca39af603a5c9053488c69f,README.md,README.md,README.md,MODIFY,None,2,2,None,None,2018-09-18 12:58:15-07:00,None,None,None
-a8aeb9e9144f49ee3f48f6dcd607344661c5aae7,README.md,README.md,README.md,MODIFY,None,7,3,None,None,2019-09-13 23:58:45+05:18,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+329a101364a8df542aaf17c45e1d8d0f1c06e320,2016-10-14 18:32:59-07:00,25200,2016-10-14 18:32:59-07:00,25200,True,False,data-lake-store-java-upload-download-get-started,0.4358974358974359,0.4358974358974359,1.0,None,.gitignore,.gitignore,ModificationType.ADD,36,0,None,None,None
+329a101364a8df542aaf17c45e1d8d0f1c06e320,2016-10-14 18:32:59-07:00,25200,2016-10-14 18:32:59-07:00,25200,True,False,data-lake-store-java-upload-download-get-started,0.4358974358974359,0.4358974358974359,1.0,None,pom.xml,pom.xml,ModificationType.ADD,62,0,None,None,None
+329a101364a8df542aaf17c45e1d8d0f1c06e320,2016-10-14 18:32:59-07:00,25200,2016-10-14 18:32:59-07:00,25200,True,False,data-lake-store-java-upload-download-get-started,0.4358974358974359,0.4358974358974359,1.0,None,src/main/java/com/contoso/sample/UploadDownloadApp.java,UploadDownloadApp.java,ModificationType.ADD,130,0,97,9,864
+b7b6cc173f2bf6846f130ee8a01f99a4922f65ec,2016-11-16 14:47:23-08:00,28800,2016-11-16 14:47:23-08:00,28800,True,False,data-lake-store-java-upload-download-get-started,0.0,0.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,2,11,None,None,None
+b7b6cc173f2bf6846f130ee8a01f99a4922f65ec,2016-11-16 14:47:23-08:00,28800,2016-11-16 14:47:23-08:00,28800,True,False,data-lake-store-java-upload-download-get-started,0.0,0.0,1.0,src/main/java/com/contoso/sample/UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,UploadDownloadApp.java,ModificationType.MODIFY,8,9,96,9,858
+644c176ba0e62c46db0cb50e3810e767b7339c04,2017-01-27 15:30:35-08:00,28800,2017-01-27 15:30:35-08:00,28800,True,False,data-lake-store-java-upload-download-get-started,1.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,5,1,None,None,None
+644c176ba0e62c46db0cb50e3810e767b7339c04,2017-01-27 15:30:35-08:00,28800,2017-01-27 15:30:35-08:00,28800,True,False,data-lake-store-java-upload-download-get-started,1.0,1.0,1.0,src/main/java/com/contoso/sample/UploadDownloadApp.java,src/main/java/com/contoso/sample/UploadDownloadApp.java,UploadDownloadApp.java,ModificationType.MODIFY,13,13,96,9,857

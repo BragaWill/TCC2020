@@ -1,21 +1,10 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-32b5d391d5e608d6976e37893d6c6c478c07c51a,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2018-05-14 12:29:19-07:00,None,None,None
-1c4da8625266efc3c99e0ea4cc2b7163445b2970,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-05-14 12:29:27-07:00,None,None,None
-61bdb4add27d2afd17f8194e59714ef4891a9021,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-05-14 12:29:28-07:00,None,None,None
-c3fdc321596f66dce6930794cf229bf036edec28,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-05-14 12:29:29-07:00,None,None,None
-ef23f60a9d7e820a26e041438c37abd6176e00cc,README.md,None,README.md,ADD,None,57,0,None,None,2018-05-14 12:29:29-07:00,None,None,None
-74a843a4f1599d4ca61528bdd5af9aca321e66ec,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-05-14 12:29:30-07:00,None,None,None
-0185356dbb684d6c4d49d32adf6686ad171fd495,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-05-14 12:29:31-07:00,None,None,None
-4bf552429baf66d938166bbbbf71d38499d81d43,pom.xml,None,pom.xml,ADD,None,40,0,None,None,2018-05-14 16:11:23-07:00,0.36585365853658536,1.0,1.0
-4bf552429baf66d938166bbbbf71d38499d81d43,Main.java,None,src/main/java/com.microsoft.azure/Main.java,ADD,8,10,0,47,1,2018-05-14 16:11:23-07:00,0.36585365853658536,1.0,1.0
-4bf552429baf66d938166bbbbf71d38499d81d43,NetworkAclSample.java,None,src/main/java/com.microsoft.azure/NetworkAclSample.java,ADD,66,94,0,563,3,2018-05-14 16:11:23-07:00,0.36585365853658536,1.0,1.0
-192547a3e20723f4dc5b270f161d543346fb8c71,README.md,README.md,README.md,MODIFY,None,43,57,None,None,2018-05-14 16:17:01-07:00,None,None,None
-0f0efa0fa30a5a4952d3fe1ffca554456f421576,pom.xml,pom.xml,pom.xml,MODIFY,None,2,2,None,None,2018-05-18 09:44:22-07:00,0.0,1.0,1.0
-0f0efa0fa30a5a4952d3fe1ffca554456f421576,NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,MODIFY,81,18,1,663,3,2018-05-18 09:44:22-07:00,0.0,1.0,1.0
-bbf99714f00d71730aa235aaafb9e8a457f46660,NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,MODIFY,81,3,3,653,3,2018-05-18 11:53:56-07:00,1.0,1.0,1.0
-22295f549ffe57be3447bae923c2f285ee047a19,README.md,README.md,README.md,MODIFY,None,1,1,None,None,2018-05-23 16:40:19-07:00,None,None,None
-e20eca11b353158bb05d3cee15c1a077813dcf3e,README.md,README.md,README.md,MODIFY,None,6,0,None,None,2018-06-29 12:16:35-07:00,None,None,None
-6f565dd48fcda85eb9516f0c58dafd0f43f4e220,pom.xml,pom.xml,pom.xml,MODIFY,None,37,2,None,None,2018-07-02 15:55:06-07:00,1.0,1.0,1.0
-6f565dd48fcda85eb9516f0c58dafd0f43f4e220,Main.java,src/main/java/com.microsoft.azure/Main.java,src/main/java/com.microsoft.azure/Main.java,MODIFY,7,0,2,38,1,2018-07-02 15:55:06-07:00,1.0,1.0,1.0
-6f565dd48fcda85eb9516f0c58dafd0f43f4e220,NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,MODIFY,81,4,4,653,3,2018-07-02 15:55:06-07:00,1.0,1.0,1.0
-e17234851d57dc150a18d3457c85247bb86ee177,README.md,README.md,README.md,MODIFY,None,20,6,None,None,2018-07-02 15:57:03-07:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+4bf552429baf66d938166bbbbf71d38499d81d43,2018-05-14 16:11:23-07:00,25200,2018-05-14 16:11:23-07:00,25200,True,False,key-vault-java-network-acl,0.36585365853658536,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,40,0,None,None,None
+4bf552429baf66d938166bbbbf71d38499d81d43,2018-05-14 16:11:23-07:00,25200,2018-05-14 16:11:23-07:00,25200,True,False,key-vault-java-network-acl,0.36585365853658536,1.0,1.0,None,src/main/java/com.microsoft.azure/Main.java,Main.java,ModificationType.ADD,10,0,8,1,47
+4bf552429baf66d938166bbbbf71d38499d81d43,2018-05-14 16:11:23-07:00,25200,2018-05-14 16:11:23-07:00,25200,True,False,key-vault-java-network-acl,0.36585365853658536,1.0,1.0,None,src/main/java/com.microsoft.azure/NetworkAclSample.java,NetworkAclSample.java,ModificationType.ADD,94,0,66,3,563
+0f0efa0fa30a5a4952d3fe1ffca554456f421576,2018-05-18 09:44:22-07:00,25200,2018-05-18 09:44:22-07:00,25200,True,False,key-vault-java-network-acl,0.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,2,2,None,None,None
+0f0efa0fa30a5a4952d3fe1ffca554456f421576,2018-05-18 09:44:22-07:00,25200,2018-05-18 09:44:22-07:00,25200,True,False,key-vault-java-network-acl,0.0,1.0,1.0,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,NetworkAclSample.java,ModificationType.MODIFY,18,1,81,3,663
+bbf99714f00d71730aa235aaafb9e8a457f46660,2018-05-18 11:53:56-07:00,25200,2018-05-18 11:53:56-07:00,25200,True,False,key-vault-java-network-acl,1.0,1.0,1.0,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,NetworkAclSample.java,ModificationType.MODIFY,3,3,81,3,653
+6f565dd48fcda85eb9516f0c58dafd0f43f4e220,2018-07-02 15:55:06-07:00,25200,2018-07-02 15:55:06-07:00,25200,True,False,key-vault-java-network-acl,1.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,37,2,None,None,None
+6f565dd48fcda85eb9516f0c58dafd0f43f4e220,2018-07-02 15:55:06-07:00,25200,2018-07-02 15:55:06-07:00,25200,True,False,key-vault-java-network-acl,1.0,1.0,1.0,src/main/java/com.microsoft.azure/Main.java,src/main/java/com.microsoft.azure/Main.java,Main.java,ModificationType.MODIFY,0,2,7,1,38
+6f565dd48fcda85eb9516f0c58dafd0f43f4e220,2018-07-02 15:55:06-07:00,25200,2018-07-02 15:55:06-07:00,25200,True,False,key-vault-java-network-acl,1.0,1.0,1.0,src/main/java/com.microsoft.azure/NetworkAclSample.java,src/main/java/com.microsoft.azure/NetworkAclSample.java,NetworkAclSample.java,ModificationType.MODIFY,4,4,81,3,653

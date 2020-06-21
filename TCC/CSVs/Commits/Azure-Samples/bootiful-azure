@@ -1,21 +1,13 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-198e91f1d2191bd919a2f685e383302f97cdedc6,.gitignore,None,.gitignore,ADD,None,23,0,None,None,2018-11-27 18:08:55-08:00,None,None,None
-9df0461fd01a6f3862263ad6bcf5b9617aa4796f,CHANGELOG.md,None,CHANGELOG.md,ADD,None,13,0,None,None,2018-11-27 18:08:57-08:00,None,None,None
-8b38785a492d6e2a15161b59e171cbc9b10866aa,CONTRIBUTING.md,None,CONTRIBUTING.md,ADD,None,76,0,None,None,2018-11-27 18:08:57-08:00,None,None,None
-877a3feb9f4bc67c1407609fb7af5e496dd76072,LICENSE.md,None,LICENSE.md,ADD,None,21,0,None,None,2018-11-27 18:08:58-08:00,None,None,None
-4acfc88bcafc3531564cc0fe0be6b7441ed82d3e,README.md,None,README.md,ADD,None,57,0,None,None,2018-11-27 18:08:59-08:00,None,None,None
-612db6c4784bad0ca3c836cebbbb6f8a449c7a34,ISSUE_TEMPLATE.md,None,.github/ISSUE_TEMPLATE.md,ADD,None,33,0,None,None,2018-11-27 18:09:00-08:00,None,None,None
-eeb1c29d2e9d76bd8092752cc58fe734668f3aa1,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,45,0,None,None,2018-11-27 18:09:01-08:00,None,None,None
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,README.md,README.md,README.md,MODIFY,None,2,57,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,mvnw,None,mvnw,ADD,None,286,0,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,mvnw.cmd,None,mvnw.cmd,ADD,None,161,0,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,pom.xml,None,pom.xml,ADD,None,102,0,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,BootifulAzureApplication.java,None,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,ADD,149,186,0,1086,10,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,application.properties,None,src/main/resources/application.properties,ADD,None,19,0,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,cat.jpg,src/main/resources/cat.jpg,src/main/resources/cat.jpg,ADD,None,0,0,None,None,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-d6c78c1a61538efd3ecc681c2d2baf808a44a8be,BootifulAzureApplicationTests.java,None,src/test/java/com/example/bootifulazure/BootifulAzureApplicationTests.java,ADD,12,16,0,72,1,2018-11-28 03:19:25+01:00,0.7301587301587301,1.0,1.0
-a0fa4841f5d68bf7fc90dfd354c12378341c0eff,.gitignore,.gitignore,.gitignore,MODIFY,None,2,0,None,None,2018-11-28 04:55:20+01:00,1.0,1.0,1.0
-a0fa4841f5d68bf7fc90dfd354c12378341c0eff,pom.xml,pom.xml,pom.xml,MODIFY,None,16,13,None,None,2018-11-28 04:55:20+01:00,1.0,1.0,1.0
-a0fa4841f5d68bf7fc90dfd354c12378341c0eff,BootifulAzureApplication.java,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,MODIFY,141,50,56,908,10,2018-11-28 04:55:20+01:00,1.0,1.0,1.0
-a0fa4841f5d68bf7fc90dfd354c12378341c0eff,application.properties,src/main/resources/application.properties,src/main/resources/application.properties,MODIFY,None,0,19,None,None,2018-11-28 04:55:20+01:00,1.0,1.0,1.0
-33b29ba271d03988008ab3a4e34f12aa7898741b,application.properties,src/main/resources/application.properties,src/main/resources/application.properties,MODIFY,None,23,0,None,None,2018-11-28 04:58:32+01:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,README.md,README.md,README.md,ModificationType.MODIFY,2,57,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,mvnw,mvnw,ModificationType.ADD,286,0,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,mvnw.cmd,mvnw.cmd,ModificationType.ADD,161,0,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,pom.xml,pom.xml,ModificationType.ADD,102,0,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,BootifulAzureApplication.java,ModificationType.ADD,186,0,149,10,1086
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,src/main/resources/application.properties,application.properties,ModificationType.ADD,19,0,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,src/main/resources/cat.jpg,src/main/resources/cat.jpg,cat.jpg,ModificationType.ADD,0,0,None,None,None
+d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,-3600,2018-11-28 03:19:25+01:00,-3600,True,False,bootiful-azure,0.7301587301587301,1.0,1.0,None,src/test/java/com/example/bootifulazure/BootifulAzureApplicationTests.java,BootifulAzureApplicationTests.java,ModificationType.ADD,16,0,12,1,72
+a0fa4841f5d68bf7fc90dfd354c12378341c0eff,2018-11-28 04:55:20+01:00,-3600,2018-11-28 04:55:20+01:00,-3600,True,False,bootiful-azure,1.0,1.0,1.0,.gitignore,.gitignore,.gitignore,ModificationType.MODIFY,2,0,None,None,None
+a0fa4841f5d68bf7fc90dfd354c12378341c0eff,2018-11-28 04:55:20+01:00,-3600,2018-11-28 04:55:20+01:00,-3600,True,False,bootiful-azure,1.0,1.0,1.0,pom.xml,pom.xml,pom.xml,ModificationType.MODIFY,16,13,None,None,None
+a0fa4841f5d68bf7fc90dfd354c12378341c0eff,2018-11-28 04:55:20+01:00,-3600,2018-11-28 04:55:20+01:00,-3600,True,False,bootiful-azure,1.0,1.0,1.0,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,src/main/java/com/example/bootifulazure/BootifulAzureApplication.java,BootifulAzureApplication.java,ModificationType.MODIFY,50,56,141,10,908
+a0fa4841f5d68bf7fc90dfd354c12378341c0eff,2018-11-28 04:55:20+01:00,-3600,2018-11-28 04:55:20+01:00,-3600,True,False,bootiful-azure,1.0,1.0,1.0,src/main/resources/application.properties,src/main/resources/application.properties,application.properties,ModificationType.MODIFY,0,19,None,None,None

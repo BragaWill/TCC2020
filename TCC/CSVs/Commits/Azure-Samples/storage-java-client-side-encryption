@@ -1,11 +1,9 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-c87be38e571aaf1ca69919b2771d6c9f29262034,LICENSE,None,LICENSE,ADD,None,21,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,README.md,None,README.md,ADD,None,56,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,pom.xml,None,pom.xml,ADD,None,37,0,None,None,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,KeyVaultGettingStarted.java,None,src/gettingstarted/KeyVaultGettingStarted.java,ADD,94,199,0,758,3,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,KVCredentials.java,None,src/util/KVCredentials.java,ADD,58,117,0,383,6,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,KeyVaultUtility.java,None,src/util/KeyVaultUtility.java,ADD,98,165,0,701,15,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,LocalResolver.java,None,src/util/LocalResolver.java,ADD,16,54,0,135,2,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-c87be38e571aaf1ca69919b2771d6c9f29262034,Utility.java,None,src/util/Utility.java,ADD,22,68,0,105,2,2016-12-14 14:59:50-08:00,0.23,0.8,0.87
-6fb25fd91135c88c2a4c1840d289e5bb5e584423,README.md,README.md,README.md,MODIFY,None,13,18,None,None,2016-12-14 15:09:35-08:00,None,None,None
-a7f1cb6c46ca994c130f719dc7d48dca0c7e79da,README.md,README.md,README.md,MODIFY,None,2,1,None,None,2016-12-14 15:10:37-08:00,None,None,None
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,LICENSE,LICENSE,ModificationType.ADD,21,0,None,None,None
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,README.md,README.md,ModificationType.ADD,56,0,None,None,None
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,pom.xml,pom.xml,ModificationType.ADD,37,0,None,None,None
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,src/gettingstarted/KeyVaultGettingStarted.java,KeyVaultGettingStarted.java,ModificationType.ADD,199,0,94,3,758
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,src/util/KVCredentials.java,KVCredentials.java,ModificationType.ADD,117,0,58,6,383
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,src/util/KeyVaultUtility.java,KeyVaultUtility.java,ModificationType.ADD,165,0,98,15,701
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,src/util/LocalResolver.java,LocalResolver.java,ModificationType.ADD,54,0,16,2,135
+c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,28800,2016-12-14 14:59:50-08:00,28800,True,False,storage-java-client-side-encryption,0.23,0.8,0.87,None,src/util/Utility.java,Utility.java,ModificationType.ADD,68,0,22,2,105

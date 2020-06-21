@@ -1,9 +1,4 @@
-commit_hash,filename,old_path,new_path,change_type,added,removed,nloc,complexity,token_count,commiter_date,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
-d24e10856bb2a9a55397bd2c4a3bfc66601f5c74,README.md,None,README.md,ADD,None,2,0,None,None,2017-11-13 10:39:25-08:00,None,None,None
-4d2da071cdafc94740a75207d067857485a11039,PULL_REQUEST_TEMPLATE.md,None,.github/PULL_REQUEST_TEMPLATE.md,ADD,None,6,0,None,None,2017-11-13 10:39:26-08:00,None,None,None
-f1b4e9d0599afafd5478ba55b7504755d6031841,LICENSE,None,LICENSE,ADD,None,202,0,None,None,2017-11-13 10:39:27-08:00,None,None,None
-ca0f9014c133778a319ad4c95eaafaa9a05f0fd5,NOTICE,None,NOTICE,ADD,None,2,0,None,None,2017-11-13 10:39:27-08:00,None,None,None
-a9c04bf116d23dea56d25b2d34468f829440ccf0,README.md,README.md,README.md,MODIFY,None,5,2,None,None,2017-11-13 10:39:28-08:00,None,None,None
-c87948137759cb7c4479d9b8a90b848489bae701,CloudDirectoryDemo.java,None,CloudDirectoryDemo.java,ADD,378,580,0,2958,41,2017-11-26 21:33:42-08:00,0.551829268292683,1.0,0.8658536585365854
-c87948137759cb7c4479d9b8a90b848489bae701,organization.png,organization.png,organization.png,ADD,None,0,0,None,None,2017-11-26 21:33:42-08:00,0.551829268292683,1.0,0.8658536585365854
-521761b884a2878fa4e6155503a1ae3fc645aca2,CloudDirectoryDemo.java,CloudDirectoryDemo.java,CloudDirectoryDemo.java,MODIFY,378,1,1,2958,41,2017-11-27 11:55:49-08:00,1.0,1.0,1.0
+hash,author_date,author_timezone,committer_date,committer_timezone,in_main_branch,merge,project_name,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing,old_path,new_path,filename,change_type,added,removed,nloc,complexity,token_count
+c87948137759cb7c4479d9b8a90b848489bae701,2017-11-26 21:33:42-08:00,28800,2017-11-26 21:33:42-08:00,28800,True,False,amazon-cloud-directory-sample,0.551829268292683,1.0,0.8658536585365854,None,CloudDirectoryDemo.java,CloudDirectoryDemo.java,ModificationType.ADD,580,0,378,41,2958
+c87948137759cb7c4479d9b8a90b848489bae701,2017-11-26 21:33:42-08:00,28800,2017-11-26 21:33:42-08:00,28800,True,False,amazon-cloud-directory-sample,0.551829268292683,1.0,0.8658536585365854,organization.png,organization.png,organization.png,ModificationType.ADD,0,0,None,None,None
+521761b884a2878fa4e6155503a1ae3fc645aca2,2017-11-27 11:55:49-08:00,28800,2017-11-27 11:55:49-08:00,28800,True,False,amazon-cloud-directory-sample,1.0,1.0,1.0,CloudDirectoryDemo.java,CloudDirectoryDemo.java,CloudDirectoryDemo.java,ModificationType.MODIFY,1,1,378,41,2958
