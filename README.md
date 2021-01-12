@@ -1,4 +1,4 @@
-### TCC - Bacharelado em Sistemas de Informação UFMS
+### Análise de repositorios de Code Samples levantando métricas de processos e engenharia de software observando a evolução dos code samples ao longo do tempo.
 
 - Datasets http://facom.ufms.br/~cafeo/vem2020-reputation/
 - Linguagem Python 3.6
